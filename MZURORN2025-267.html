@@ -1,0 +1,117 @@
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<title>Pyrrhocorax graculus (Linnaeus, 1766)</title>
+<style>
+body {
+    font-family: "Georgia", serif;
+    margin: 0;
+    text-align: center;
+}
+.header {
+    display: grid;
+    grid-template-columns: 60px 1fr 60px;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    padding: 10px 20px;
+    z-index: 1000;
+    border-bottom: 2px solid #822433;
+}
+.header img {
+    height: 45px;
+}
+.header h1 {
+    margin: 0;
+    font-size: 28px;
+    color: #822433;
+    font-weight: bold;
+}
+.container {
+    margin-top: 30px;
+}
+.image-pair {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.image-pair img {
+    max-width: 45%;
+    max-height: 500px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    object-fit: contain;
+}
+table {
+    margin: 30px auto;
+    border-collapse: collapse;
+    width: 60%;
+    text-align: left;
+}
+td {
+    border: 1px solid #999;
+    padding: 10px;
+    background: #f8f8f8;
+}
+.scientific {
+    font-style: italic;
+}
+.footer-logo {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    height: 60px;
+}
+.btn-search {
+    display: inline-block;
+    padding: 6px 12px;
+    background-color: #822433;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.btn-search:hover {
+    background-color: #a0324c;
+}
+</style>
+</head>
+<body>
+<div class="header">
+    <a href="index.html"><img src="img/home.png" alt="Home"></a>
+    <h1 class="scientific">Pyrrhocorax graculus (Linnaeus, 1766)</h1>
+    <div style="text-align:right;">
+        <a href="search.html" class="btn-search">Search</a>
+    </div>
+</div>
+
+<div class="container">
+    <div class="image-pair">
+        <img src="img/MZURORN2025-267_1.jpg" alt="associatedMedia_1">
+        <img src="img/MZURORN2025-267_2.jpg" alt="associatedMedia_2">
+    </div>
+
+    <table>
+        <tr><td><b>Occurrence</b></td><td>MZURORN2025-267</td></tr>
+        <tr><td><b>Scientific name</b></td><td class="scientific">Pyrrhocorax graculus (Linnaeus, 1766)</td></tr>
+        <tr><td><b>Common name</b></td><td>Alpine chough</td></tr>
+        <tr><td><b>Sex</b></td><td>Male</td></tr>
+        <tr><td><b>Continent</b></td><td>Europa</td></tr>
+        <tr><td><b>Country</b></td><td>Italy</td></tr>
+        <tr><td><b>Locality</b></td><td>Limone Piemonte</td></tr>
+        <tr><td><b>Date</b></td><td>1960</td></tr>
+        <tr><td><b>Life stage</b></td><td>Adult</td></tr>
+        <tr><td><b>Latitude</b></td><td>44.200369</td></tr>
+        <tr><td><b>Longitude</b></td><td>7.571731</td></tr>
+    </table>
+</div>
+
+<img src="img/logo.png" class="footer-logo" alt="Logo">
+</body>
+</html>
