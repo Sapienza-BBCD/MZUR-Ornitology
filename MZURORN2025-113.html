@@ -1,173 +1,23 @@
-
-<!DOCTYPE html>
-<html lang="it">
-<head>
-<meta charset="UTF-8">
-<title>Tringa erythropus (Pallas, 1764)</title>
-<style>
-body {
-    font-family: Georgia, serif;
-    margin: 0;
-    text-align: center;
-}
-
-.lightbox {
-    display: none;
-    position: fixed;
-    z-index: 5000;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0,0,0,0.9);
-    justify-content: center;
-    align-items: center;
-}
-
-.lightbox img {
-    max-width: 95%;
-    max-height: 95%;
-    object-fit: contain;
-    border-radius: 10px;
-}
-
-.image-pair img {
-    cursor: zoom-in;
-}
-
-.header {
-    display: grid;
-    grid-template-columns: 60px 1fr 60px;
-    align-items: center;
-    position: sticky;
-    top: 0;
-    background: white;
-    padding: 10px 20px;
-    border-bottom: 2px solid #822433;
-}
-
-.header h1 {
-    margin: 0;
-    color: #822433;
-    font-style: italic;
-}
-
-.image-pair {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
-    margin-top: 20px;
-}
-
-.image-pair img {
-    max-height: 500px;
-    max-width: 45%;
-    border: 2px solid #822433;
-    border-radius: 8px;
-    object-fit: contain;
-}
-
-table {
-    margin: 30px auto;
-    border-collapse: collapse;
-    width: 65%;
-    text-align: left;
-}
-
-td {
-    border: 1px solid #999;
-    padding: 10px;
-    background: #f8f8f8;
-}
-
-td:first-child {
-    font-weight: bold;
-}
-
-.scientific {
-    font-style: italic;
-}
-
-.btn-search {
-    background: #822433;
-    color: white;
-    padding: 6px 12px;
-    text-decoration: none;
-    border-radius: 5px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    box-sizing: border-box;
-}
-
-.btn-search:hover {
-    background: #a0324c;
-}
-
-.footer-logo {
-    position: fixed;
-    bottom: 10px;
-    left: 10px;
-    height: 60px;
-}
-</style>
-</head>
-
-<body>
-
-<div class="header">
-    <a href="index.html"><img src="img/home.png" height="40"></a>
-    <h1>Tringa erythropus (Pallas, 1764)</h1>
-    <a class="btn-search" href="search.html">Search</a>
-</div>
-
-<div class="image-pair">
-
-    <img src="img/MZURORN2025-113_1.jpg" onclick="openImage(this.src)">
-
-    <img src="img/MZURORN2025-113_2.jpg" onclick="openImage(this.src)">
-
-</div>
-
-
-<div id="lightbox" class="lightbox" onclick="closeImage()">
-    <img id="lightbox-img">
-</div>
-
-<table>
-<tr><td>Occurrence</td><td>MZURORN2025-113</td></tr>
-<tr><td>Scientific name</td><td class="scientific">Tringa erythropus (Pallas, 1764)</td></tr>
-<tr><td>Common name</td><td>Spotted redshank</td></tr>
-<tr><td>Sex</td><td></td></tr>
-<tr><td>Continent</td><td>Europa</td></tr>
-<tr><td>Country</td><td>Italy</td></tr>
-<tr><td>Locality</td><td>Tarquinia</td></tr>
-<tr><td>Date</td><td>01/01/1970</td></tr>
-<tr><td>Life stage</td><td>Adult</td></tr>
-<tr><td>Latitude</td><td>42.25</td></tr>
-<tr><td>Longitude</td><td>11.75</td></tr>
-</table>
-
-<img class="footer-logo" src="img/logo.png">
-<script>
-
-function openImage(src) {
-
-    const lightbox = document.getElementById("lightbox");
-    const img = document.getElementById("lightbox-img");
-
-    img.src = src;
-
-    lightbox.style.display = "flex";
-}
-
-function closeImage() {
-
-    document.getElementById("lightbox").style.display = "none";
-}
-
-</script>
-</body>
-</html>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Tringa erythropus (Pallas, 1764) | Ornithological Collection</title><link rel="stylesheet" href="assets/style.css"></head><body>
+<header class="site-header"><a class="brand" href="index.html"><img src="img/home.png" alt="Home"><span>SAPIENZA · ZOOLOGICAL MUSEUM</span></a><nav class="nav"><a href="index.html">Home</a><a class="button" href="search.html">Search</a></nav></header>
+<main class="container"><div class="specimen-head"><div class="eyebrow">Collection / Specimen / MZURORN2025-113</div><h1>Tringa erythropus (Pallas, 1764)</h1><p class="lead">Spotted redshank</p></div>
+<section class="photo-grid" aria-label="Specimen photographs"><button class="photo-button" type="button" onclick="showPhoto('img/MZURORN2025-113'+'_1.jpg')"><img src="img/MZURORN2025-113_1.jpg" alt="First view of Tringa erythropus (Pallas, 1764)"><span>View 1 · Click to enlarge</span></button><button class="photo-button" type="button" onclick="showPhoto('img/MZURORN2025-113'+'_2.jpg')"><img src="img/MZURORN2025-113_2.jpg" alt="Second view of Tringa erythropus (Pallas, 1764)"><span>View 2 · Click to enlarge</span></button></section>
+<section class="details"><h2>Specimen information</h2><dl><div class="detail-row"><dt>Occurrence ID</dt><dd>MZURORN2025-113</dd></div>
+<div class="detail-row"><dt>Scientific name</dt><dd><em>Tringa erythropus (Pallas, 1764)</em></dd></div>
+<div class="detail-row"><dt>Authorship</dt><dd>Pallas, 1764</dd></div>
+<div class="detail-row"><dt>Common name</dt><dd>Spotted redshank</dd></div>
+<div class="detail-row"><dt>Order</dt><dd>Charadriiformes</dd></div>
+<div class="detail-row"><dt>Family</dt><dd>Scolopacidae</dd></div>
+<div class="detail-row"><dt>Genus</dt><dd>Tringa</dd></div>
+<div class="detail-row"><dt>Life stage</dt><dd>Adult</dd></div>
+<div class="detail-row"><dt>Continent</dt><dd>Europa</dd></div>
+<div class="detail-row"><dt>Country</dt><dd>Italy</dd></div>
+<div class="detail-row"><dt>Region</dt><dd>Lazio</dd></div>
+<div class="detail-row"><dt>Locality</dt><dd>Tarquinia</dd></div>
+<div class="detail-row"><dt>Date</dt><dd>01/01/1886</dd></div>
+<div class="detail-row"><dt>Latitude</dt><dd>42.25</dd></div>
+<div class="detail-row"><dt>Longitude</dt><dd>11.75</dd></div>
+<div class="detail-row"><dt>Coordinate uncertainty (m)</dt><dd>2539</dd></div>
+<div class="detail-row"><dt>Identifier</dt><dd>Ex coll. Setacci</dd></div></dl></section><nav class="pager" aria-label="Specimen navigation"><a class="outline" href="MZURORN2025-008.html">← Previous</a><a class="outline" href="MZURORN2025-114.html">Next →</a></nav></main>
+<dialog class="lightbox" id="lightbox" aria-label="Enlarged specimen photograph"><button class="close" type="button" onclick="document.getElementById('lightbox').close()" aria-label="Close photograph">×</button><img id="zoom" alt="Enlarged specimen photograph"></dialog><footer class="footer"><img src="img/logo.png" alt="Institutional logo">Zoological Museum · Sapienza University of Rome</footer>
+<script>function showPhoto(src){document.getElementById('zoom').src=src;document.getElementById('lightbox').showModal()}document.getElementById('lightbox').addEventListener('click',e=>{if(e.target.tagName==='DIALOG')e.target.close()})</script></body></html>
