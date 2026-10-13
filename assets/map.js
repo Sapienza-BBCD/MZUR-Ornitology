@@ -7,13 +7,28 @@
  const map=L.map('collection-map',{scrollWheelZoom:true}).setView([42.5,12.5],5);
  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'© OpenStreetMap contributors'}).addTo(map);
  const cluster=L.markerClusterGroup({showCoverageOnHover:false,maxClusterRadius:45});map.addLayer(cluster);
+ // Show the Darwin Core coordinate uncertainty radius only for the open specimen popup.
+ let uncertaintyCircle=null;
+ function clearUncertaintyCircle(){if(uncertaintyCircle){map.removeLayer(uncertaintyCircle);uncertaintyCircle=null;}}
+ map.on('popupclose',clearUncertaintyCircle);
  const q=document.getElementById('map-query'),o=document.getElementById('map-order'),f=document.getElementById('map-family'),g=document.getElementById('map-genus');
  const clean=s=>String(s||'');
  const escape=s=>clean(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  function options(select,vals,label,keep){select.replaceChildren(new Option(label,''));[...new Set(vals.filter(Boolean))].sort((a,b)=>a.localeCompare(b)).forEach(x=>select.add(new Option(x,x)));select.value=keep&&[...select.options].some(x=>x.value===keep)?keep:'';}
  function menus(){const order=o.value,family=f.value,genus=g.value;options(o,data.map(x=>x.order),'All orders',order);const filtered=data.filter(x=>!o.value||x.order===o.value);options(f,filtered.map(x=>x.family),'All families',family);const ff=filtered.filter(x=>!f.value||x.family===f.value);options(g,ff.map(x=>x.genus),'All genera',genus);}
- function update(){menus();const term=q.value.trim().toLocaleLowerCase();const filtered=data.filter(x=>(!o.value||x.order===o.value)&&(!f.value||x.family===f.value)&&(!g.value||x.genus===g.value)&&(!term||[x.name,x.locality,x.country,x.id].some(v=>clean(v).toLocaleLowerCase().includes(term))));cluster.clearLayers();const points=[];
- for(const x of filtered){const marker=L.marker([x.lat,x.lon]);marker.bindPopup('<strong><em>'+escape(x.name)+'</em></strong><br>'+escape(x.locality||x.country||'Locality not specified')+'<br>Occurrence: '+escape(x.id)+(x.uncertainty?'<br>Coordinate uncertainty (m): '+escape(x.uncertainty):'')+'<br><a href="'+encodeURIComponent(x.id)+'.html">View specimen →</a>');points.push(marker);}cluster.addLayers(points);
+ function update(){menus();const term=q.value.trim().toLocaleLowerCase();const filtered=data.filter(x=>(!o.value||x.order===o.value)&&(!f.value||x.family===f.value)&&(!g.value||x.genus===g.value)&&(!term||[x.name,x.locality,x.country,x.id].some(v=>clean(v).toLocaleLowerCase().includes(term))));clearUncertaintyCircle();cluster.clearLayers();const points=[];
+ for(const x of filtered){const marker=L.marker([x.lat,x.lon]);marker.bindPopup('<strong><em>'+escape(x.name)+'</em></strong><br>'+escape(x.locality||x.country||'Locality not specified')+'<br>Occurrence: '+escape(x.id)+(x.uncertainty?'<br>Coordinate uncertainty (m): '+escape(x.uncertainty):'')+'<br><a href="'+encodeURIComponent(x.id)+'.html">View specimen →</a>');marker.on('popupopen',()=>{
+   clearUncertaintyCircle();
+   const radius=Number(x.uncertainty);
+   if(Number.isFinite(radius)&&radius>0){
+     uncertaintyCircle=L.circle([x.lat,x.lon],{
+       radius, color:'#822433', weight:2, opacity:0.8,
+       fillColor:'#822433', fillOpacity:0.12, interactive:false
+     }).addTo(map);
+     uncertaintyCircle.bringToBack();
+   }
+ });
+ points.push(marker);}cluster.addLayers(points);
  status.textContent=filtered.length+' mapped specimen'+(filtered.length===1?'':'s')+' · '+data.length+' total georeferenced records';
  }
  o.addEventListener('change',()=>{f.value='';g.value='';update()});f.addEventListener('change',()=>{g.value='';update()});g.addEventListener('change',update);q.addEventListener('input',update);
