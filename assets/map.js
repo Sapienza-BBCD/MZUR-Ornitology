@@ -4,7 +4,7 @@
  let data;
  try{const response=await fetch('data/map_points.json');if(!response.ok)throw Error('HTTP '+response.status);data=await response.json();}
  catch(e){status.textContent='Cannot load map data. Open the site through GitHub Pages or a local web server (not file://).';return;}
- const map=L.map('collection-map',{scrollWheelZoom:false}).setView([42.5,12.5],5);
+ const map=L.map('collection-map',{scrollWheelZoom:true}).setView([42.5,12.5],5);
  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'© OpenStreetMap contributors'}).addTo(map);
  const cluster=L.markerClusterGroup({showCoverageOnHover:false,maxClusterRadius:45});map.addLayer(cluster);
  const q=document.getElementById('map-query'),o=document.getElementById('map-order'),f=document.getElementById('map-family'),g=document.getElementById('map-genus');
