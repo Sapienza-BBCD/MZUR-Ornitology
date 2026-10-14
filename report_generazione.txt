@@ -1,5 +1,5 @@
 Schede generate: 297
-Specie: 157
-Ordini: 23
+Specie: 155
+Ordini: 22
 
 Problemi (0):
