@@ -1,0 +1,2982 @@
+[
+  {
+    "id": "MZURORN2025-030",
+    "name": "Accipiter nisus (Linnaeus, 1758)",
+    "common": "Eurasian sparrowhawk",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Accipiter",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-119",
+    "name": "Accipiter nisus (Linnaeus, 1758)",
+    "common": "Eurasian sparrowhawk",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Accipiter",
+    "country": "Italy",
+    "locality": "Limone Piemonte"
+  },
+  {
+    "id": "MZURORN2025-120",
+    "name": "Accipiter nisus (Linnaeus, 1758)",
+    "common": "Eurasian sparrowhawk",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Accipiter",
+    "country": "Italy",
+    "locality": "Valdieri"
+  },
+  {
+    "id": "MZURORN2025-121",
+    "name": "Accipiter nisus (Linnaeus, 1758)",
+    "common": "Eurasian sparrowhawk",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Accipiter",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-122",
+    "name": "Accipiter nisus (Linnaeus, 1758)",
+    "common": "Eurasian sparrowhawk",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Accipiter",
+    "country": "Italy",
+    "locality": "Fiumicino"
+  },
+  {
+    "id": "MZURORN2025-115",
+    "name": "Actitis hypoleucos (Linnaeus, 1758)",
+    "common": "Common sandpiper",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Actitis",
+    "country": "Italy",
+    "locality": "Valle Millecampi"
+  },
+  {
+    "id": "MZURORN2025-254",
+    "name": "Aegithalos caudatus (Linnaeus, 1758)",
+    "common": "Long-tailed tit",
+    "order": "Passeriformes",
+    "family": "Aegithalidae",
+    "genus": "Aegithalos",
+    "country": "Italy",
+    "locality": "Confreria"
+  },
+  {
+    "id": "MZURORN2025-206",
+    "name": "Alauda arvensis (Linnaeus, 1758)",
+    "common": "Eurasian skylark",
+    "order": "Passeriformes",
+    "family": "Aegithalidae",
+    "genus": "Alauda",
+    "country": "Italy",
+    "locality": "NA"
+  },
+  {
+    "id": "MZURORN2025-207",
+    "name": "Alauda arvensis (Linnaeus, 1758)",
+    "common": "Eurasian skylark",
+    "order": "Passeriformes",
+    "family": "Aegithalidae",
+    "genus": "Alauda",
+    "country": "Italy",
+    "locality": "Ager Romanus"
+  },
+  {
+    "id": "MZURORN2025-186",
+    "name": "Alcedo atthis (Linnaeus, 1758)",
+    "common": "Common kingfisher",
+    "order": "Coraciiformes",
+    "family": "Alcedinidae",
+    "genus": "Alcedo",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-187",
+    "name": "Alcedo atthis (Linnaeus, 1758)",
+    "common": "Common kingfisher",
+    "order": "Coraciiformes",
+    "family": "Alcedinidae",
+    "genus": "Alcedo",
+    "country": "Italy",
+    "locality": "Cuneo"
+  },
+  {
+    "id": "MZURORN2025-060",
+    "name": "Alectoris chukar (J. E. Gray, 1830)",
+    "common": "Red-winged tinamou",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "genus": "Alectoris",
+    "country": "Guatemala",
+    "locality": "NA"
+  },
+  {
+    "id": "MZURORN2025-129",
+    "name": "Alectoris graeca (Meisner, 1804)",
+    "common": "Rock partridge",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "genus": "Alectoris",
+    "country": "Italy",
+    "locality": "Limone Piemonte"
+  },
+  {
+    "id": "MZURORN2025-055",
+    "name": "Anas acuta (Linnaeus, 1758)",
+    "common": "Northern pintail",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Anas",
+    "country": "Italy",
+    "locality": "Valle Morosina"
+  },
+  {
+    "id": "MZURORN2025-069",
+    "name": "Anas acuta (Linnaeus, 1758)",
+    "common": "Northern pintail",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Anas",
+    "country": "Italy",
+    "locality": "Valle Morosina"
+  },
+  {
+    "id": "MZURORN2025-049",
+    "name": "Anas crecca (Linnaeus, 1758)",
+    "common": "Eurasian teal",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Anas",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-078",
+    "name": "Anas crecca (Linnaeus, 1758)",
+    "common": "Eurasian teal",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Anas",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-075",
+    "name": "Anas penelope (Linnaeus, 1758)",
+    "common": "Eurasian wigeon",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Anas",
+    "country": "Italy",
+    "locality": "Saline di Tarquinia"
+  },
+  {
+    "id": "MZURORN2025-076",
+    "name": "Anas penelope (Linnaeus, 1758)",
+    "common": "Eurasian wigeon",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Anas",
+    "country": "Italy",
+    "locality": "Saline di Tarquinia"
+  },
+  {
+    "id": "MZURORN2025-053",
+    "name": "Anas platyrhynchos (Linnaeus, 1758)",
+    "common": "Mallard",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Anas",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-057",
+    "name": "Anas platyrhynchos (Linnaeus, 1758)",
+    "common": "Mallard",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Anas",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-079",
+    "name": "Anas platyrhynchos (Linnaeus, 1758)",
+    "common": "Mallard",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Anas",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-080",
+    "name": "Anas platyrhynchos (Linnaeus, 1758)",
+    "common": "Mallard",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Anas",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-081",
+    "name": "Anas platyrhynchos (Linnaeus, 1758)",
+    "common": "Mallard",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Anas",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-068",
+    "name": "Anas querquedula (Linnaeus, 1758)",
+    "common": "Garganey",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Anas",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-077",
+    "name": "Anas querquedula (Linnaeus, 1758)",
+    "common": "Garganey",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Anas",
+    "country": "Italy",
+    "locality": "Casale Monferrato"
+  },
+  {
+    "id": "MZURORN2025-092",
+    "name": "Anser albifrons (Scopoli, 1769)",
+    "common": "Greater white-fronted goose",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Anser",
+    "country": "Italy",
+    "locality": "Valle Morosina"
+  },
+  {
+    "id": "MZURORN2025-204",
+    "name": "Anthus trivialis (Linnaeus, 1758)",
+    "common": "Tree pipit",
+    "order": "Passeriformes",
+    "family": "Motacillidae",
+    "genus": "Anthus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-179",
+    "name": "Apus apus (Linnaeus, 1758)",
+    "common": "Common swift",
+    "order": "Apodiformes",
+    "family": "Apodidae",
+    "genus": "Apus",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-151",
+    "name": "Aquila chrysaetos (Linnaeus, 1758)",
+    "common": "Golden eagle",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Aquila",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-084",
+    "name": "Ardea alba (Linnaeus, 1758)",
+    "common": "Great egret",
+    "order": "Pelecaniformes",
+    "family": "Ardeidae",
+    "genus": "Ardea",
+    "country": "Italy",
+    "locality": "Campo di Mare"
+  },
+  {
+    "id": "MZURORN2025-038",
+    "name": "Ardea purpurea (Linnaeus, 1766)",
+    "common": "Purple heron",
+    "order": "Pelecaniformes",
+    "family": "Ardeidae",
+    "genus": "Ardea",
+    "country": "Italy",
+    "locality": "Battaglia Terme"
+  },
+  {
+    "id": "MZURORN2025-041",
+    "name": "Ardea purpurea (Linnaeus, 1766)",
+    "common": "Purple heron",
+    "order": "Pelecaniformes",
+    "family": "Ardeidae",
+    "genus": "Ardea",
+    "country": "Italy",
+    "locality": "Maccarese"
+  },
+  {
+    "id": "MZURORN2025-091",
+    "name": "Ardea purpurea (Linnaeus, 1766)",
+    "common": "Purple heron",
+    "order": "Pelecaniformes",
+    "family": "Ardeidae",
+    "genus": "Ardea",
+    "country": "Italy",
+    "locality": "Maccarese"
+  },
+  {
+    "id": "MZURORN2025-093",
+    "name": "Ardea purpurea (Linnaeus, 1766)",
+    "common": "Purple heron",
+    "order": "Pelecaniformes",
+    "family": "Ardeidae",
+    "genus": "Ardea",
+    "country": "Italy",
+    "locality": "Roccavione"
+  },
+  {
+    "id": "MZURORN2025-094",
+    "name": "Ardea purpurea (Linnaeus, 1766)",
+    "common": "Purple heron",
+    "order": "Pelecaniformes",
+    "family": "Ardeidae",
+    "genus": "Ardea",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-176",
+    "name": "Asio flammeus (Pontoppidan, 1763)",
+    "common": "Short-eared owl",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Asio",
+    "country": "Italy",
+    "locality": "Limone Piemonte"
+  },
+  {
+    "id": "MZURORN2025-177",
+    "name": "Asio flammeus (Pontoppidan, 1763)",
+    "common": "Short-eared owl",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Asio",
+    "country": "Italy",
+    "locality": "Limone Piemonte"
+  },
+  {
+    "id": "MZURORN2025-178",
+    "name": "Asio otus (Linnaeus, 1758)",
+    "common": "Long-eared owl",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Asio",
+    "country": "Italy",
+    "locality": "Pietraporzio"
+  },
+  {
+    "id": "MZURORN2025-147",
+    "name": "Astur gentilis (Linnaeus, 1758)",
+    "common": "Eurasian goshawk",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Astur",
+    "country": "Italy",
+    "locality": "Limone Piemonte"
+  },
+  {
+    "id": "MZURORN2025-148",
+    "name": "Astur gentilis (Linnaeus, 1758)",
+    "common": "Eurasian goshawk",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Astur",
+    "country": "Italy",
+    "locality": "Limone Piemonte"
+  },
+  {
+    "id": "MZURORN2025-039",
+    "name": "Athene noctua (Scopoli, 1769)",
+    "common": "Little owl",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Athene",
+    "country": "Italy",
+    "locality": "Confreria"
+  },
+  {
+    "id": "MZURORN2025-044",
+    "name": "Athene noctua (Scopoli, 1769)",
+    "common": "Little owl",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Athene",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-175",
+    "name": "Athene noctua (Scopoli, 1769)",
+    "common": "Little owl",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Athene",
+    "country": "Italy",
+    "locality": "Confreria"
+  },
+  {
+    "id": "MZURORN2025-048",
+    "name": "Aythya ferina (Linnaeus, 1758)",
+    "common": "Common pochard",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Aythya",
+    "country": "Italy",
+    "locality": "Casale Monferrato"
+  },
+  {
+    "id": "MZURORN2025-051",
+    "name": "Aythya ferina (Linnaeus, 1758)",
+    "common": "Common pochard",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Aythya",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-063",
+    "name": "Aythya ferina (Linnaeus, 1758)",
+    "common": "Common pochard",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Aythya",
+    "country": "Italy",
+    "locality": "Casale Monferrato"
+  },
+  {
+    "id": "MZURORN2025-073",
+    "name": "Aythya ferina (Linnaeus, 1758)",
+    "common": "Common pochard",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Aythya",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-054",
+    "name": "Aythya nyroca (Guldenstadt, 1770)",
+    "common": "Ferruginous duck",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Aythya",
+    "country": "Italy",
+    "locality": "Tarquinia"
+  },
+  {
+    "id": "MZURORN2025-064",
+    "name": "Aythya nyroca (Guldenstadt, 1770)",
+    "common": "Ferruginous duck",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Aythya",
+    "country": "Italy",
+    "locality": "Valle Millecampi"
+  },
+  {
+    "id": "MZURORN2025-085",
+    "name": "Botaurus stellaris (Linnaeus, 1758)",
+    "common": "Eurasian bittern",
+    "order": "Ciconiiformes",
+    "family": "Ardeidae",
+    "genus": "Botaurus",
+    "country": "Italy",
+    "locality": "Fusina"
+  },
+  {
+    "id": "MZURORN2025-040",
+    "name": "Bubo bubo (Linnaeus, 1758)",
+    "common": "Eurasian eagle-owl",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Bubo",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-152",
+    "name": "Bubo bubo (Linnaeus, 1758)",
+    "common": "Eurasian eagle-owl",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Bubo",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-025",
+    "name": "Buteo buteo (Linnaeus, 1758)",
+    "common": "Common buzzard",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Buteo",
+    "country": "Italy",
+    "locality": "Vernante"
+  },
+  {
+    "id": "MZURORN2025-045",
+    "name": "Buteo buteo (Linnaeus, 1758)",
+    "common": "Common buzzard",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Buteo",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-047",
+    "name": "Buteo buteo (Linnaeus, 1758)",
+    "common": "Common buzzard",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Buteo",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-149",
+    "name": "Buteo buteo (Linnaeus, 1758)",
+    "common": "Common buzzard",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Buteo",
+    "country": "Italy",
+    "locality": "Casal de' Pazzi"
+  },
+  {
+    "id": "MZURORN2025-150",
+    "name": "Buteo buteo (Linnaeus, 1758)",
+    "common": "Common buzzard",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Buteo",
+    "country": "Italy",
+    "locality": "Robilante"
+  },
+  {
+    "id": "MZURORN2025-109",
+    "name": "Calidris minuta (Leisler, 1812)",
+    "common": "Little stint",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Calidris",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-102",
+    "name": "Calidris pugnax (Linnaeus, 1758)",
+    "common": "Ruff",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Calidris",
+    "country": "Italy",
+    "locality": "Tarquinia"
+  },
+  {
+    "id": "MZURORN2025-103",
+    "name": "Calidris pugnax (Linnaeus, 1758)",
+    "common": "Ruff",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Calidris",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-104",
+    "name": "Calidris pugnax (Linnaeus, 1758)",
+    "common": "Ruff",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Calidris",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-105",
+    "name": "Calidris pugnax (Linnaeus, 1758)",
+    "common": "Ruff",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Calidris",
+    "country": "Italy",
+    "locality": "Ager Romanus"
+  },
+  {
+    "id": "MZURORN2025-153",
+    "name": "Caprimulgus europaeus (Linnaeus, 1758)",
+    "common": "European nightjar",
+    "order": "Caprimulgiformes",
+    "family": "Caprimulgidae",
+    "genus": "Caprimulgus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-154",
+    "name": "Caprimulgus europaeus (Linnaeus, 1758)",
+    "common": "European nightjar",
+    "order": "Caprimulgiformes",
+    "family": "Caprimulgidae",
+    "genus": "Caprimulgus",
+    "country": "Italy",
+    "locality": "Zannone Island"
+  },
+  {
+    "id": "MZURORN2025-155",
+    "name": "Caprimulgus europaeus (Linnaeus, 1758)",
+    "common": "European nightjar",
+    "order": "Caprimulgiformes",
+    "family": "Caprimulgidae",
+    "genus": "Caprimulgus",
+    "country": "Italy",
+    "locality": "Zannone Island"
+  },
+  {
+    "id": "MZURORN2025-271",
+    "name": "Carduelis carduelis (Linnaeus, 1758)",
+    "common": "European goldfinch",
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "genus": "Carduelis",
+    "country": "Italy",
+    "locality": "Confreria"
+  },
+  {
+    "id": "MZURORN2025-244",
+    "name": "Certhia brachydactyla (Brehm, 1820)",
+    "common": "Short-toed treecreeper",
+    "order": "Passeriformes",
+    "family": "Certhiidae",
+    "genus": "Certhia",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-245",
+    "name": "Certhia brachydactyla (Brehm, 1820)",
+    "common": "Short-toed treecreeper",
+    "order": "Passeriformes",
+    "family": "Certhiidae",
+    "genus": "Certhia",
+    "country": "Italy",
+    "locality": "Confreria"
+  },
+  {
+    "id": "MZURORN2025-246",
+    "name": "Certhia brachydactyla (Brehm, 1820)",
+    "common": "Short-toed treecreeper",
+    "order": "Passeriformes",
+    "family": "Certhiidae",
+    "genus": "Certhia",
+    "country": "Italy",
+    "locality": "Piano Quinto"
+  },
+  {
+    "id": "MZURORN2025-233",
+    "name": "Cettia cetti (Temminck, 1820)",
+    "common": "Cetti's warbler",
+    "order": "Passeriformes",
+    "family": "Cettiidae",
+    "genus": "Cettia",
+    "country": "Italy",
+    "locality": "Sutri"
+  },
+  {
+    "id": "MZURORN2025-098",
+    "name": "Charadrius dubius (Scopoli, 1786)",
+    "common": "Little ringed plover",
+    "order": "Charadriiformes",
+    "family": "Charadriidae",
+    "genus": "Charadrius",
+    "country": "Italy",
+    "locality": "Tarquinia"
+  },
+  {
+    "id": "MZURORN2025-099",
+    "name": "Charadrius hiaticula (Linnaeus, 1758)",
+    "common": "Common ringed plover",
+    "order": "Charadriiformes",
+    "family": "Charadriidae",
+    "genus": "Charadrius",
+    "country": "Italy",
+    "locality": "Tarquinia"
+  },
+  {
+    "id": "MZURORN2025-164",
+    "name": "Chlidonias niger (Linnaeus, 1758)",
+    "common": "Black tern",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Chlidonias",
+    "country": "Italy",
+    "locality": "Pietraporzio"
+  },
+  {
+    "id": "MZURORN2025-165",
+    "name": "Chlidonias niger (Linnaeus, 1758)",
+    "common": "Black tern",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Chlidonias",
+    "country": "Italy",
+    "locality": "Chioggia"
+  },
+  {
+    "id": "MZURORN2025-274",
+    "name": "Chloris chloris (Linnaeus, 1758)",
+    "common": "European greenfinch",
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "genus": "Chloris",
+    "country": "Italy",
+    "locality": "Tivoli"
+  },
+  {
+    "id": "MZURORN2025-275",
+    "name": "Chloris chloris (Linnaeus, 1758)",
+    "common": "European greenfinch",
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "genus": "Chloris",
+    "country": "Italy",
+    "locality": "Padua"
+  },
+  {
+    "id": "MZURORN2025-166",
+    "name": "Chroicocephalus ridibundus (Linnaeus, 1766)",
+    "common": "Black-headed gull",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Chroicocephalus",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-196",
+    "name": "Cinclus cinclus (Linnaeus, 1758)",
+    "common": "White-throated dipper",
+    "order": "Passeriformes",
+    "family": "Cinclidae",
+    "genus": "Cinclus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-197",
+    "name": "Cinclus cinclus (Linnaeus, 1758)",
+    "common": "White-throated dipper",
+    "order": "Passeriformes",
+    "family": "Cinclidae",
+    "genus": "Cinclus",
+    "country": "Italy",
+    "locality": "Cuneo"
+  },
+  {
+    "id": "MZURORN2025-027",
+    "name": "Circus aeruginosus (Linnaeus, 1758)",
+    "common": "Western marsh harrier",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Circus",
+    "country": "Italy",
+    "locality": "Selvazzano"
+  },
+  {
+    "id": "MZURORN2025-146",
+    "name": "Circus aeruginosus (Linnaeus, 1758)",
+    "common": "Western marsh harrier",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Circus",
+    "country": "Italy",
+    "locality": "Dronero"
+  },
+  {
+    "id": "MZURORN2025-145",
+    "name": "Circus cyaneus (Linnaeus, 1766)",
+    "common": "Hen harrier",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Circus",
+    "country": "France",
+    "locality": "Saint-Dalmas-de-Tende"
+  },
+  {
+    "id": "MZURORN2025-279",
+    "name": "Coccothraustes coccothraustes (Brisson, 1760)",
+    "common": "Hawfinch",
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "genus": "Coccothraustes",
+    "country": "Italy",
+    "locality": "Roccasparvera"
+  },
+  {
+    "id": "MZURORN2025-281",
+    "name": "Coccothraustes coccothraustes (Brisson, 1760)",
+    "common": "Hawfinch",
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "genus": "Coccothraustes",
+    "country": "Italy",
+    "locality": "Roccasparvera"
+  },
+  {
+    "id": "MZURORN2025-282",
+    "name": "Coccothraustes coccothraustes (Brisson, 1760)",
+    "common": "Hawfinch",
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "genus": "Coccothraustes",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-260",
+    "name": "Coloeus monedula (Linnaeus, 1758)",
+    "common": "Western jackdaw",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Coloeus",
+    "country": "Italy",
+    "locality": "Ager Romanus"
+  },
+  {
+    "id": "MZURORN2025-261",
+    "name": "Coloeus monedula (Linnaeus, 1758)",
+    "common": "Western jackdaw",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Coloeus",
+    "country": "Italy",
+    "locality": "Ager Romanus"
+  },
+  {
+    "id": "MZURORN2025-161",
+    "name": "Columba palumbus (Linnaeus, 1758)",
+    "common": "Common wood pigeon",
+    "order": "Columbiformes",
+    "family": "Columbidae",
+    "genus": "Columba",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-163",
+    "name": "Columba palumbus (Linnaeus, 1758)",
+    "common": "Common wood pigeon",
+    "order": "Columbiformes",
+    "family": "Columbidae",
+    "genus": "Columba",
+    "country": "Italy",
+    "locality": "Castelporziano"
+  },
+  {
+    "id": "MZURORN2025-183",
+    "name": "Coracias garrulus (Linnaeus, 1758)",
+    "common": "European roller",
+    "order": "Coraciiformes",
+    "family": "Coraciidae",
+    "genus": "Coracias",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-011",
+    "name": "Corvus albus (Statius Müller, 1776)",
+    "common": "Pied crow",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Corvus",
+    "country": "Ethiopia",
+    "locality": "Shewa"
+  },
+  {
+    "id": "MZURORN2025-258",
+    "name": "Corvus corax (Linnaeus, 1758)",
+    "common": "Common raven",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Corvus",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-262",
+    "name": "Corvus corone (Linnaeus, 1758)",
+    "common": "Carrion crow",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Corvus",
+    "country": "Italy",
+    "locality": "Demonte"
+  },
+  {
+    "id": "MZURORN2025-263",
+    "name": "Corvus corone (Linnaeus, 1758)",
+    "common": "Carrion crow",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Corvus",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-259",
+    "name": "Corvus frugilegus (Linnaeus, 1758)",
+    "common": "Rook",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Corvus",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-133",
+    "name": "Coturnix coturnix (Linnaeus, 1758)",
+    "common": "Common quail",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "genus": "Coturnix",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-135",
+    "name": "Coturnix coturnix (Linnaeus, 1758)",
+    "common": "Common quail",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "genus": "Coturnix",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-136",
+    "name": "Coturnix coturnix (Linnaeus, 1758)",
+    "common": "Common quail",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "genus": "Coturnix",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-156",
+    "name": "Cuculus canorus (Linnaeus, 1758)",
+    "common": "Common cuckoo",
+    "order": "Cuculiformes",
+    "family": "Cuculidae",
+    "genus": "Cuculus",
+    "country": "Italy",
+    "locality": "Castelporziano"
+  },
+  {
+    "id": "MZURORN2025-157",
+    "name": "Cuculus canorus (Linnaeus, 1758)",
+    "common": "Common cuckoo",
+    "order": "Cuculiformes",
+    "family": "Cuculidae",
+    "genus": "Cuculus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-158",
+    "name": "Cuculus canorus (Linnaeus, 1758)",
+    "common": "Common cuckoo",
+    "order": "Cuculiformes",
+    "family": "Cuculidae",
+    "genus": "Cuculus",
+    "country": "Italy",
+    "locality": "Furbara"
+  },
+  {
+    "id": "MZURORN2025-228",
+    "name": "Curruca hortensis (Gmelin, 1789)",
+    "common": "Western Orphean warbler",
+    "order": "Passeriformes",
+    "family": "Sylviidae",
+    "genus": "Curruca",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-256",
+    "name": "Cyanistes caeruleus (Linnaeus, 1758)",
+    "common": "Eurasian blue tit",
+    "order": "Passeriformes",
+    "family": "Paridae",
+    "genus": "Cyanistes",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-017",
+    "name": "Dendrocopos major (Linnaeus, 1758)",
+    "common": "Great spotted woodpecker",
+    "order": "Piciformes",
+    "family": "Picidae",
+    "genus": "Dendrocopos",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-018",
+    "name": "Dendrocopos major (Linnaeus, 1758)",
+    "common": "Great spotted woodpecker",
+    "order": "Piciformes",
+    "family": "Picidae",
+    "genus": "Dendrocopos",
+    "country": "Italy",
+    "locality": "Ager Romanus"
+  },
+  {
+    "id": "MZURORN2025-214",
+    "name": "Dendrocopos major (Linnaeus, 1758)",
+    "common": "Great spotted woodpecker",
+    "order": "Piciformes",
+    "family": "Picidae",
+    "genus": "Dendrocopos",
+    "country": "Italy",
+    "locality": "Italia settentrionale"
+  },
+  {
+    "id": "MZURORN2025-215",
+    "name": "Dendrocopos major (Linnaeus, 1758)",
+    "common": "Great spotted woodpecker",
+    "order": "Piciformes",
+    "family": "Picidae",
+    "genus": "Dendrocopos",
+    "country": "Italy",
+    "locality": "Piano Quinto"
+  },
+  {
+    "id": "MZURORN2025-211",
+    "name": "Dryobates minor (Linnaeus, 1758)",
+    "common": "Lesser spotted woodpecker",
+    "order": "Piciformes",
+    "family": "Picidae",
+    "genus": "Dryobates",
+    "country": "Italy",
+    "locality": "Confreria"
+  },
+  {
+    "id": "MZURORN2025-083",
+    "name": "Egretta garzetta (Linnaeus, 1766)",
+    "common": "Little egret",
+    "order": "Pelecaniformes",
+    "family": "Ardeidae",
+    "genus": "Egretta",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-298",
+    "name": "Emberiza calandra (Linnaeus, 1758)",
+    "common": "Corn bunting",
+    "order": "Pelecaniformes",
+    "family": "Emberizidae",
+    "genus": "Emberiza",
+    "country": "Italy",
+    "locality": "Zannone Island"
+  },
+  {
+    "id": "MZURORN2025-295",
+    "name": "Emberiza citrinella (Linnaeus, 1758)",
+    "common": "Yellowhammer",
+    "order": "Pelecaniformes",
+    "family": "Emberizidae",
+    "genus": "Emberiza",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-296",
+    "name": "Emberiza citrinella (Linnaeus, 1758)",
+    "common": "Yellowhammer",
+    "order": "Pelecaniformes",
+    "family": "Emberizidae",
+    "genus": "Emberiza",
+    "country": "Italy",
+    "locality": "Boves"
+  },
+  {
+    "id": "MZURORN2025-297",
+    "name": "Emberiza citrinella (Linnaeus, 1758)",
+    "common": "Yellowhammer",
+    "order": "Pelecaniformes",
+    "family": "Emberizidae",
+    "genus": "Emberiza",
+    "country": "Italy",
+    "locality": "Noventa Padovana"
+  },
+  {
+    "id": "MZURORN2025-007",
+    "name": "Eriocnemis vestita (Lesson, 1839)",
+    "common": "Glowing puffleg",
+    "order": "Apodiformes",
+    "family": "Trochilidae",
+    "genus": "Eriocnemis",
+    "country": "Venezuela",
+    "locality": "NA"
+  },
+  {
+    "id": "MZURORN2025-022",
+    "name": "Erithacus rubecula (Linnaeus, 1758)",
+    "common": "European robin",
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "genus": "Erithacus",
+    "country": "Italy",
+    "locality": "Sambuci"
+  },
+  {
+    "id": "MZURORN2025-189",
+    "name": "Erithacus rubecula (Linnaeus, 1758)",
+    "common": "European robin",
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "genus": "Erithacus",
+    "country": "Italy",
+    "locality": "Sambuci"
+  },
+  {
+    "id": "MZURORN2025-058",
+    "name": "Eudyptes Chrysolophus (Brandt, 1837)",
+    "common": "",
+    "order": "",
+    "family": "",
+    "genus": "Eudyptes",
+    "country": "",
+    "locality": "Mari el sud"
+  },
+  {
+    "id": "MZURORN2025-126",
+    "name": "Falco naumanni (Fleischer, 1818)",
+    "common": "Lesser kestrel",
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "genus": "Falco",
+    "country": "Italy",
+    "locality": "Zannone Island"
+  },
+  {
+    "id": "MZURORN2025-123",
+    "name": "Falco subbuteo (Linnaeus, 1758)",
+    "common": "Eurasian hobby",
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "genus": "Falco",
+    "country": "Italy",
+    "locality": "Zannone Island"
+  },
+  {
+    "id": "MZURORN2025-124",
+    "name": "Falco subbuteo (Linnaeus, 1758)",
+    "common": "Eurasian hobby",
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "genus": "Falco",
+    "country": "Italy",
+    "locality": "Limone Piemonte"
+  },
+  {
+    "id": "MZURORN2025-125",
+    "name": "Falco subbuteo (Linnaeus, 1758)",
+    "common": "Eurasian hobby",
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "genus": "Falco",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-028",
+    "name": "Falco tinnunculus (Linnaeus, 1758)",
+    "common": "Common kestrel",
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "genus": "Falco",
+    "country": "Italy",
+    "locality": "Cuneo"
+  },
+  {
+    "id": "MZURORN2025-029",
+    "name": "Falco tinnunculus (Linnaeus, 1758)",
+    "common": "Common kestrel",
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "genus": "Falco",
+    "country": "Italy",
+    "locality": "Limone Piemonte"
+  },
+  {
+    "id": "MZURORN2025-130",
+    "name": "Falco tinnunculus (Linnaeus, 1758)",
+    "common": "Common kestrel",
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "genus": "Falco",
+    "country": "Italy",
+    "locality": "Cuneo"
+  },
+  {
+    "id": "MZURORN2025-131",
+    "name": "Falco tinnunculus (Linnaeus, 1758)",
+    "common": "Common kestrel",
+    "order": "Falconiformes",
+    "family": "Falconidae",
+    "genus": "Falco",
+    "country": "Italy",
+    "locality": "Vinadio"
+  },
+  {
+    "id": "MZURORN2025-253",
+    "name": "Ficedula hypoleuca (Pallas, 1764)",
+    "common": "European pied flycatcher",
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "genus": "Ficedula",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-023",
+    "name": "Fringilla coelebs (Linnaeus, 1758)",
+    "common": "Eurasian chaffinch",
+    "order": "Passeriformes",
+    "family": "Fringillinae",
+    "genus": "Fringilla",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-268",
+    "name": "Fringilla coelebs (Linnaeus, 1758)",
+    "common": "Eurasian chaffinch",
+    "order": "Passeriformes",
+    "family": "Fringillinae",
+    "genus": "Fringilla",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-269",
+    "name": "Fringilla coelebs (Linnaeus, 1758)",
+    "common": "Eurasian chaffinch",
+    "order": "Passeriformes",
+    "family": "Fringillinae",
+    "genus": "Fringilla",
+    "country": "Italy",
+    "locality": "Selvazzano"
+  },
+  {
+    "id": "MZURORN2025-270",
+    "name": "Fringilla montifringilla (Linnaeus, 1758)",
+    "common": "Brambling",
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "genus": "Fringilla",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-033",
+    "name": "Fulica atra (Linnaeus, 1758)",
+    "common": "Eurasian coot",
+    "order": "Gruiformes",
+    "family": "Rallidae",
+    "genus": "Fulica",
+    "country": "Italy",
+    "locality": "Pietraporzio"
+  },
+  {
+    "id": "MZURORN2025-034",
+    "name": "Fulica atra (Linnaeus, 1758)",
+    "common": "Eurasian coot",
+    "order": "Gruiformes",
+    "family": "Rallidae",
+    "genus": "Fulica",
+    "country": "Italy",
+    "locality": "Pietraporzio"
+  },
+  {
+    "id": "MZURORN2025-138",
+    "name": "Fulica atra (Linnaeus, 1758)",
+    "common": "Eurasian coot",
+    "order": "Gruiformes",
+    "family": "Rallidae",
+    "genus": "Fulica",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-203",
+    "name": "Galerida cristata (Linnaeus, 1758)",
+    "common": "Crested lark",
+    "order": "Passeriformes",
+    "family": "Alaudidae",
+    "genus": "Galerida",
+    "country": "Italy",
+    "locality": "Ager Romanus"
+  },
+  {
+    "id": "MZURORN2025-108",
+    "name": "Gallinago gallinago (Linnaeus, 1758)",
+    "common": "Common snipe",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Gallinago",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-110",
+    "name": "Gallinago gallinago (Linnaeus, 1758)",
+    "common": "Common snipe",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Gallinago",
+    "country": "Italy",
+    "locality": "Piano Quinto"
+  },
+  {
+    "id": "MZURORN2025-106",
+    "name": "Gallinago media (Latham, 1787)",
+    "common": "Great snipe",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Gallinago",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-035",
+    "name": "Gallinula chloropus (Linnaeus, 1758)",
+    "common": "Common moorhen",
+    "order": "Gruiformes",
+    "family": "Rallidae",
+    "genus": "Gallinula",
+    "country": "Italy",
+    "locality": "Limone Piemonte"
+  },
+  {
+    "id": "MZURORN2025-139",
+    "name": "Gallinula chloropus (Linnaeus, 1758)",
+    "common": "Common moorhen",
+    "order": "Gruiformes",
+    "family": "Rallidae",
+    "genus": "Gallinula",
+    "country": "Italy",
+    "locality": "Limone Piemonte"
+  },
+  {
+    "id": "MZURORN2025-001",
+    "name": "Garrulus glandarius (Linnaeus, 1758)",
+    "common": "Eurasian jay",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Garrulus",
+    "country": "Italy",
+    "locality": "Castelporziano"
+  },
+  {
+    "id": "MZURORN2025-005",
+    "name": "Garrulus glandarius (Linnaeus, 1758)",
+    "common": "Eurasian jay",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Garrulus",
+    "country": "Italy",
+    "locality": "Castelporziano"
+  },
+  {
+    "id": "MZURORN2025-239",
+    "name": "Garrulus glandarius (Linnaeus, 1758)",
+    "common": "Eurasian jay",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Garrulus",
+    "country": "Italy",
+    "locality": "Piano Quinto"
+  },
+  {
+    "id": "MZURORN2025-240",
+    "name": "Garrulus glandarius (Linnaeus, 1758)",
+    "common": "Eurasian jay",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Garrulus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-071",
+    "name": "Gavia stellata (Pontoppidan, 1763)",
+    "common": "Red-throated loon",
+    "order": "Gaviiformes",
+    "family": "Gaviidae",
+    "genus": "Gavia",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-087",
+    "name": "Gavia stellata (Pontoppidan, 1763)",
+    "common": "Strolaga minore",
+    "order": "Gaviiformes",
+    "family": "Gaviidae",
+    "genus": "Gavia",
+    "country": "Italy",
+    "locality": "Ostia"
+  },
+  {
+    "id": "MZURORN2025-174",
+    "name": "Glaucidium passerinum (Linnaeus, 1758)",
+    "common": "Eurasian pygmy owl",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Glaucidium",
+    "country": "Italy",
+    "locality": "La Cascina, Cuneo"
+  },
+  {
+    "id": "MZURORN2025-097",
+    "name": "Himantopus himantopus (Linnaeus, 1758)",
+    "common": "Black-winged stilt",
+    "order": "Charadriiformes",
+    "family": "Recurvirostridae",
+    "genus": "Himantopus",
+    "country": "Italy",
+    "locality": "Fiumicino"
+  },
+  {
+    "id": "MZURORN2025-205",
+    "name": "Hirundo rustica (Linnaeus, 1758)",
+    "common": "Barn swallow",
+    "order": "Passeriformes",
+    "family": "Hirundinidae",
+    "genus": "Hirundo",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-167",
+    "name": "Hydrocoloeus minutus (Pallas, 1776)",
+    "common": "Little gull",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Hydrocoloeus",
+    "country": "Italy",
+    "locality": "Jesolo"
+  },
+  {
+    "id": "MZURORN2025-169",
+    "name": "Ichthyaetus melanocephalus (Temminck, 1820)",
+    "common": "Mediterranean gull",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Ichthyaetus",
+    "country": "Italy",
+    "locality": "Fiumicino"
+  },
+  {
+    "id": "MZURORN2025-020",
+    "name": "Jynx torquilla (Linnaeus, 1758)",
+    "common": "Eurasian wryneck",
+    "order": "Piciformes",
+    "family": "Picidae",
+    "genus": "Jynx",
+    "country": "Italy",
+    "locality": "NA"
+  },
+  {
+    "id": "MZURORN2025-208",
+    "name": "Jynx torquilla (Linnaeus, 1758)",
+    "common": "Eurasian wryneck",
+    "order": "Piciformes",
+    "family": "Picidae",
+    "genus": "Jynx",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-210",
+    "name": "Jynx torquilla (Linnaeus, 1758)",
+    "common": "Eurasian wryneck",
+    "order": "Piciformes",
+    "family": "Picidae",
+    "genus": "Jynx",
+    "country": "Italy",
+    "locality": "Castelletto Stura"
+  },
+  {
+    "id": "MZURORN2025-212",
+    "name": "Jynx torquilla (Linnaeus, 1758)",
+    "common": "Eurasian wryneck",
+    "order": "Piciformes",
+    "family": "Picidae",
+    "genus": "Jynx",
+    "country": "Italy",
+    "locality": "Fontanelle di Boves"
+  },
+  {
+    "id": "MZURORN2025-127",
+    "name": "Lagopus muta (Montin, 1781)",
+    "common": "Rock ptarmigan",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "genus": "Lagopus",
+    "country": "Italy",
+    "locality": "Palanfrè"
+  },
+  {
+    "id": "MZURORN2025-128",
+    "name": "Lagopus muta (Montin, 1781)",
+    "common": "Rock ptarmigan",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "genus": "Lagopus",
+    "country": "Italy",
+    "locality": "S. Anna di Vinadio"
+  },
+  {
+    "id": "MZURORN2025-243",
+    "name": "Lanius senator (Linnaeus, 1758)",
+    "common": "Woodchat shrike",
+    "order": "Passeriformes",
+    "family": "Laniidae",
+    "genus": "Lanius",
+    "country": "Italy",
+    "locality": "Cuneo"
+  },
+  {
+    "id": "MZURORN2025-117",
+    "name": "Limosa limosa (Linnaeus, 1758)",
+    "common": "Black-tailed godwit",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Limosa",
+    "country": "Italy",
+    "locality": "Tarquinia"
+  },
+  {
+    "id": "MZURORN2025-272",
+    "name": "Linaria cannabina (Linnaeus, 1758)",
+    "common": "Common linnet",
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "genus": "Linaria",
+    "country": "Italy",
+    "locality": "Padua"
+  },
+  {
+    "id": "MZURORN2025-276",
+    "name": "Loxia curvirostra (Linnaeus, 1758)",
+    "common": "Red crossbill",
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "genus": "Loxia",
+    "country": "Italy",
+    "locality": "Italia settentrionale"
+  },
+  {
+    "id": "MZURORN2025-192",
+    "name": "Luscinia megarhynchos (Brehm, 1831)",
+    "common": "Common nightingale",
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "genus": "Luscinia",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-046",
+    "name": "Mareca penelope (Linnaeus, 1758)",
+    "common": "Eurasian wigeon",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Mareca",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-056",
+    "name": "Mareca penelope (Linnaeus, 1758)",
+    "common": "Eurasian wigeon",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Mareca",
+    "country": "Italy",
+    "locality": "Pontine Marshes"
+  },
+  {
+    "id": "MZURORN2025-062",
+    "name": "Mergellus albellus (Linnaeus, 1758)",
+    "common": "Smew",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Mergellus",
+    "country": "Italy",
+    "locality": "Valle Morosina"
+  },
+  {
+    "id": "MZURORN2025-061",
+    "name": "Mergus serrator (Linnaeus, 1758)",
+    "common": "Red-breasted merganser",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Mergus",
+    "country": "Italy",
+    "locality": "Maccarese"
+  },
+  {
+    "id": "MZURORN2025-074",
+    "name": "Mergus serrator (Linnaeus, 1758)",
+    "common": "Red-breasted merganser",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Mergus",
+    "country": "Italy",
+    "locality": "Maccarese"
+  },
+  {
+    "id": "MZURORN2025-185",
+    "name": "Merops apiaster (Linnaeus, 1758)",
+    "common": "European bee-eater",
+    "order": "Coraciiformes",
+    "family": "Meropidae",
+    "genus": "Merops",
+    "country": "Italy",
+    "locality": "Ager Romanus"
+  },
+  {
+    "id": "MZURORN2025-144",
+    "name": "Milvus migrans (Boddaert, 1783)",
+    "common": "Black kite",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Milvus",
+    "country": "Italy",
+    "locality": "Policoro"
+  },
+  {
+    "id": "MZURORN2025-143",
+    "name": "Milvus milvus (Linnaeus, 1758)",
+    "common": "Red kite",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Milvus",
+    "country": "Italy",
+    "locality": "Castelporziano"
+  },
+  {
+    "id": "MZURORN2025-199",
+    "name": "Monticola alba (Linnaeus, 1758)",
+    "common": "White wagtail",
+    "order": "Passeriformes",
+    "family": "Motacillidae",
+    "genus": "Monticola",
+    "country": "Italy",
+    "locality": "Padua"
+  },
+  {
+    "id": "MZURORN2025-201",
+    "name": "Monticola alba (Linnaeus, 1758)",
+    "common": "White wagtail",
+    "order": "Passeriformes",
+    "family": "Motacillidae",
+    "genus": "Monticola",
+    "country": "Italy",
+    "locality": "Padua"
+  },
+  {
+    "id": "MZURORN2025-200",
+    "name": "Monticola cinerea (Tunstall, 1771)",
+    "common": "Grey wagtail",
+    "order": "Passeriformes",
+    "family": "Motacillidae",
+    "genus": "Monticola",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-202",
+    "name": "Monticola cinerea (Tunstall, 1771)",
+    "common": "Grey wagtail",
+    "order": "Passeriformes",
+    "family": "Motacillidae",
+    "genus": "Monticola",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-224",
+    "name": "Monticola solitarius (Linnaeus, 1758)",
+    "common": "Blue rock thrush",
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "genus": "Monticola",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-065",
+    "name": "Netta rufina (Pallas, 1773)",
+    "common": "Red-crested pochard",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Netta",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-004",
+    "name": "Nucifraga caryocatactes (Linnaeus, 1758)",
+    "common": "Northern nutcracker",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Nucifraga",
+    "country": "Italy",
+    "locality": "Monte Scalambra"
+  },
+  {
+    "id": "MZURORN2025-238",
+    "name": "Nucifraga caryocatactes (Linnaeus, 1758)",
+    "common": "Northern nutcracker",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Nucifraga",
+    "country": "Italy",
+    "locality": "Cuneo"
+  },
+  {
+    "id": "MZURORN2025-112",
+    "name": "Numenius arquata (Linnaeus, 1758)",
+    "common": "Eurasian curlew",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Numenius",
+    "country": "Italy",
+    "locality": "Cuneo"
+  },
+  {
+    "id": "MZURORN2025-116",
+    "name": "Numenius arquata (Linnaeus, 1758)",
+    "common": "Eurasian curlew",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Numenius",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-037",
+    "name": "Nycticorax nycticorax (Linnaeus, 1758)",
+    "common": "Black-crowned night heron",
+    "order": "Pelecaniformes",
+    "family": "Ardeidae",
+    "genus": "Nycticorax",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-082",
+    "name": "Nycticorax nycticorax (Linnaeus, 1758)",
+    "common": "Black-crowned night heron",
+    "order": "Pelecaniformes",
+    "family": "Ardeidae",
+    "genus": "Nycticorax",
+    "country": "Italy",
+    "locality": "Padua"
+  },
+  {
+    "id": "MZURORN2025-086",
+    "name": "Nycticorax nycticorax (Linnaeus, 1758)",
+    "common": "Black-crowned night heron",
+    "order": "Pelecaniformes",
+    "family": "Ardeidae",
+    "genus": "Nycticorax",
+    "country": "Italy",
+    "locality": "Roccasparvera"
+  },
+  {
+    "id": "MZURORN2025-223",
+    "name": "Oenanthe oenanthe (Linnaeus, 1758)",
+    "common": "Northern wheatear",
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "genus": "Oenanthe",
+    "country": "Italy",
+    "locality": "Fiumicino"
+  },
+  {
+    "id": "MZURORN2025-024",
+    "name": "Oriolus oriolus (Linnaeus, 1758)",
+    "common": "Eurasian golden oriole",
+    "order": "Passeriformes",
+    "family": "Oriolidae",
+    "genus": "Oriolus",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-247",
+    "name": "Oriolus oriolus (Linnaeus, 1758)",
+    "common": "Eurasian golden oriole",
+    "order": "Passeriformes",
+    "family": "Oriolidae",
+    "genus": "Oriolus",
+    "country": "Italy",
+    "locality": "Padua"
+  },
+  {
+    "id": "MZURORN2025-248",
+    "name": "Oriolus oriolus (Linnaeus, 1758)",
+    "common": "Eurasian golden oriole",
+    "order": "Passeriformes",
+    "family": "Oriolidae",
+    "genus": "Oriolus",
+    "country": "Italy",
+    "locality": "Padua"
+  },
+  {
+    "id": "MZURORN2025-043",
+    "name": "Otus scops (Linnaeus, 1758)",
+    "common": "Eurasian scops owl",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Otus",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-170",
+    "name": "Otus scops (Linnaeus, 1758)",
+    "common": "Eurasian scops owl",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Otus",
+    "country": "Italy",
+    "locality": "Pietraporzio"
+  },
+  {
+    "id": "MZURORN2025-015",
+    "name": "Parus major (Linnaeus, 1758)",
+    "common": "Great tit",
+    "order": "Passeriformes",
+    "family": "Paridae",
+    "genus": "Parus",
+    "country": "Italy",
+    "locality": "Padua"
+  },
+  {
+    "id": "MZURORN2025-016",
+    "name": "Parus major (Linnaeus, 1758)",
+    "common": "Great tit",
+    "order": "Passeriformes",
+    "family": "Paridae",
+    "genus": "Parus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-249",
+    "name": "Parus major (Linnaeus, 1758)",
+    "common": "Great tit",
+    "order": "Passeriformes",
+    "family": "Paridae",
+    "genus": "Parus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-250",
+    "name": "Parus major (Linnaeus, 1758)",
+    "common": "Great tit",
+    "order": "Passeriformes",
+    "family": "Paridae",
+    "genus": "Parus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-251",
+    "name": "Parus major (Linnaeus, 1758)",
+    "common": "Great tit",
+    "order": "Passeriformes",
+    "family": "Paridae",
+    "genus": "Parus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-252",
+    "name": "Parus major (Linnaeus, 1758)",
+    "common": "Great tit",
+    "order": "Passeriformes",
+    "family": "Paridae",
+    "genus": "Parus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-293",
+    "name": "Passer domesticus (Linnaeus, 1758)",
+    "common": "House sparrow",
+    "order": "Passeriformes",
+    "family": "Passeridae",
+    "genus": "Passer",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-294",
+    "name": "Passer domesticus (Linnaeus, 1758)",
+    "common": "House sparrow",
+    "order": "Passeriformes",
+    "family": "Passeridae",
+    "genus": "Passer",
+    "country": "Italy",
+    "locality": "Moriglione"
+  },
+  {
+    "id": "MZURORN2025-013",
+    "name": "Passer italiae (Viellot, 1817)",
+    "common": "Italian sparrow",
+    "order": "Passeriformes",
+    "family": "Passeridae",
+    "genus": "Passer",
+    "country": "Italy",
+    "locality": "Padua"
+  },
+  {
+    "id": "MZURORN2025-014",
+    "name": "Passer italiae (Viellot, 1817)",
+    "common": "Italian sparrow",
+    "order": "Passeriformes",
+    "family": "Passeridae",
+    "genus": "Passer",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-292",
+    "name": "Passer italiae (Viellot, 1817)",
+    "common": "Italian sparrow",
+    "order": "Passeriformes",
+    "family": "Passeridae",
+    "genus": "Passer",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-021",
+    "name": "Passer montanus (Linnaeus, 1758)",
+    "common": "Eurasian tree sparrow",
+    "order": "Passeriformes",
+    "family": "Passeridae",
+    "genus": "Passer",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-289",
+    "name": "Passer montanus (Linnaeus, 1758)",
+    "common": "Eurasian tree sparrow",
+    "order": "Passeriformes",
+    "family": "Passeridae",
+    "genus": "Passer",
+    "country": "Italy",
+    "locality": "Ferrere da Bersezio"
+  },
+  {
+    "id": "MZURORN2025-290",
+    "name": "Passer montanus (Linnaeus, 1758)",
+    "common": "Eurasian tree sparrow",
+    "order": "Passeriformes",
+    "family": "Passeridae",
+    "genus": "Passer",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-291",
+    "name": "Passer montanus (Linnaeus, 1758)",
+    "common": "Eurasian tree sparrow",
+    "order": "Passeriformes",
+    "family": "Passeridae",
+    "genus": "Passer",
+    "country": "Italy",
+    "locality": "Ferrere da Bersezio"
+  },
+  {
+    "id": "MZURORN2025-288",
+    "name": "Pastor roseus (Linnaeus, 1758)",
+    "common": "Rosy starling",
+    "order": "Passeriformes",
+    "family": "Sturnidae",
+    "genus": "Pastor",
+    "country": "Italy",
+    "locality": "Verona"
+  },
+  {
+    "id": "MZURORN2025-132",
+    "name": "Perdix perdix (Linnaeus, 1758)",
+    "common": "Grey partridge",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "genus": "Perdix",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-026",
+    "name": "Pernis apivorus (Linnaeus, 1758)",
+    "common": "European honey buzzard",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Pernis",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-140",
+    "name": "Pernis apivorus (Linnaeus, 1758)",
+    "common": "European honey buzzard",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Pernis",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-141",
+    "name": "Pernis apivorus (Linnaeus, 1758)",
+    "common": "European honey buzzard",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Pernis",
+    "country": "Italy",
+    "locality": "Zannone Island"
+  },
+  {
+    "id": "MZURORN2025-142",
+    "name": "Pernis apivorus (Linnaeus, 1758)",
+    "common": "European honey buzzard",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Pernis",
+    "country": "Italy",
+    "locality": "Certosa di Pesio"
+  },
+  {
+    "id": "MZURORN2025-089",
+    "name": "Phalacrocorax carbo (Linnaeus, 1758)",
+    "common": "Great cormorant",
+    "order": "Suliformes",
+    "family": "Phalacrocoracidae",
+    "genus": "Phalacrocorax",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-190",
+    "name": "Phoenicurus ochruros (Gmelin, 1774)",
+    "common": "Black redstart",
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "genus": "Phoenicurus",
+    "country": "Italy",
+    "locality": "Andonno"
+  },
+  {
+    "id": "MZURORN2025-188",
+    "name": "Phoenicurus phoenicurus (Linnaeus, 1758)",
+    "common": "Common redstart",
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "genus": "Phoenicurus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-191",
+    "name": "Phoenicurus phoenicurus (Linnaeus, 1758)",
+    "common": "Common redstart",
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "genus": "Phoenicurus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-193",
+    "name": "Phoenicurus phoenicurus (Linnaeus, 1758)",
+    "common": "Common redstart",
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "genus": "Phoenicurus",
+    "country": "Italy",
+    "locality": "Zannone Island"
+  },
+  {
+    "id": "MZURORN2025-231",
+    "name": "Phylloscopus sibilatrix (Bechstein, 1793)",
+    "common": "Wood warbler",
+    "order": "Passeriformes",
+    "family": "Phylloscopidae",
+    "genus": "Phylloscopus",
+    "country": "Italy",
+    "locality": "Zannone Island"
+  },
+  {
+    "id": "MZURORN2025-003",
+    "name": "Pica pica (Linnaeus, 1758)",
+    "common": "Eurasian magpie",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Pica",
+    "country": "Italy",
+    "locality": "Limone Piemonte"
+  },
+  {
+    "id": "MZURORN2025-006",
+    "name": "Pica pica (Linnaeus, 1758)",
+    "common": "Eurasian magpie",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Pica",
+    "country": "Italy",
+    "locality": "Limone Piemonte"
+  },
+  {
+    "id": "MZURORN2025-241",
+    "name": "Pica pica (Linnaeus, 1758)",
+    "common": "Eurasian magpie",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Pica",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-242",
+    "name": "Pica pica (Linnaeus, 1758)",
+    "common": "Eurasian magpie",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Pica",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-019",
+    "name": "Picus viridis (Linnaeus, 1758)",
+    "common": "European green woodpecker",
+    "order": "Piciformes",
+    "family": "Picidae",
+    "genus": "Picus",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-209",
+    "name": "Picus viridis (Linnaeus, 1758)",
+    "common": "European green woodpecker",
+    "order": "Piciformes",
+    "family": "Picidae",
+    "genus": "Picus",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-213",
+    "name": "Picus viridis (Linnaeus, 1758)",
+    "common": "European green woodpecker",
+    "order": "Piciformes",
+    "family": "Picidae",
+    "genus": "Picus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-088",
+    "name": "Plegadis falcinellus (Linnaeus, 1766)",
+    "common": "Glossy ibis",
+    "order": "Pelecaniformes",
+    "family": "Threskiornithidae",
+    "genus": "Plegadis",
+    "country": "Italy",
+    "locality": "Tivoli"
+  },
+  {
+    "id": "MZURORN2025-101",
+    "name": "Pluvialis apricaria (Linnaeus, 1758)",
+    "common": "European golden plover",
+    "order": "Charadriiformes",
+    "family": "Charadriidae",
+    "genus": "Pluvialis",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-036",
+    "name": "Podiceps cristatus (Linnaeus, 1758)",
+    "common": "Great crested grebe",
+    "order": "Podicipediformes",
+    "family": "Podicipedidae",
+    "genus": "Podiceps",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-090",
+    "name": "Podiceps cristatus (Linnaeus, 1758)",
+    "common": "Great crested grebe",
+    "order": "Podicipediformes",
+    "family": "Podicipedidae",
+    "genus": "Podiceps",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-072",
+    "name": "Podiceps nigricollis (Brehm, 1831)",
+    "common": "Black-necked grebe",
+    "order": "Podicipediformes",
+    "family": "Podicipedidae",
+    "genus": "Podiceps",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-255",
+    "name": "Poecile palustris (Linnaeus, 1758)",
+    "common": "Marsh tit",
+    "order": "Passeriformes",
+    "family": "Paridae",
+    "genus": "Poecile",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-198",
+    "name": "Prunella modularis (Linnaeus, 1758)",
+    "common": "Dunnock",
+    "order": "Passeriformes",
+    "family": "Prunellidae",
+    "genus": "Prunella",
+    "country": "Italy",
+    "locality": "Tarquinia"
+  },
+  {
+    "id": "MZURORN2025-002",
+    "name": "Pyrrhocorax graculus (Linnaeus, 1766)",
+    "common": "Alpine chough",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Pyrrhocorax",
+    "country": "Italy",
+    "locality": "Limone Piemonte"
+  },
+  {
+    "id": "MZURORN2025-265",
+    "name": "Pyrrhocorax graculus (Linnaeus, 1766)",
+    "common": "Alpine chough",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Pyrrhocorax",
+    "country": "Italy",
+    "locality": "Sibillini Mountains"
+  },
+  {
+    "id": "MZURORN2025-266",
+    "name": "Pyrrhocorax graculus (Linnaeus, 1766)",
+    "common": "Alpine chough",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Pyrrhocorax",
+    "country": "Italy",
+    "locality": "Ferrere da Bersezio"
+  },
+  {
+    "id": "MZURORN2025-267",
+    "name": "Pyrrhocorax graculus (Linnaeus, 1766)",
+    "common": "Alpine chough",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Pyrrhocorax",
+    "country": "Italy",
+    "locality": "Limone Piemonte"
+  },
+  {
+    "id": "MZURORN2025-264",
+    "name": "Pyrrhocorax pyrrhocorax (Linnaeus, 1758)",
+    "common": "Red-billed chough",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Pyrrhocorax",
+    "country": "Italy",
+    "locality": "Limone Piemonte"
+  },
+  {
+    "id": "MZURORN2025-277",
+    "name": "Pyrrhula pyrrhula (Linnaeus, 1758)",
+    "common": "Eurasian bullfinch",
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "genus": "Pyrrhula",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-278",
+    "name": "Pyrrhula pyrrhula (Linnaeus, 1758)",
+    "common": "Eurasian bullfinch",
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "genus": "Pyrrhula",
+    "country": "Italy",
+    "locality": "Confreria"
+  },
+  {
+    "id": "MZURORN2025-280",
+    "name": "Pyrrhula pyrrhula (Linnaeus, 1758)",
+    "common": "Eurasian bullfinch",
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "genus": "Pyrrhula",
+    "country": "Italy",
+    "locality": "Boves"
+  },
+  {
+    "id": "MZURORN2025-031",
+    "name": "Rallus aquaticus (Linnaeus, 1758)",
+    "common": "Water rail",
+    "order": "Gruiformes",
+    "family": "Rallidae",
+    "genus": "Rallus",
+    "country": "Italy",
+    "locality": "Costigliole Saluzzo"
+  },
+  {
+    "id": "MZURORN2025-032",
+    "name": "Rallus aquaticus (Linnaeus, 1758)",
+    "common": "Water rail",
+    "order": "Gruiformes",
+    "family": "Rallidae",
+    "genus": "Rallus",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-134",
+    "name": "Rallus aquaticus (Linnaeus, 1758)",
+    "common": "Water rail",
+    "order": "Gruiformes",
+    "family": "Rallidae",
+    "genus": "Rallus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-137",
+    "name": "Rallus aquaticus (Linnaeus, 1758)",
+    "common": "Water rail",
+    "order": "Gruiformes",
+    "family": "Rallidae",
+    "genus": "Rallus",
+    "country": "Italy",
+    "locality": "Costigliole Saluzzo"
+  },
+  {
+    "id": "MZURORN2025-009",
+    "name": "Ramphastos dicolorus (Linnaeus, 1766)",
+    "common": "Red-breasted toucan",
+    "order": "Piciformes",
+    "family": "Ramphastidae",
+    "genus": "Ramphastos",
+    "country": "Brazil",
+    "locality": "NA"
+  },
+  {
+    "id": "MZURORN2025-010",
+    "name": "Ramphastos dicolorus (Linnaeus, 1766)",
+    "common": "Red-breasted toucan",
+    "order": "Piciformes",
+    "family": "Ramphastidae",
+    "genus": "Ramphastos",
+    "country": "Brazil",
+    "locality": "NA"
+  },
+  {
+    "id": "MZURORN2025-095",
+    "name": "Recurvirostra avosetta (Linnaeus, 1758)",
+    "common": "Pied avocet",
+    "order": "Charadriiformes",
+    "family": "Recurvirostridae",
+    "genus": "Recurvirostra",
+    "country": "Italy",
+    "locality": "Maccarese"
+  },
+  {
+    "id": "MZURORN2025-096",
+    "name": "Recurvirostra avosetta (Linnaeus, 1758)",
+    "common": "Pied avocet",
+    "order": "Charadriiformes",
+    "family": "Recurvirostridae",
+    "genus": "Recurvirostra",
+    "country": "Italy",
+    "locality": "Fiumicino"
+  },
+  {
+    "id": "MZURORN2025-232",
+    "name": "Regulus regulus (Linnaeus, 1758)",
+    "common": "Goldcrest",
+    "order": "Passeriformes",
+    "family": "Regulidae",
+    "genus": "Regulus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-234",
+    "name": "Regulus regulus (Linnaeus, 1758)",
+    "common": "Goldcrest",
+    "order": "Passeriformes",
+    "family": "Regulidae",
+    "genus": "Regulus",
+    "country": "Italy",
+    "locality": "Padua"
+  },
+  {
+    "id": "MZURORN2025-059",
+    "name": "Rhynchotus rufescens (Temminck, 1815)",
+    "common": "Red-winged tinamou",
+    "order": "Tinamiformes",
+    "family": "Tinamidae",
+    "genus": "Rhynchotus",
+    "country": "Guatemala",
+    "locality": "NA"
+  },
+  {
+    "id": "MZURORN2025-168",
+    "name": "Rissa tridactyla (Linnaeus, 1758)",
+    "common": "Black-legged kittiwake",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Rissa",
+    "country": "Italy",
+    "locality": "Nettuno"
+  },
+  {
+    "id": "MZURORN2025-226",
+    "name": "Saxicola rubetra (Linnaeus, 1758)",
+    "common": "Whinchat",
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "genus": "Saxicola",
+    "country": "Italy",
+    "locality": "Ostuni"
+  },
+  {
+    "id": "MZURORN2025-225",
+    "name": "Saxicola torquatus (Linnaeus, 1766)",
+    "common": "African stonechat",
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "genus": "Saxicola",
+    "country": "Italy",
+    "locality": "Zannone Island"
+  },
+  {
+    "id": "MZURORN2025-107",
+    "name": "Scolopax rusticola (Linnaeus, 1758)",
+    "common": "Eurasian woodcock",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Scolopax",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-273",
+    "name": "Serinus serinus (Linnaeus, 1766)",
+    "common": "European serin",
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "genus": "Serinus",
+    "country": "Italy",
+    "locality": "Noventa Padovana"
+  },
+  {
+    "id": "MZURORN2025-257",
+    "name": "Sitta europaea (Linnaeus, 1758)",
+    "common": "Eurasian nuthatch",
+    "order": "Passeriformes",
+    "family": "Sittidae",
+    "genus": "Sitta",
+    "country": "Italy",
+    "locality": "Confreria"
+  },
+  {
+    "id": "MZURORN2025-052",
+    "name": "Spatula clypeata (Linnaeus, 1758)",
+    "common": "Northern shoveler",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Spatula",
+    "country": "Italy",
+    "locality": "Roma"
+  },
+  {
+    "id": "MZURORN2025-066",
+    "name": "Spatula clypeata (Linnaeus, 1758)",
+    "common": "Northern shoveler",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Spatula",
+    "country": "Italy",
+    "locality": "Pontine Marshes"
+  },
+  {
+    "id": "MZURORN2025-067",
+    "name": "Spatula clypeata (Linnaeus, 1758)",
+    "common": "Northern shoveler",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Spatula",
+    "country": "Italy",
+    "locality": "Maccarese"
+  },
+  {
+    "id": "MZURORN2025-050",
+    "name": "Spatula querquedula (Linnaeus, 1758)",
+    "common": "Garganey",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Spatula",
+    "country": "Italy",
+    "locality": "Tarquinia"
+  },
+  {
+    "id": "MZURORN2025-162",
+    "name": "Sternula albifrons (Pallas, 1764)",
+    "common": "Little tern",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Sternula",
+    "country": "Italy",
+    "locality": "Fiumicino"
+  },
+  {
+    "id": "MZURORN2025-159",
+    "name": "Streptopelia turtur (Linnaeus, 1758)",
+    "common": "European turtle dove",
+    "order": "Columbiformes",
+    "family": "Columbidae",
+    "genus": "Streptopelia",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-160",
+    "name": "Streptopelia turtur (Linnaeus, 1758)",
+    "common": "European turtle dove",
+    "order": "Columbiformes",
+    "family": "Columbidae",
+    "genus": "Streptopelia",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-042",
+    "name": "Strix aluco (Linnaeus, 1758)",
+    "common": "Tawny owl",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Strix",
+    "country": "Italy",
+    "locality": "Ostia"
+  },
+  {
+    "id": "MZURORN2025-172",
+    "name": "Strix aluco (Linnaeus, 1758)",
+    "common": "Tawny owl",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Strix",
+    "country": "Italy",
+    "locality": "Andonno"
+  },
+  {
+    "id": "MZURORN2025-173",
+    "name": "Strix aluco (Linnaeus, 1758)",
+    "common": "Tawny owl",
+    "order": "Strigiformes",
+    "family": "Strigidae",
+    "genus": "Strix",
+    "country": "Italy",
+    "locality": "Bernezzo"
+  },
+  {
+    "id": "MZURORN2025-283",
+    "name": "Sturnus vulgaris (Linnaeus, 1758)",
+    "common": "Common starling",
+    "order": "Passeriformes",
+    "family": "Sturnidae",
+    "genus": "Sturnus",
+    "country": "Italy",
+    "locality": "Cuneo"
+  },
+  {
+    "id": "MZURORN2025-284",
+    "name": "Sturnus vulgaris (Linnaeus, 1758)",
+    "common": "Common starling",
+    "order": "Passeriformes",
+    "family": "Sturnidae",
+    "genus": "Sturnus",
+    "country": "Italy",
+    "locality": "Civitavecchia"
+  },
+  {
+    "id": "MZURORN2025-285",
+    "name": "Sturnus vulgaris (Linnaeus, 1758)",
+    "common": "Common starling",
+    "order": "Passeriformes",
+    "family": "Sturnidae",
+    "genus": "Sturnus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-286",
+    "name": "Sturnus vulgaris (Linnaeus, 1758)",
+    "common": "Common starling",
+    "order": "Passeriformes",
+    "family": "Sturnidae",
+    "genus": "Sturnus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-287",
+    "name": "Sturnus vulgaris (Linnaeus, 1758)",
+    "common": "Common starling",
+    "order": "Passeriformes",
+    "family": "Sturnidae",
+    "genus": "Sturnus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-235",
+    "name": "Sylvia atricapilla (Linnaeus, 1758)",
+    "common": "Eurasian blackcap",
+    "order": "Passeriformes",
+    "family": "Sylviidae",
+    "genus": "Sylvia",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-236",
+    "name": "Sylvia atricapilla (Linnaeus, 1758)",
+    "common": "Eurasian blackcap",
+    "order": "Passeriformes",
+    "family": "Sylviidae",
+    "genus": "Sylvia",
+    "country": "Italy",
+    "locality": "Piano Quinto"
+  },
+  {
+    "id": "MZURORN2025-237",
+    "name": "Sylvia atricapilla (Linnaeus, 1758)",
+    "common": "Eurasian blackcap",
+    "order": "Passeriformes",
+    "family": "Sylviidae",
+    "genus": "Sylvia",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-229",
+    "name": "Sylvia borin (Boddaert, 1783)",
+    "common": "Garden warbler",
+    "order": "Passeriformes",
+    "family": "Sylviidae",
+    "genus": "Sylvia",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-230",
+    "name": "Sylvia borin (Boddaert, 1783)",
+    "common": "Garden warbler",
+    "order": "Passeriformes",
+    "family": "Sylviidae",
+    "genus": "Sylvia",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-227",
+    "name": "Sylvia cantillans (Pallas, 1764)",
+    "common": "Eastern subalpine warbler",
+    "order": "Passeriformes",
+    "family": "Sylviidae",
+    "genus": "Sylvia",
+    "country": "Italy",
+    "locality": "Roma, Fidene"
+  },
+  {
+    "id": "MZURORN2025-070",
+    "name": "Tachybaptus ruficollis (Pallas, 1764)",
+    "common": "Little grebe",
+    "order": "Podicipediformes",
+    "family": "Podicipedidae",
+    "genus": "Tachybaptus",
+    "country": "Italy",
+    "locality": "Valle Millecampi"
+  },
+  {
+    "id": "MZURORN2025-008",
+    "name": "Trichoglossus moluccans (Pallas, 1764)",
+    "common": "Rainbow lorikeet",
+    "order": "Psittaciformes",
+    "family": "Psittaculidae",
+    "genus": "Trichoglossus",
+    "country": "Australia",
+    "locality": "NA"
+  },
+  {
+    "id": "MZURORN2025-113",
+    "name": "Tringa erythropus (Pallas, 1764)",
+    "common": "Spotted redshank",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Tringa",
+    "country": "Italy",
+    "locality": "Tarquinia"
+  },
+  {
+    "id": "MZURORN2025-114",
+    "name": "Tringa glareola   (Linnaeus, 1758)",
+    "common": "Wood sandpiper",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Tringa",
+    "country": "Italy",
+    "locality": "Ager Romanus"
+  },
+  {
+    "id": "MZURORN2025-118",
+    "name": "Tringa nebularia (Gunnerus, 1767)",
+    "common": "Common greenshank",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Tringa",
+    "country": "Italy",
+    "locality": "Ager Romanus"
+  },
+  {
+    "id": "MZURORN2025-111",
+    "name": "Tringa totanus (Linnaeus, 1758)",
+    "common": "Common redshank",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Tringa",
+    "country": "Italy",
+    "locality": "Ager Romanus"
+  },
+  {
+    "id": "MZURORN2025-012",
+    "name": "Trochilidaesp.  (Vigors, 1825)",
+    "common": "Hummingbird",
+    "order": "Apodiformes",
+    "family": "Trochilidae",
+    "genus": "Trochilidaesp.",
+    "country": "Equador",
+    "locality": "NA"
+  },
+  {
+    "id": "MZURORN2025-194",
+    "name": "Troglodytes troglodytes (Linnaeus, 1758)",
+    "common": "Eurasian wren",
+    "order": "Passeriformes",
+    "family": "Troglodytidae",
+    "genus": "Troglodytes",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-195",
+    "name": "Troglodytes troglodytes (Linnaeus, 1758)",
+    "common": "Eurasian wren",
+    "order": "Passeriformes",
+    "family": "Troglodytidae",
+    "genus": "Troglodytes",
+    "country": "Italy",
+    "locality": "Confreria"
+  },
+  {
+    "id": "MZURORN2025-218",
+    "name": "Turdus iliacus (Linnaeus, 1758)",
+    "common": "Redwing",
+    "order": "Passeriformes",
+    "family": "Turdidae",
+    "genus": "Turdus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-220",
+    "name": "Turdus iliacus (Linnaeus, 1758)",
+    "common": "Redwing",
+    "order": "Passeriformes",
+    "family": "Turdidae",
+    "genus": "Turdus",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-216",
+    "name": "Turdus merula (Linnaeus, 1758)",
+    "common": "Common blackbird",
+    "order": "Passeriformes",
+    "family": "Turdidae",
+    "genus": "Turdus",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-219",
+    "name": "Turdus merula (Linnaeus, 1758)",
+    "common": "Common blackbird",
+    "order": "Passeriformes",
+    "family": "Turdidae",
+    "genus": "Turdus",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-221",
+    "name": "Turdus philomelos (Brehm, 1831)",
+    "common": "Song thrush",
+    "order": "Passeriformes",
+    "family": "Turdidae",
+    "genus": "Turdus",
+    "country": "Italy",
+    "locality": "Pietra Pertusa"
+  },
+  {
+    "id": "MZURORN2025-222",
+    "name": "Turdus philomelos (Brehm, 1831)",
+    "common": "Song thrush",
+    "order": "Passeriformes",
+    "family": "Turdidae",
+    "genus": "Turdus",
+    "country": "Italy",
+    "locality": "Pietra Pertusa"
+  },
+  {
+    "id": "MZURORN2025-217",
+    "name": "Turdus torquatus (Linnaeus, 1758)",
+    "common": "Ring ouzel",
+    "order": "Passeriformes",
+    "family": "Turdidae",
+    "genus": "Turdus",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-171",
+    "name": "Tyto alba (Scopoli, 1769)",
+    "common": "Western barn owl",
+    "order": "Strigiformes",
+    "family": "Tytonidae",
+    "genus": "Tyto",
+    "country": "Italy",
+    "locality": "Sambuco"
+  },
+  {
+    "id": "MZURORN2025-180",
+    "name": "Upupa epops (Linnaeus, 1758)",
+    "common": "Eurasian hoopoe",
+    "order": "Bucerotiformes",
+    "family": "Upupidae",
+    "genus": "Upupa",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-181",
+    "name": "Upupa epops (Linnaeus, 1758)",
+    "common": "Eurasian hoopoe",
+    "order": "Bucerotiformes",
+    "family": "Upupidae",
+    "genus": "Upupa",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-182",
+    "name": "Upupa epops (Linnaeus, 1758)",
+    "common": "Eurasian hoopoe",
+    "order": "Bucerotiformes",
+    "family": "Upupidae",
+    "genus": "Upupa",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-184",
+    "name": "Upupa epops (Linnaeus, 1758)",
+    "common": "Eurasian hoopoe",
+    "order": "Bucerotiformes",
+    "family": "Upupidae",
+    "genus": "Upupa",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-100",
+    "name": "Vanellus vanellus (Linnaeus, 1758)",
+    "common": "Northern lapwing",
+    "order": "Charadriiformes",
+    "family": "Charadriidae",
+    "genus": "Vanellus",
+    "country": "Italy",
+    "locality": "Cuneo"
+  }
+]
