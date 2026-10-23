@@ -1,5 +1,25 @@
 [
   {
+    "id": "MZURORN2025-147",
+    "name": "Accipiter gentilis (Linnaeus, 1758)",
+    "common": "Eurasian goshawk",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Accipiter",
+    "country": "Italy",
+    "locality": "Limone Piemonte"
+  },
+  {
+    "id": "MZURORN2025-148",
+    "name": "Accipiter gentilis (Linnaeus, 1758)",
+    "common": "Eurasian goshawk",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Accipiter",
+    "country": "Italy",
+    "locality": "Limone Piemonte"
+  },
+  {
     "id": "MZURORN2025-030",
     "name": "Accipiter nisus (Linnaeus, 1758)",
     "common": "Eurasian sparrowhawk",
@@ -71,20 +91,20 @@
   },
   {
     "id": "MZURORN2025-206",
-    "name": "Alauda arvensis (Linnaeus, 1758)",
+    "name": "Alauda arvensis Linnaeus, 1758",
     "common": "Eurasian skylark",
     "order": "Passeriformes",
-    "family": "Aegithalidae",
+    "family": "Alaudidae",
     "genus": "Alauda",
     "country": "Italy",
     "locality": "NA"
   },
   {
     "id": "MZURORN2025-207",
-    "name": "Alauda arvensis (Linnaeus, 1758)",
+    "name": "Alauda arvensis Linnaeus, 1758",
     "common": "Eurasian skylark",
     "order": "Passeriformes",
-    "family": "Aegithalidae",
+    "family": "Alaudidae",
     "genus": "Alauda",
     "country": "Italy",
     "locality": "Ager Romanus"
@@ -111,7 +131,7 @@
   },
   {
     "id": "MZURORN2025-060",
-    "name": "Alectoris chukar (J. E. Gray, 1830)",
+    "name": "Alectoris chukar (Gray, 1830)",
     "common": "Red-winged tinamou",
     "order": "Galliformes",
     "family": "Phasianidae",
@@ -131,7 +151,7 @@
   },
   {
     "id": "MZURORN2025-055",
-    "name": "Anas acuta (Linnaeus, 1758)",
+    "name": "Anas acuta Linnaeus, 1758",
     "common": "Northern pintail",
     "order": "Anseriformes",
     "family": "Anatidae",
@@ -141,7 +161,7 @@
   },
   {
     "id": "MZURORN2025-069",
-    "name": "Anas acuta (Linnaeus, 1758)",
+    "name": "Anas acuta Linnaeus, 1758",
     "common": "Northern pintail",
     "order": "Anseriformes",
     "family": "Anatidae",
@@ -151,7 +171,7 @@
   },
   {
     "id": "MZURORN2025-049",
-    "name": "Anas crecca (Linnaeus, 1758)",
+    "name": "Anas crecca Linnaeus, 1758",
     "common": "Eurasian teal",
     "order": "Anseriformes",
     "family": "Anatidae",
@@ -161,7 +181,7 @@
   },
   {
     "id": "MZURORN2025-078",
-    "name": "Anas crecca (Linnaeus, 1758)",
+    "name": "Anas crecca Linnaeus, 1758",
     "common": "Eurasian teal",
     "order": "Anseriformes",
     "family": "Anatidae",
@@ -170,28 +190,8 @@
     "locality": "Borgo San Dalmazzo"
   },
   {
-    "id": "MZURORN2025-075",
-    "name": "Anas penelope (Linnaeus, 1758)",
-    "common": "Eurasian wigeon",
-    "order": "Anseriformes",
-    "family": "Anatidae",
-    "genus": "Anas",
-    "country": "Italy",
-    "locality": "Saline di Tarquinia"
-  },
-  {
-    "id": "MZURORN2025-076",
-    "name": "Anas penelope (Linnaeus, 1758)",
-    "common": "Eurasian wigeon",
-    "order": "Anseriformes",
-    "family": "Anatidae",
-    "genus": "Anas",
-    "country": "Italy",
-    "locality": "Saline di Tarquinia"
-  },
-  {
     "id": "MZURORN2025-053",
-    "name": "Anas platyrhynchos (Linnaeus, 1758)",
+    "name": "Anas platyrhynchos Linnaeus, 1758",
     "common": "Mallard",
     "order": "Anseriformes",
     "family": "Anatidae",
@@ -201,7 +201,7 @@
   },
   {
     "id": "MZURORN2025-057",
-    "name": "Anas platyrhynchos (Linnaeus, 1758)",
+    "name": "Anas platyrhynchos Linnaeus, 1758",
     "common": "Mallard",
     "order": "Anseriformes",
     "family": "Anatidae",
@@ -211,7 +211,7 @@
   },
   {
     "id": "MZURORN2025-079",
-    "name": "Anas platyrhynchos (Linnaeus, 1758)",
+    "name": "Anas platyrhynchos Linnaeus, 1758",
     "common": "Mallard",
     "order": "Anseriformes",
     "family": "Anatidae",
@@ -221,7 +221,7 @@
   },
   {
     "id": "MZURORN2025-080",
-    "name": "Anas platyrhynchos (Linnaeus, 1758)",
+    "name": "Anas platyrhynchos Linnaeus, 1758",
     "common": "Mallard",
     "order": "Anseriformes",
     "family": "Anatidae",
@@ -231,33 +231,13 @@
   },
   {
     "id": "MZURORN2025-081",
-    "name": "Anas platyrhynchos (Linnaeus, 1758)",
+    "name": "Anas platyrhynchos Linnaeus, 1758",
     "common": "Mallard",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anas",
     "country": "Italy",
     "locality": "Rome"
-  },
-  {
-    "id": "MZURORN2025-068",
-    "name": "Anas querquedula (Linnaeus, 1758)",
-    "common": "Garganey",
-    "order": "Anseriformes",
-    "family": "Anatidae",
-    "genus": "Anas",
-    "country": "Italy",
-    "locality": "Borgo San Dalmazzo"
-  },
-  {
-    "id": "MZURORN2025-077",
-    "name": "Anas querquedula (Linnaeus, 1758)",
-    "common": "Garganey",
-    "order": "Anseriformes",
-    "family": "Anatidae",
-    "genus": "Anas",
-    "country": "Italy",
-    "locality": "Casale Monferrato"
   },
   {
     "id": "MZURORN2025-092",
@@ -301,7 +281,7 @@
   },
   {
     "id": "MZURORN2025-084",
-    "name": "Ardea alba (Linnaeus, 1758)",
+    "name": "Ardea alba Linnaeus, 1758",
     "common": "Great egret",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
@@ -311,7 +291,7 @@
   },
   {
     "id": "MZURORN2025-038",
-    "name": "Ardea purpurea (Linnaeus, 1766)",
+    "name": "Ardea purpurea Linnaeus, 1766",
     "common": "Purple heron",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
@@ -321,7 +301,7 @@
   },
   {
     "id": "MZURORN2025-041",
-    "name": "Ardea purpurea (Linnaeus, 1766)",
+    "name": "Ardea purpurea Linnaeus, 1766",
     "common": "Purple heron",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
@@ -331,7 +311,7 @@
   },
   {
     "id": "MZURORN2025-091",
-    "name": "Ardea purpurea (Linnaeus, 1766)",
+    "name": "Ardea purpurea Linnaeus, 1766",
     "common": "Purple heron",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
@@ -341,7 +321,7 @@
   },
   {
     "id": "MZURORN2025-093",
-    "name": "Ardea purpurea (Linnaeus, 1766)",
+    "name": "Ardea purpurea Linnaeus, 1766",
     "common": "Purple heron",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
@@ -351,7 +331,7 @@
   },
   {
     "id": "MZURORN2025-094",
-    "name": "Ardea purpurea (Linnaeus, 1766)",
+    "name": "Ardea purpurea Linnaeus, 1766",
     "common": "Purple heron",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
@@ -388,26 +368,6 @@
     "genus": "Asio",
     "country": "Italy",
     "locality": "Pietraporzio"
-  },
-  {
-    "id": "MZURORN2025-147",
-    "name": "Astur gentilis (Linnaeus, 1758)",
-    "common": "Eurasian goshawk",
-    "order": "Accipitriformes",
-    "family": "Accipitridae",
-    "genus": "Astur",
-    "country": "Italy",
-    "locality": "Limone Piemonte"
-  },
-  {
-    "id": "MZURORN2025-148",
-    "name": "Astur gentilis (Linnaeus, 1758)",
-    "common": "Eurasian goshawk",
-    "order": "Accipitriformes",
-    "family": "Accipitridae",
-    "genus": "Astur",
-    "country": "Italy",
-    "locality": "Limone Piemonte"
   },
   {
     "id": "MZURORN2025-039",
@@ -481,7 +441,7 @@
   },
   {
     "id": "MZURORN2025-054",
-    "name": "Aythya nyroca (Guldenstadt, 1770)",
+    "name": "Aythya nyroca (Güldenstädt, 1770)",
     "common": "Ferruginous duck",
     "order": "Anseriformes",
     "family": "Anatidae",
@@ -491,7 +451,7 @@
   },
   {
     "id": "MZURORN2025-064",
-    "name": "Aythya nyroca (Guldenstadt, 1770)",
+    "name": "Aythya nyroca (Güldenstädt, 1770)",
     "common": "Ferruginous duck",
     "order": "Anseriformes",
     "family": "Anatidae",
@@ -503,7 +463,7 @@
     "id": "MZURORN2025-085",
     "name": "Botaurus stellaris (Linnaeus, 1758)",
     "common": "Eurasian bittern",
-    "order": "Ciconiiformes",
+    "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Botaurus",
     "country": "Italy",
@@ -631,7 +591,7 @@
   },
   {
     "id": "MZURORN2025-153",
-    "name": "Caprimulgus europaeus (Linnaeus, 1758)",
+    "name": "Caprimulgus europaeus Linnaeus, 1758",
     "common": "European nightjar",
     "order": "Caprimulgiformes",
     "family": "Caprimulgidae",
@@ -641,7 +601,7 @@
   },
   {
     "id": "MZURORN2025-154",
-    "name": "Caprimulgus europaeus (Linnaeus, 1758)",
+    "name": "Caprimulgus europaeus Linnaeus, 1758",
     "common": "European nightjar",
     "order": "Caprimulgiformes",
     "family": "Caprimulgidae",
@@ -651,7 +611,7 @@
   },
   {
     "id": "MZURORN2025-155",
-    "name": "Caprimulgus europaeus (Linnaeus, 1758)",
+    "name": "Caprimulgus europaeus Linnaeus, 1758",
     "common": "European nightjar",
     "order": "Caprimulgiformes",
     "family": "Caprimulgidae",
@@ -711,7 +671,7 @@
   },
   {
     "id": "MZURORN2025-098",
-    "name": "Charadrius dubius (Scopoli, 1786)",
+    "name": "Charadrius dubius Scopoli, 1786",
     "common": "Little ringed plover",
     "order": "Charadriiformes",
     "family": "Charadriidae",
@@ -721,7 +681,7 @@
   },
   {
     "id": "MZURORN2025-099",
-    "name": "Charadrius hiaticula (Linnaeus, 1758)",
+    "name": "Charadrius hiaticula Linnaeus, 1758",
     "common": "Common ringed plover",
     "order": "Charadriiformes",
     "family": "Charadriidae",
@@ -768,16 +728,6 @@
     "genus": "Chloris",
     "country": "Italy",
     "locality": "Padua"
-  },
-  {
-    "id": "MZURORN2025-166",
-    "name": "Chroicocephalus ridibundus (Linnaeus, 1766)",
-    "common": "Black-headed gull",
-    "order": "Charadriiformes",
-    "family": "Laridae",
-    "genus": "Chroicocephalus",
-    "country": "Italy",
-    "locality": "Rome"
   },
   {
     "id": "MZURORN2025-196",
@@ -831,7 +781,7 @@
   },
   {
     "id": "MZURORN2025-279",
-    "name": "Coccothraustes coccothraustes (Brisson, 1760)",
+    "name": "Coccothraustes coccothraustes (Linnaeus, 1758)",
     "common": "Hawfinch",
     "order": "Passeriformes",
     "family": "Fringillidae",
@@ -841,7 +791,7 @@
   },
   {
     "id": "MZURORN2025-281",
-    "name": "Coccothraustes coccothraustes (Brisson, 1760)",
+    "name": "Coccothraustes coccothraustes (Linnaeus, 1758)",
     "common": "Hawfinch",
     "order": "Passeriformes",
     "family": "Fringillidae",
@@ -851,7 +801,7 @@
   },
   {
     "id": "MZURORN2025-282",
-    "name": "Coccothraustes coccothraustes (Brisson, 1760)",
+    "name": "Coccothraustes coccothraustes (Linnaeus, 1758)",
     "common": "Hawfinch",
     "order": "Passeriformes",
     "family": "Fringillidae",
@@ -860,28 +810,8 @@
     "locality": "Rome"
   },
   {
-    "id": "MZURORN2025-260",
-    "name": "Coloeus monedula (Linnaeus, 1758)",
-    "common": "Western jackdaw",
-    "order": "Passeriformes",
-    "family": "Corvidae",
-    "genus": "Coloeus",
-    "country": "Italy",
-    "locality": "Ager Romanus"
-  },
-  {
-    "id": "MZURORN2025-261",
-    "name": "Coloeus monedula (Linnaeus, 1758)",
-    "common": "Western jackdaw",
-    "order": "Passeriformes",
-    "family": "Corvidae",
-    "genus": "Coloeus",
-    "country": "Italy",
-    "locality": "Ager Romanus"
-  },
-  {
     "id": "MZURORN2025-161",
-    "name": "Columba palumbus (Linnaeus, 1758)",
+    "name": "Columba palumbus Linnaeus, 1758",
     "common": "Common wood pigeon",
     "order": "Columbiformes",
     "family": "Columbidae",
@@ -891,7 +821,7 @@
   },
   {
     "id": "MZURORN2025-163",
-    "name": "Columba palumbus (Linnaeus, 1758)",
+    "name": "Columba palumbus Linnaeus, 1758",
     "common": "Common wood pigeon",
     "order": "Columbiformes",
     "family": "Columbidae",
@@ -901,7 +831,7 @@
   },
   {
     "id": "MZURORN2025-183",
-    "name": "Coracias garrulus (Linnaeus, 1758)",
+    "name": "Coracias garrulus Linnaeus, 1758",
     "common": "European roller",
     "order": "Coraciiformes",
     "family": "Coraciidae",
@@ -911,7 +841,7 @@
   },
   {
     "id": "MZURORN2025-011",
-    "name": "Corvus albus (Statius Müller, 1776)",
+    "name": "Corvus albus Müller, 1776",
     "common": "Pied crow",
     "order": "Passeriformes",
     "family": "Corvidae",
@@ -921,7 +851,7 @@
   },
   {
     "id": "MZURORN2025-258",
-    "name": "Corvus corax (Linnaeus, 1758)",
+    "name": "Corvus corax Linnaeus, 1758",
     "common": "Common raven",
     "order": "Passeriformes",
     "family": "Corvidae",
@@ -931,7 +861,7 @@
   },
   {
     "id": "MZURORN2025-262",
-    "name": "Corvus corone (Linnaeus, 1758)",
+    "name": "Corvus cornix Linnaeus, 1758",
     "common": "Carrion crow",
     "order": "Passeriformes",
     "family": "Corvidae",
@@ -941,7 +871,7 @@
   },
   {
     "id": "MZURORN2025-263",
-    "name": "Corvus corone (Linnaeus, 1758)",
+    "name": "Corvus cornix Linnaeus, 1758",
     "common": "Carrion crow",
     "order": "Passeriformes",
     "family": "Corvidae",
@@ -951,13 +881,33 @@
   },
   {
     "id": "MZURORN2025-259",
-    "name": "Corvus frugilegus (Linnaeus, 1758)",
+    "name": "Corvus frugilegus Linnaeus, 1758",
     "common": "Rook",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Corvus",
     "country": "Italy",
     "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-260",
+    "name": "Corvus monedula Linnaeus, 1758",
+    "common": "Western jackdaw",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Corvus",
+    "country": "Italy",
+    "locality": "Ager Romanus"
+  },
+  {
+    "id": "MZURORN2025-261",
+    "name": "Corvus monedula Linnaeus, 1758",
+    "common": "Western jackdaw",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Corvus",
+    "country": "Italy",
+    "locality": "Ager Romanus"
   },
   {
     "id": "MZURORN2025-133",
@@ -991,7 +941,7 @@
   },
   {
     "id": "MZURORN2025-156",
-    "name": "Cuculus canorus (Linnaeus, 1758)",
+    "name": "Cuculus canorus Linnaeus, 1758",
     "common": "Common cuckoo",
     "order": "Cuculiformes",
     "family": "Cuculidae",
@@ -1001,7 +951,7 @@
   },
   {
     "id": "MZURORN2025-157",
-    "name": "Cuculus canorus (Linnaeus, 1758)",
+    "name": "Cuculus canorus Linnaeus, 1758",
     "common": "Common cuckoo",
     "order": "Cuculiformes",
     "family": "Cuculidae",
@@ -1011,7 +961,7 @@
   },
   {
     "id": "MZURORN2025-158",
-    "name": "Cuculus canorus (Linnaeus, 1758)",
+    "name": "Cuculus canorus Linnaeus, 1758",
     "common": "Common cuckoo",
     "order": "Cuculiformes",
     "family": "Cuculidae",
@@ -1020,14 +970,14 @@
     "locality": "Furbara"
   },
   {
-    "id": "MZURORN2025-228",
-    "name": "Curruca hortensis (Gmelin, 1789)",
-    "common": "Western Orphean warbler",
+    "id": "MZURORN2025-227",
+    "name": "Curruca cantillans Pallas, 1764",
+    "common": "Eastern subalpine warbler",
     "order": "Passeriformes",
     "family": "Sylviidae",
     "genus": "Curruca",
     "country": "Italy",
-    "locality": "Borgo San Dalmazzo"
+    "locality": "Roma, Fidene"
   },
   {
     "id": "MZURORN2025-256",
@@ -1101,9 +1051,9 @@
   },
   {
     "id": "MZURORN2025-298",
-    "name": "Emberiza calandra (Linnaeus, 1758)",
+    "name": "Emberiza calandra Linnaeus, 1758",
     "common": "Corn bunting",
-    "order": "Pelecaniformes",
+    "order": "Passeriformes",
     "family": "Emberizidae",
     "genus": "Emberiza",
     "country": "Italy",
@@ -1111,9 +1061,9 @@
   },
   {
     "id": "MZURORN2025-295",
-    "name": "Emberiza citrinella (Linnaeus, 1758)",
+    "name": "Emberiza citrinella Linnaeus, 1758",
     "common": "Yellowhammer",
-    "order": "Pelecaniformes",
+    "order": "Passeriformes",
     "family": "Emberizidae",
     "genus": "Emberiza",
     "country": "Italy",
@@ -1121,9 +1071,9 @@
   },
   {
     "id": "MZURORN2025-296",
-    "name": "Emberiza citrinella (Linnaeus, 1758)",
+    "name": "Emberiza citrinella Linnaeus, 1758",
     "common": "Yellowhammer",
-    "order": "Pelecaniformes",
+    "order": "Passeriformes",
     "family": "Emberizidae",
     "genus": "Emberiza",
     "country": "Italy",
@@ -1131,9 +1081,9 @@
   },
   {
     "id": "MZURORN2025-297",
-    "name": "Emberiza citrinella (Linnaeus, 1758)",
+    "name": "Emberiza citrinella Linnaeus, 1758",
     "common": "Yellowhammer",
-    "order": "Pelecaniformes",
+    "order": "Passeriformes",
     "family": "Emberizidae",
     "genus": "Emberiza",
     "country": "Italy",
@@ -1171,17 +1121,17 @@
   },
   {
     "id": "MZURORN2025-058",
-    "name": "Eudyptes Chrysolophus (Brandt, 1837)",
+    "name": "Eudyptes chrysolophus (Brandt, 1837)",
     "common": "",
-    "order": "",
-    "family": "",
+    "order": "Sphenisciformes",
+    "family": "Spheniscidae",
     "genus": "Eudyptes",
     "country": "",
     "locality": "Mari el sud"
   },
   {
     "id": "MZURORN2025-126",
-    "name": "Falco naumanni (Fleischer, 1818)",
+    "name": "Falco naumanni Fleischer, 1818",
     "common": "Lesser kestrel",
     "order": "Falconiformes",
     "family": "Falconidae",
@@ -1191,7 +1141,7 @@
   },
   {
     "id": "MZURORN2025-123",
-    "name": "Falco subbuteo (Linnaeus, 1758)",
+    "name": "Falco subbuteo Linnaeus, 1758",
     "common": "Eurasian hobby",
     "order": "Falconiformes",
     "family": "Falconidae",
@@ -1201,7 +1151,7 @@
   },
   {
     "id": "MZURORN2025-124",
-    "name": "Falco subbuteo (Linnaeus, 1758)",
+    "name": "Falco subbuteo Linnaeus, 1758",
     "common": "Eurasian hobby",
     "order": "Falconiformes",
     "family": "Falconidae",
@@ -1211,7 +1161,7 @@
   },
   {
     "id": "MZURORN2025-125",
-    "name": "Falco subbuteo (Linnaeus, 1758)",
+    "name": "Falco subbuteo Linnaeus, 1758",
     "common": "Eurasian hobby",
     "order": "Falconiformes",
     "family": "Falconidae",
@@ -1221,7 +1171,7 @@
   },
   {
     "id": "MZURORN2025-028",
-    "name": "Falco tinnunculus (Linnaeus, 1758)",
+    "name": "Falco tinnunculus Linnaeus, 1758",
     "common": "Common kestrel",
     "order": "Falconiformes",
     "family": "Falconidae",
@@ -1231,7 +1181,7 @@
   },
   {
     "id": "MZURORN2025-029",
-    "name": "Falco tinnunculus (Linnaeus, 1758)",
+    "name": "Falco tinnunculus Linnaeus, 1758",
     "common": "Common kestrel",
     "order": "Falconiformes",
     "family": "Falconidae",
@@ -1241,7 +1191,7 @@
   },
   {
     "id": "MZURORN2025-130",
-    "name": "Falco tinnunculus (Linnaeus, 1758)",
+    "name": "Falco tinnunculus Linnaeus, 1758",
     "common": "Common kestrel",
     "order": "Falconiformes",
     "family": "Falconidae",
@@ -1251,7 +1201,7 @@
   },
   {
     "id": "MZURORN2025-131",
-    "name": "Falco tinnunculus (Linnaeus, 1758)",
+    "name": "Falco tinnunculus Linnaeus, 1758",
     "common": "Common kestrel",
     "order": "Falconiformes",
     "family": "Falconidae",
@@ -1271,37 +1221,37 @@
   },
   {
     "id": "MZURORN2025-023",
-    "name": "Fringilla coelebs (Linnaeus, 1758)",
+    "name": "Fringilla coelebs Linnaeus, 1758",
     "common": "Eurasian chaffinch",
     "order": "Passeriformes",
-    "family": "Fringillinae",
+    "family": "Fringillidae",
     "genus": "Fringilla",
     "country": "Italy",
     "locality": "Rome"
   },
   {
     "id": "MZURORN2025-268",
-    "name": "Fringilla coelebs (Linnaeus, 1758)",
+    "name": "Fringilla coelebs Linnaeus, 1758",
     "common": "Eurasian chaffinch",
     "order": "Passeriformes",
-    "family": "Fringillinae",
+    "family": "Fringillidae",
     "genus": "Fringilla",
     "country": "Italy",
     "locality": "Rome"
   },
   {
     "id": "MZURORN2025-269",
-    "name": "Fringilla coelebs (Linnaeus, 1758)",
+    "name": "Fringilla coelebs Linnaeus, 1758",
     "common": "Eurasian chaffinch",
     "order": "Passeriformes",
-    "family": "Fringillinae",
+    "family": "Fringillidae",
     "genus": "Fringilla",
     "country": "Italy",
     "locality": "Selvazzano"
   },
   {
     "id": "MZURORN2025-270",
-    "name": "Fringilla montifringilla (Linnaeus, 1758)",
+    "name": "Fringilla montifringilla Linnaeus, 1758",
     "common": "Brambling",
     "order": "Passeriformes",
     "family": "Fringillidae",
@@ -1311,7 +1261,7 @@
   },
   {
     "id": "MZURORN2025-033",
-    "name": "Fulica atra (Linnaeus, 1758)",
+    "name": "Fulica atra Linnaeus, 1758",
     "common": "Eurasian coot",
     "order": "Gruiformes",
     "family": "Rallidae",
@@ -1321,7 +1271,7 @@
   },
   {
     "id": "MZURORN2025-034",
-    "name": "Fulica atra (Linnaeus, 1758)",
+    "name": "Fulica atra Linnaeus, 1758",
     "common": "Eurasian coot",
     "order": "Gruiformes",
     "family": "Rallidae",
@@ -1331,7 +1281,7 @@
   },
   {
     "id": "MZURORN2025-138",
-    "name": "Fulica atra (Linnaeus, 1758)",
+    "name": "Fulica atra Linnaeus, 1758",
     "common": "Eurasian coot",
     "order": "Gruiformes",
     "family": "Rallidae",
@@ -1481,7 +1431,7 @@
   },
   {
     "id": "MZURORN2025-205",
-    "name": "Hirundo rustica (Linnaeus, 1758)",
+    "name": "Hirundo rustica Linnaeus, 1758",
     "common": "Barn swallow",
     "order": "Passeriformes",
     "family": "Hirundinidae",
@@ -1500,18 +1450,8 @@
     "locality": "Jesolo"
   },
   {
-    "id": "MZURORN2025-169",
-    "name": "Ichthyaetus melanocephalus (Temminck, 1820)",
-    "common": "Mediterranean gull",
-    "order": "Charadriiformes",
-    "family": "Laridae",
-    "genus": "Ichthyaetus",
-    "country": "Italy",
-    "locality": "Fiumicino"
-  },
-  {
     "id": "MZURORN2025-020",
-    "name": "Jynx torquilla (Linnaeus, 1758)",
+    "name": "Jynx torquilla Linnaeus, 1758",
     "common": "Eurasian wryneck",
     "order": "Piciformes",
     "family": "Picidae",
@@ -1521,7 +1461,7 @@
   },
   {
     "id": "MZURORN2025-208",
-    "name": "Jynx torquilla (Linnaeus, 1758)",
+    "name": "Jynx torquilla Linnaeus, 1758",
     "common": "Eurasian wryneck",
     "order": "Piciformes",
     "family": "Picidae",
@@ -1531,7 +1471,7 @@
   },
   {
     "id": "MZURORN2025-210",
-    "name": "Jynx torquilla (Linnaeus, 1758)",
+    "name": "Jynx torquilla Linnaeus, 1758",
     "common": "Eurasian wryneck",
     "order": "Piciformes",
     "family": "Picidae",
@@ -1541,7 +1481,7 @@
   },
   {
     "id": "MZURORN2025-212",
-    "name": "Jynx torquilla (Linnaeus, 1758)",
+    "name": "Jynx torquilla Linnaeus, 1758",
     "common": "Eurasian wryneck",
     "order": "Piciformes",
     "family": "Picidae",
@@ -1571,13 +1511,33 @@
   },
   {
     "id": "MZURORN2025-243",
-    "name": "Lanius senator (Linnaeus, 1758)",
+    "name": "Lanius senator Linnaeus, 1758",
     "common": "Woodchat shrike",
     "order": "Passeriformes",
     "family": "Laniidae",
     "genus": "Lanius",
     "country": "Italy",
     "locality": "Cuneo"
+  },
+  {
+    "id": "MZURORN2025-169",
+    "name": "Larus melanocephalus Temminck, 1820",
+    "common": "Mediterranean gull",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Larus",
+    "country": "Italy",
+    "locality": "Fiumicino"
+  },
+  {
+    "id": "MZURORN2025-166",
+    "name": "Larus ridibundus Linnaeus, 1766",
+    "common": "Black-headed gull",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Larus",
+    "country": "Italy",
+    "locality": "Rome"
   },
   {
     "id": "MZURORN2025-117",
@@ -1601,7 +1561,7 @@
   },
   {
     "id": "MZURORN2025-276",
-    "name": "Loxia curvirostra (Linnaeus, 1758)",
+    "name": "Loxia curvirostra Linnaeus, 1758",
     "common": "Red crossbill",
     "order": "Passeriformes",
     "family": "Fringillidae",
@@ -1611,7 +1571,7 @@
   },
   {
     "id": "MZURORN2025-192",
-    "name": "Luscinia megarhynchos (Brehm, 1831)",
+    "name": "Luscinia megarhynchos Brehm, 1831",
     "common": "Common nightingale",
     "order": "Passeriformes",
     "family": "Muscicapidae",
@@ -1640,6 +1600,26 @@
     "locality": "Pontine Marshes"
   },
   {
+    "id": "MZURORN2025-075",
+    "name": "Mareca penelope Linnaeus, 1758",
+    "common": "Eurasian wigeon",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Mareca",
+    "country": "Italy",
+    "locality": "Saline di Tarquinia"
+  },
+  {
+    "id": "MZURORN2025-076",
+    "name": "Mareca penelope Linnaeus, 1758",
+    "common": "Eurasian wigeon",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Mareca",
+    "country": "Italy",
+    "locality": "Saline di Tarquinia"
+  },
+  {
     "id": "MZURORN2025-062",
     "name": "Mergellus albellus (Linnaeus, 1758)",
     "common": "Smew",
@@ -1651,7 +1631,7 @@
   },
   {
     "id": "MZURORN2025-061",
-    "name": "Mergus serrator (Linnaeus, 1758)",
+    "name": "Mergus serrator Linnaeus, 1758",
     "common": "Red-breasted merganser",
     "order": "Anseriformes",
     "family": "Anatidae",
@@ -1661,7 +1641,7 @@
   },
   {
     "id": "MZURORN2025-074",
-    "name": "Mergus serrator (Linnaeus, 1758)",
+    "name": "Mergus serrator Linnaeus, 1758",
     "common": "Red-breasted merganser",
     "order": "Anseriformes",
     "family": "Anatidae",
@@ -1671,7 +1651,7 @@
   },
   {
     "id": "MZURORN2025-185",
-    "name": "Merops apiaster (Linnaeus, 1758)",
+    "name": "Merops apiaster Linnaeus, 1758",
     "common": "European bee-eater",
     "order": "Coraciiformes",
     "family": "Meropidae",
@@ -1700,46 +1680,6 @@
     "locality": "Castelporziano"
   },
   {
-    "id": "MZURORN2025-199",
-    "name": "Monticola alba (Linnaeus, 1758)",
-    "common": "White wagtail",
-    "order": "Passeriformes",
-    "family": "Motacillidae",
-    "genus": "Monticola",
-    "country": "Italy",
-    "locality": "Padua"
-  },
-  {
-    "id": "MZURORN2025-201",
-    "name": "Monticola alba (Linnaeus, 1758)",
-    "common": "White wagtail",
-    "order": "Passeriformes",
-    "family": "Motacillidae",
-    "genus": "Monticola",
-    "country": "Italy",
-    "locality": "Padua"
-  },
-  {
-    "id": "MZURORN2025-200",
-    "name": "Monticola cinerea (Tunstall, 1771)",
-    "common": "Grey wagtail",
-    "order": "Passeriformes",
-    "family": "Motacillidae",
-    "genus": "Monticola",
-    "country": "Italy",
-    "locality": "Rome"
-  },
-  {
-    "id": "MZURORN2025-202",
-    "name": "Monticola cinerea (Tunstall, 1771)",
-    "common": "Grey wagtail",
-    "order": "Passeriformes",
-    "family": "Motacillidae",
-    "genus": "Monticola",
-    "country": "Italy",
-    "locality": "Borgo San Dalmazzo"
-  },
-  {
     "id": "MZURORN2025-224",
     "name": "Monticola solitarius (Linnaeus, 1758)",
     "common": "Blue rock thrush",
@@ -1748,6 +1688,46 @@
     "genus": "Monticola",
     "country": "Italy",
     "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-199",
+    "name": "Motacilla alba Linnaeus, 1758",
+    "common": "White wagtail",
+    "order": "Passeriformes",
+    "family": "Motacillidae",
+    "genus": "Motacilla",
+    "country": "Italy",
+    "locality": "Padua"
+  },
+  {
+    "id": "MZURORN2025-201",
+    "name": "Motacilla alba Linnaeus, 1758",
+    "common": "White wagtail",
+    "order": "Passeriformes",
+    "family": "Motacillidae",
+    "genus": "Motacilla",
+    "country": "Italy",
+    "locality": "Padua"
+  },
+  {
+    "id": "MZURORN2025-200",
+    "name": "Motacilla cinerea Tunstall, 1771",
+    "common": "Grey wagtail",
+    "order": "Passeriformes",
+    "family": "Motacillidae",
+    "genus": "Motacilla",
+    "country": "Italy",
+    "locality": "Rome"
+  },
+  {
+    "id": "MZURORN2025-202",
+    "name": "Motacilla cinerea Tunstall, 1771",
+    "common": "Grey wagtail",
+    "order": "Passeriformes",
+    "family": "Motacillidae",
+    "genus": "Motacilla",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
   },
   {
     "id": "MZURORN2025-065",
@@ -1891,7 +1871,7 @@
   },
   {
     "id": "MZURORN2025-015",
-    "name": "Parus major (Linnaeus, 1758)",
+    "name": "Parus major Linnaeus, 1758",
     "common": "Great tit",
     "order": "Passeriformes",
     "family": "Paridae",
@@ -1901,7 +1881,7 @@
   },
   {
     "id": "MZURORN2025-016",
-    "name": "Parus major (Linnaeus, 1758)",
+    "name": "Parus major Linnaeus, 1758",
     "common": "Great tit",
     "order": "Passeriformes",
     "family": "Paridae",
@@ -1911,7 +1891,7 @@
   },
   {
     "id": "MZURORN2025-249",
-    "name": "Parus major (Linnaeus, 1758)",
+    "name": "Parus major Linnaeus, 1758",
     "common": "Great tit",
     "order": "Passeriformes",
     "family": "Paridae",
@@ -1921,7 +1901,7 @@
   },
   {
     "id": "MZURORN2025-250",
-    "name": "Parus major (Linnaeus, 1758)",
+    "name": "Parus major Linnaeus, 1758",
     "common": "Great tit",
     "order": "Passeriformes",
     "family": "Paridae",
@@ -1931,7 +1911,7 @@
   },
   {
     "id": "MZURORN2025-251",
-    "name": "Parus major (Linnaeus, 1758)",
+    "name": "Parus major Linnaeus, 1758",
     "common": "Great tit",
     "order": "Passeriformes",
     "family": "Paridae",
@@ -1941,7 +1921,7 @@
   },
   {
     "id": "MZURORN2025-252",
-    "name": "Parus major (Linnaeus, 1758)",
+    "name": "Parus major Linnaeus, 1758",
     "common": "Great tit",
     "order": "Passeriformes",
     "family": "Paridae",
@@ -1971,7 +1951,7 @@
   },
   {
     "id": "MZURORN2025-013",
-    "name": "Passer italiae (Viellot, 1817)",
+    "name": "Passer italiae (Vieillot, 1817)",
     "common": "Italian sparrow",
     "order": "Passeriformes",
     "family": "Passeridae",
@@ -1981,7 +1961,7 @@
   },
   {
     "id": "MZURORN2025-014",
-    "name": "Passer italiae (Viellot, 1817)",
+    "name": "Passer italiae (Vieillot, 1817)",
     "common": "Italian sparrow",
     "order": "Passeriformes",
     "family": "Passeridae",
@@ -1991,7 +1971,7 @@
   },
   {
     "id": "MZURORN2025-292",
-    "name": "Passer italiae (Viellot, 1817)",
+    "name": "Passer italiae (Vieillot, 1817)",
     "common": "Italian sparrow",
     "order": "Passeriformes",
     "family": "Passeridae",
@@ -2201,7 +2181,7 @@
   },
   {
     "id": "MZURORN2025-019",
-    "name": "Picus viridis (Linnaeus, 1758)",
+    "name": "Picus viridis Linnaeus, 1758",
     "common": "European green woodpecker",
     "order": "Piciformes",
     "family": "Picidae",
@@ -2211,7 +2191,7 @@
   },
   {
     "id": "MZURORN2025-209",
-    "name": "Picus viridis (Linnaeus, 1758)",
+    "name": "Picus viridis Linnaeus, 1758",
     "common": "European green woodpecker",
     "order": "Piciformes",
     "family": "Picidae",
@@ -2221,7 +2201,7 @@
   },
   {
     "id": "MZURORN2025-213",
-    "name": "Picus viridis (Linnaeus, 1758)",
+    "name": "Picus viridis Linnaeus, 1758",
     "common": "European green woodpecker",
     "order": "Piciformes",
     "family": "Picidae",
@@ -2271,7 +2251,7 @@
   },
   {
     "id": "MZURORN2025-072",
-    "name": "Podiceps nigricollis (Brehm, 1831)",
+    "name": "Podiceps nigricollis Brehm, 1831",
     "common": "Black-necked grebe",
     "order": "Podicipediformes",
     "family": "Podicipedidae",
@@ -2381,7 +2361,7 @@
   },
   {
     "id": "MZURORN2025-031",
-    "name": "Rallus aquaticus (Linnaeus, 1758)",
+    "name": "Rallus aquaticus Linnaeus, 1758",
     "common": "Water rail",
     "order": "Gruiformes",
     "family": "Rallidae",
@@ -2391,7 +2371,7 @@
   },
   {
     "id": "MZURORN2025-032",
-    "name": "Rallus aquaticus (Linnaeus, 1758)",
+    "name": "Rallus aquaticus Linnaeus, 1758",
     "common": "Water rail",
     "order": "Gruiformes",
     "family": "Rallidae",
@@ -2401,7 +2381,7 @@
   },
   {
     "id": "MZURORN2025-134",
-    "name": "Rallus aquaticus (Linnaeus, 1758)",
+    "name": "Rallus aquaticus Linnaeus, 1758",
     "common": "Water rail",
     "order": "Gruiformes",
     "family": "Rallidae",
@@ -2411,7 +2391,7 @@
   },
   {
     "id": "MZURORN2025-137",
-    "name": "Rallus aquaticus (Linnaeus, 1758)",
+    "name": "Rallus aquaticus Linnaeus, 1758",
     "common": "Water rail",
     "order": "Gruiformes",
     "family": "Rallidae",
@@ -2421,7 +2401,7 @@
   },
   {
     "id": "MZURORN2025-009",
-    "name": "Ramphastos dicolorus (Linnaeus, 1766)",
+    "name": "Ramphastos dicolorus Linnaeus, 1766",
     "common": "Red-breasted toucan",
     "order": "Piciformes",
     "family": "Ramphastidae",
@@ -2431,7 +2411,7 @@
   },
   {
     "id": "MZURORN2025-010",
-    "name": "Ramphastos dicolorus (Linnaeus, 1766)",
+    "name": "Ramphastos dicolorus Linnaeus, 1766",
     "common": "Red-breasted toucan",
     "order": "Piciformes",
     "family": "Ramphastidae",
@@ -2441,7 +2421,7 @@
   },
   {
     "id": "MZURORN2025-095",
-    "name": "Recurvirostra avosetta (Linnaeus, 1758)",
+    "name": "Recurvirostra avosetta Linnaeus, 1758",
     "common": "Pied avocet",
     "order": "Charadriiformes",
     "family": "Recurvirostridae",
@@ -2451,7 +2431,7 @@
   },
   {
     "id": "MZURORN2025-096",
-    "name": "Recurvirostra avosetta (Linnaeus, 1758)",
+    "name": "Recurvirostra avosetta Linnaeus, 1758",
     "common": "Pied avocet",
     "order": "Charadriiformes",
     "family": "Recurvirostridae",
@@ -2511,8 +2491,8 @@
   },
   {
     "id": "MZURORN2025-225",
-    "name": "Saxicola torquatus (Linnaeus, 1766)",
-    "common": "African stonechat",
+    "name": "Saxicola rubicola (Linnaeus, 1766)",
+    "common": "European Stonechat",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Saxicola",
@@ -2521,7 +2501,7 @@
   },
   {
     "id": "MZURORN2025-107",
-    "name": "Scolopax rusticola (Linnaeus, 1758)",
+    "name": "Scolopax rusticola Linnaeus, 1758",
     "common": "Eurasian woodcock",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
@@ -2541,7 +2521,7 @@
   },
   {
     "id": "MZURORN2025-257",
-    "name": "Sitta europaea (Linnaeus, 1758)",
+    "name": "Sitta europaea Linnaeus, 1758",
     "common": "Eurasian nuthatch",
     "order": "Passeriformes",
     "family": "Sittidae",
@@ -2557,7 +2537,7 @@
     "family": "Anatidae",
     "genus": "Spatula",
     "country": "Italy",
-    "locality": "Roma"
+    "locality": "Rome"
   },
   {
     "id": "MZURORN2025-066",
@@ -2588,6 +2568,26 @@
     "genus": "Spatula",
     "country": "Italy",
     "locality": "Tarquinia"
+  },
+  {
+    "id": "MZURORN2025-068",
+    "name": "Spatula querquedula (Linnaeus, 1758)",
+    "common": "Garganey",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Spatula",
+    "country": "Italy",
+    "locality": "Borgo San Dalmazzo"
+  },
+  {
+    "id": "MZURORN2025-077",
+    "name": "Spatula querquedula (Linnaeus, 1758)",
+    "common": "Garganey",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Spatula",
+    "country": "Italy",
+    "locality": "Casale Monferrato"
   },
   {
     "id": "MZURORN2025-162",
@@ -2621,7 +2621,7 @@
   },
   {
     "id": "MZURORN2025-042",
-    "name": "Strix aluco (Linnaeus, 1758)",
+    "name": "Strix aluco Linnaeus, 1758",
     "common": "Tawny owl",
     "order": "Strigiformes",
     "family": "Strigidae",
@@ -2631,7 +2631,7 @@
   },
   {
     "id": "MZURORN2025-172",
-    "name": "Strix aluco (Linnaeus, 1758)",
+    "name": "Strix aluco Linnaeus, 1758",
     "common": "Tawny owl",
     "order": "Strigiformes",
     "family": "Strigidae",
@@ -2641,7 +2641,7 @@
   },
   {
     "id": "MZURORN2025-173",
-    "name": "Strix aluco (Linnaeus, 1758)",
+    "name": "Strix aluco Linnaeus, 1758",
     "common": "Tawny owl",
     "order": "Strigiformes",
     "family": "Strigidae",
@@ -2651,7 +2651,7 @@
   },
   {
     "id": "MZURORN2025-283",
-    "name": "Sturnus vulgaris (Linnaeus, 1758)",
+    "name": "Sturnus vulgaris Linnaeus, 1758",
     "common": "Common starling",
     "order": "Passeriformes",
     "family": "Sturnidae",
@@ -2661,7 +2661,7 @@
   },
   {
     "id": "MZURORN2025-284",
-    "name": "Sturnus vulgaris (Linnaeus, 1758)",
+    "name": "Sturnus vulgaris Linnaeus, 1758",
     "common": "Common starling",
     "order": "Passeriformes",
     "family": "Sturnidae",
@@ -2671,7 +2671,7 @@
   },
   {
     "id": "MZURORN2025-285",
-    "name": "Sturnus vulgaris (Linnaeus, 1758)",
+    "name": "Sturnus vulgaris Linnaeus, 1758",
     "common": "Common starling",
     "order": "Passeriformes",
     "family": "Sturnidae",
@@ -2681,7 +2681,7 @@
   },
   {
     "id": "MZURORN2025-286",
-    "name": "Sturnus vulgaris (Linnaeus, 1758)",
+    "name": "Sturnus vulgaris Linnaeus, 1758",
     "common": "Common starling",
     "order": "Passeriformes",
     "family": "Sturnidae",
@@ -2691,7 +2691,7 @@
   },
   {
     "id": "MZURORN2025-287",
-    "name": "Sturnus vulgaris (Linnaeus, 1758)",
+    "name": "Sturnus vulgaris Linnaeus, 1758",
     "common": "Common starling",
     "order": "Passeriformes",
     "family": "Sturnidae",
@@ -2750,14 +2750,14 @@
     "locality": "Borgo San Dalmazzo"
   },
   {
-    "id": "MZURORN2025-227",
-    "name": "Sylvia cantillans (Pallas, 1764)",
-    "common": "Eastern subalpine warbler",
+    "id": "MZURORN2025-228",
+    "name": "Sylvia hortensis (J.F. Gmelin, 1789)",
+    "common": "Western Orphean warbler",
     "order": "Passeriformes",
     "family": "Sylviidae",
     "genus": "Sylvia",
     "country": "Italy",
-    "locality": "Roma, Fidene"
+    "locality": "Borgo San Dalmazzo"
   },
   {
     "id": "MZURORN2025-070",
@@ -2771,7 +2771,7 @@
   },
   {
     "id": "MZURORN2025-008",
-    "name": "Trichoglossus moluccans (Pallas, 1764)",
+    "name": "Trichoglossus moluccanus (Gmelin, 1788)",
     "common": "Rainbow lorikeet",
     "order": "Psittaciformes",
     "family": "Psittaculidae",
@@ -2791,7 +2791,7 @@
   },
   {
     "id": "MZURORN2025-114",
-    "name": "Tringa glareola   (Linnaeus, 1758)",
+    "name": "Tringa glareola   Linnaeus, 1758",
     "common": "Wood sandpiper",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
@@ -2821,17 +2821,17 @@
   },
   {
     "id": "MZURORN2025-012",
-    "name": "Trochilidaesp.  (Vigors, 1825)",
+    "name": "Trochilidae sp. Vigors, 1825",
     "common": "Hummingbird",
     "order": "Apodiformes",
     "family": "Trochilidae",
-    "genus": "Trochilidaesp.",
-    "country": "Equador",
+    "genus": "Trochilidae",
+    "country": "Ecuador",
     "locality": "NA"
   },
   {
     "id": "MZURORN2025-194",
-    "name": "Troglodytes troglodytes (Linnaeus, 1758)",
+    "name": "Troglodytes troglodytes Linnaeus, 1758",
     "common": "Eurasian wren",
     "order": "Passeriformes",
     "family": "Troglodytidae",
@@ -2841,7 +2841,7 @@
   },
   {
     "id": "MZURORN2025-195",
-    "name": "Troglodytes troglodytes (Linnaeus, 1758)",
+    "name": "Troglodytes troglodytes Linnaeus, 1758",
     "common": "Eurasian wren",
     "order": "Passeriformes",
     "family": "Troglodytidae",
@@ -2851,7 +2851,7 @@
   },
   {
     "id": "MZURORN2025-218",
-    "name": "Turdus iliacus (Linnaeus, 1758)",
+    "name": "Turdus iliacus Linnaeus, 1758",
     "common": "Redwing",
     "order": "Passeriformes",
     "family": "Turdidae",
@@ -2861,7 +2861,7 @@
   },
   {
     "id": "MZURORN2025-220",
-    "name": "Turdus iliacus (Linnaeus, 1758)",
+    "name": "Turdus iliacus Linnaeus, 1758",
     "common": "Redwing",
     "order": "Passeriformes",
     "family": "Turdidae",
@@ -2871,7 +2871,7 @@
   },
   {
     "id": "MZURORN2025-216",
-    "name": "Turdus merula (Linnaeus, 1758)",
+    "name": "Turdus merula Linnaeus, 1758",
     "common": "Common blackbird",
     "order": "Passeriformes",
     "family": "Turdidae",
@@ -2881,7 +2881,7 @@
   },
   {
     "id": "MZURORN2025-219",
-    "name": "Turdus merula (Linnaeus, 1758)",
+    "name": "Turdus merula Linnaeus, 1758",
     "common": "Common blackbird",
     "order": "Passeriformes",
     "family": "Turdidae",
@@ -2891,7 +2891,7 @@
   },
   {
     "id": "MZURORN2025-221",
-    "name": "Turdus philomelos (Brehm, 1831)",
+    "name": "Turdus philomelos Brehm, 1831",
     "common": "Song thrush",
     "order": "Passeriformes",
     "family": "Turdidae",
@@ -2901,7 +2901,7 @@
   },
   {
     "id": "MZURORN2025-222",
-    "name": "Turdus philomelos (Brehm, 1831)",
+    "name": "Turdus philomelos Brehm, 1831",
     "common": "Song thrush",
     "order": "Passeriformes",
     "family": "Turdidae",
@@ -2911,7 +2911,7 @@
   },
   {
     "id": "MZURORN2025-217",
-    "name": "Turdus torquatus (Linnaeus, 1758)",
+    "name": "Turdus torquatus Linnaeus, 1758",
     "common": "Ring ouzel",
     "order": "Passeriformes",
     "family": "Turdidae",
@@ -2931,7 +2931,7 @@
   },
   {
     "id": "MZURORN2025-180",
-    "name": "Upupa epops (Linnaeus, 1758)",
+    "name": "Upupa epops Linnaeus, 1758",
     "common": "Eurasian hoopoe",
     "order": "Bucerotiformes",
     "family": "Upupidae",
@@ -2941,7 +2941,7 @@
   },
   {
     "id": "MZURORN2025-181",
-    "name": "Upupa epops (Linnaeus, 1758)",
+    "name": "Upupa epops Linnaeus, 1758",
     "common": "Eurasian hoopoe",
     "order": "Bucerotiformes",
     "family": "Upupidae",
@@ -2951,7 +2951,7 @@
   },
   {
     "id": "MZURORN2025-182",
-    "name": "Upupa epops (Linnaeus, 1758)",
+    "name": "Upupa epops Linnaeus, 1758",
     "common": "Eurasian hoopoe",
     "order": "Bucerotiformes",
     "family": "Upupidae",
@@ -2961,7 +2961,7 @@
   },
   {
     "id": "MZURORN2025-184",
-    "name": "Upupa epops (Linnaeus, 1758)",
+    "name": "Upupa epops Linnaeus, 1758",
     "common": "Eurasian hoopoe",
     "order": "Bucerotiformes",
     "family": "Upupidae",
