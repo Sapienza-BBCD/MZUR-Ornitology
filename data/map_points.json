@@ -1,5 +1,29 @@
 [
   {
+    "id": "MZURORN2025-147",
+    "name": "Accipiter gentilis (Linnaeus, 1758)",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Accipiter",
+    "locality": "Limone Piemonte",
+    "country": "Italy",
+    "lat": 44.466054,
+    "lon": 7.369843,
+    "uncertainty": "785"
+  },
+  {
+    "id": "MZURORN2025-148",
+    "name": "Accipiter gentilis (Linnaeus, 1758)",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Accipiter",
+    "locality": "Limone Piemonte",
+    "country": "Italy",
+    "lat": 44.200369,
+    "lon": 7.571731,
+    "uncertainty": "1470"
+  },
+  {
     "id": "MZURORN2025-030",
     "name": "Accipiter nisus (Linnaeus, 1758)",
     "order": "Accipitriformes",
@@ -12,7 +36,7 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-118",
+    "id": "MZURORN2025-119",
     "name": "Accipiter nisus (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
@@ -24,7 +48,7 @@
     "uncertainty": "N\\A"
   },
   {
-    "id": "MZURORN2025-119",
+    "id": "MZURORN2025-120",
     "name": "Accipiter nisus (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
@@ -36,7 +60,7 @@
     "uncertainty": "1470"
   },
   {
-    "id": "MZURORN2025-120",
+    "id": "MZURORN2025-121",
     "name": "Accipiter nisus (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
@@ -48,31 +72,31 @@
     "uncertainty": "1374"
   },
   {
-    "id": "MZURORN2025-121",
+    "id": "MZURORN2025-122",
     "name": "Accipiter nisus (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Accipiter",
     "locality": "Fiumicino",
     "country": "Italy",
-    "lat": 44.33014,
-    "lon": 7.485924,
+    "lat": 41.7674,
+    "lon": 12.2298,
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-114",
+    "id": "MZURORN2025-115",
     "name": "Actitis hypoleucos (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Actitis",
     "locality": "Valle Millecampi",
     "country": "Italy",
-    "lat": 45.2766872,
-    "lon": 12.1593414,
+    "lat": 45.27194,
+    "lon": 12.18083,
     "uncertainty": "1000"
   },
   {
-    "id": "MZURORN2025-253",
+    "id": "MZURORN2025-254",
     "name": "Aegithalos caudatus (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Aegithalidae",
@@ -84,10 +108,10 @@
     "uncertainty": "2568"
   },
   {
-    "id": "MZURORN2025-205",
-    "name": "Alauda arvensis (Linnaeus, 1758)",
+    "id": "MZURORN2025-206",
+    "name": "Alauda arvensis Linnaeus, 1758",
     "order": "Passeriformes",
-    "family": "Aegithalidae",
+    "family": "Alaudidae",
     "genus": "Alauda",
     "locality": "NA",
     "country": "Italy",
@@ -96,28 +120,16 @@
     "uncertainty": "100000"
   },
   {
-    "id": "MZURORN2025-206",
-    "name": "Alauda arvensis (Linnaeus, 1758)",
+    "id": "MZURORN2025-207",
+    "name": "Alauda arvensis Linnaeus, 1758",
     "order": "Passeriformes",
-    "family": "Aegithalidae",
+    "family": "Alaudidae",
     "genus": "Alauda",
     "locality": "Ager Romanus",
     "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
+    "lat": 41.869748,
+    "lon": 12.442645,
     "uncertainty": "36625"
-  },
-  {
-    "id": "MZURORN2025-185",
-    "name": "Alcedo atthis (Linnaeus, 1758)",
-    "order": "Coraciiformes",
-    "family": "Alcedinidae",
-    "genus": "Alcedo",
-    "locality": "Rome",
-    "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
-    "uncertainty": "28880"
   },
   {
     "id": "MZURORN2025-186",
@@ -125,14 +137,38 @@
     "order": "Coraciiformes",
     "family": "Alcedinidae",
     "genus": "Alcedo",
+    "locality": "Rome",
+    "country": "Italy",
+    "lat": 41.999131,
+    "lon": 12.483333,
+    "uncertainty": "28880"
+  },
+  {
+    "id": "MZURORN2025-187",
+    "name": "Alcedo atthis (Linnaeus, 1758)",
+    "order": "Coraciiformes",
+    "family": "Alcedinidae",
+    "genus": "Alcedo",
     "locality": "Cuneo",
     "country": "Italy",
-    "lat": 45.388095,
-    "lon": 11.794121,
+    "lat": 44.3983,
+    "lon": 7.5456,
     "uncertainty": "1509"
   },
   {
-    "id": "MZURORN2025-128",
+    "id": "MZURORN2025-060",
+    "name": "Alectoris chukar (Gray, 1830)",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "genus": "Alectoris",
+    "locality": "NA",
+    "country": "Guatemala",
+    "lat": 15.4,
+    "lon": -90.6,
+    "uncertainty": "100000"
+  },
+  {
+    "id": "MZURORN2025-129",
     "name": "Alectoris graeca (Meisner, 1804)",
     "order": "Galliformes",
     "family": "Phasianidae",
@@ -145,126 +181,126 @@
   },
   {
     "id": "MZURORN2025-055",
-    "name": "Anas acuta (Linnaeus, 1758)",
+    "name": "Anas acuta Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anas",
     "locality": "Valle Morosina",
     "country": "Italy",
-    "lat": 44.33014,
-    "lon": 7.485924,
+    "lat": 45.2757,
+    "lon": 12.13938,
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-068",
-    "name": "Anas acuta (Linnaeus, 1758)",
+    "id": "MZURORN2025-069",
+    "name": "Anas acuta Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anas",
     "locality": "Valle Morosina",
     "country": "Italy",
-    "lat": 44.33014,
-    "lon": 7.485924,
+    "lat": 45.2757,
+    "lon": 12.13938,
     "uncertainty": "1929"
   },
   {
     "id": "MZURORN2025-049",
-    "name": "Anas crecca (Linnaeus, 1758)",
+    "name": "Anas crecca Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anas",
     "locality": "Borgo San Dalmazzo",
     "country": "Italy",
-    "lat": 45.133333,
-    "lon": 8.45,
+    "lat": 44.33014,
+    "lon": 7.485924,
     "uncertainty": "2000"
   },
   {
-    "id": "MZURORN2025-077",
-    "name": "Anas crecca (Linnaeus, 1758)",
+    "id": "MZURORN2025-078",
+    "name": "Anas crecca Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anas",
     "locality": "Borgo San Dalmazzo",
     "country": "Italy",
-    "lat": 45.133333,
-    "lon": 8.45,
+    "lat": 44.33014,
+    "lon": 7.485924,
     "uncertainty": "2452"
   },
   {
     "id": "MZURORN2025-053",
-    "name": "Anas platyrhynchos (Linnaeus, 1758)",
+    "name": "Anas platyrhynchos Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anas",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
     "id": "MZURORN2025-057",
-    "name": "Anas platyrhynchos (Linnaeus, 1758)",
+    "name": "Anas platyrhynchos Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anas",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "40000"
   },
   {
-    "id": "MZURORN2025-078",
-    "name": "Anas platyrhynchos (Linnaeus, 1758)",
-    "order": "Anseriformes",
-    "family": "Anatidae",
-    "genus": "Anas",
-    "locality": "Rome",
-    "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
-    "uncertainty": "36625"
-  },
-  {
     "id": "MZURORN2025-079",
-    "name": "Anas platyrhynchos (Linnaeus, 1758)",
+    "name": "Anas platyrhynchos Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anas",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
     "id": "MZURORN2025-080",
-    "name": "Anas platyrhynchos (Linnaeus, 1758)",
+    "name": "Anas platyrhynchos Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anas",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-091",
+    "id": "MZURORN2025-081",
+    "name": "Anas platyrhynchos Linnaeus, 1758",
+    "order": "Anseriformes",
+    "family": "Anatidae",
+    "genus": "Anas",
+    "locality": "Rome",
+    "country": "Italy",
+    "lat": 41.999131,
+    "lon": 12.483333,
+    "uncertainty": "36625"
+  },
+  {
+    "id": "MZURORN2025-092",
     "name": "Anser albifrons (Scopoli, 1769)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anser",
     "locality": "Valle Morosina",
     "country": "Italy",
-    "lat": 41.883333,
-    "lon": 12.216667,
+    "lat": 45.2757,
+    "lon": 12.13938,
     "uncertainty": "1427"
   },
   {
-    "id": "MZURORN2025-203",
+    "id": "MZURORN2025-204",
     "name": "Anthus trivialis (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Motacillidae",
@@ -276,32 +312,32 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-178",
+    "id": "MZURORN2025-179",
     "name": "Apus apus (Linnaeus, 1758)",
     "order": "Apodiformes",
     "family": "Apodidae",
     "genus": "Apus",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "1156"
   },
   {
-    "id": "MZURORN2025-150",
+    "id": "MZURORN2025-151",
     "name": "Aquila chrysaetos (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Aquila",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "1355"
   },
   {
-    "id": "MZURORN2025-083",
-    "name": "Ardea alba (Linnaeus, 1758)",
+    "id": "MZURORN2025-084",
+    "name": "Ardea alba Linnaeus, 1758",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Ardea",
@@ -313,7 +349,7 @@
   },
   {
     "id": "MZURORN2025-038",
-    "name": "Ardea purpurea (Linnaeus, 1766)",
+    "name": "Ardea purpurea Linnaeus, 1766",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Ardea",
@@ -325,54 +361,54 @@
   },
   {
     "id": "MZURORN2025-041",
-    "name": "Ardea purpurea (Linnaeus, 1766)",
+    "name": "Ardea purpurea Linnaeus, 1766",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Ardea",
     "locality": "Maccarese",
     "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
+    "lat": 41.87696,
+    "lon": 12.21975,
     "uncertainty": "N\\A"
   },
   {
-    "id": "MZURORN2025-090",
-    "name": "Ardea purpurea (Linnaeus, 1766)",
+    "id": "MZURORN2025-091",
+    "name": "Ardea purpurea Linnaeus, 1766",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Ardea",
     "locality": "Maccarese",
     "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
+    "lat": 41.87696,
+    "lon": 12.21975,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-092",
-    "name": "Ardea purpurea (Linnaeus, 1766)",
+    "id": "MZURORN2025-093",
+    "name": "Ardea purpurea Linnaeus, 1766",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Ardea",
     "locality": "Roccavione",
     "country": "Italy",
-    "lat": 45.082615,
-    "lon": 12.287164,
+    "lat": 44.31556,
+    "lon": 7.485,
     "uncertainty": "7136"
   },
   {
-    "id": "MZURORN2025-093",
-    "name": "Ardea purpurea (Linnaeus, 1766)",
+    "id": "MZURORN2025-094",
+    "name": "Ardea purpurea Linnaeus, 1766",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Ardea",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "1759"
   },
   {
-    "id": "MZURORN2025-175",
+    "id": "MZURORN2025-176",
     "name": "Asio flammeus (Pontoppidan, 1763)",
     "order": "Strigiformes",
     "family": "Strigidae",
@@ -384,7 +420,7 @@
     "uncertainty": "2568"
   },
   {
-    "id": "MZURORN2025-176",
+    "id": "MZURORN2025-177",
     "name": "Asio flammeus (Pontoppidan, 1763)",
     "order": "Strigiformes",
     "family": "Strigidae",
@@ -396,39 +432,15 @@
     "uncertainty": "1470"
   },
   {
-    "id": "MZURORN2025-177",
+    "id": "MZURORN2025-178",
     "name": "Asio otus (Linnaeus, 1758)",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Asio",
     "locality": "Pietraporzio",
     "country": "Italy",
-    "lat": 44.200369,
-    "lon": 7.571731,
-    "uncertainty": "1470"
-  },
-  {
-    "id": "MZURORN2025-146",
-    "name": "Astur gentilis (Linnaeus, 1758)",
-    "order": "Accipitriformes",
-    "family": "Accipitridae",
-    "genus": "Astur",
-    "locality": "Limone Piemonte",
-    "country": "Italy",
-    "lat": 44.466054,
-    "lon": 7.369843,
-    "uncertainty": "785"
-  },
-  {
-    "id": "MZURORN2025-147",
-    "name": "Astur gentilis (Linnaeus, 1758)",
-    "order": "Accipitriformes",
-    "family": "Accipitridae",
-    "genus": "Astur",
-    "locality": "Limone Piemonte",
-    "country": "Italy",
-    "lat": 44.200369,
-    "lon": 7.571731,
+    "lat": 44.34377,
+    "lon": 7.03346,
     "uncertainty": "1470"
   },
   {
@@ -451,12 +463,12 @@
     "genus": "Athene",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-174",
+    "id": "MZURORN2025-175",
     "name": "Athene noctua (Scopoli, 1769)",
     "order": "Strigiformes",
     "family": "Strigidae",
@@ -475,8 +487,8 @@
     "genus": "Aythya",
     "locality": "Casale Monferrato",
     "country": "Italy",
-    "lat": 45.082615,
-    "lon": 12.287164,
+    "lat": 45.13336,
+    "lon": 8.45714,
     "uncertainty": "7136"
   },
   {
@@ -487,37 +499,37 @@
     "genus": "Aythya",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-062",
+    "id": "MZURORN2025-063",
     "name": "Aythya ferina (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Aythya",
     "locality": "Casale Monferrato",
     "country": "Italy",
-    "lat": 45.082615,
-    "lon": 12.287164,
+    "lat": 45.13336,
+    "lon": 8.45714,
     "uncertainty": "7136"
   },
   {
-    "id": "MZURORN2025-072",
+    "id": "MZURORN2025-073",
     "name": "Aythya ferina (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Aythya",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
     "id": "MZURORN2025-054",
-    "name": "Aythya nyroca (Guldenstadt, 1770)",
+    "name": "Aythya nyroca (Güldenstädt, 1770)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Aythya",
@@ -528,21 +540,21 @@
     "uncertainty": "2539"
   },
   {
-    "id": "MZURORN2025-063",
-    "name": "Aythya nyroca (Guldenstadt, 1770)",
+    "id": "MZURORN2025-064",
+    "name": "Aythya nyroca (Güldenstädt, 1770)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Aythya",
     "locality": "Valle Millecampi",
     "country": "Italy",
-    "lat": 45.133333,
-    "lon": 8.45,
+    "lat": 45.27194,
+    "lon": 12.18083,
     "uncertainty": "2452"
   },
   {
-    "id": "MZURORN2025-084",
+    "id": "MZURORN2025-085",
     "name": "Botaurus stellaris (Linnaeus, 1758)",
-    "order": "Ciconiiformes",
+    "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Botaurus",
     "locality": "Fusina",
@@ -559,19 +571,19 @@
     "genus": "Bubo",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-151",
+    "id": "MZURORN2025-152",
     "name": "Bubo bubo (Linnaeus, 1758)",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Bubo",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
@@ -595,7 +607,7 @@
     "genus": "Buteo",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
@@ -607,21 +619,9 @@
     "genus": "Buteo",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
-  },
-  {
-    "id": "MZURORN2025-148",
-    "name": "Buteo buteo (Linnaeus, 1758)",
-    "order": "Accipitriformes",
-    "family": "Accipitridae",
-    "genus": "Buteo",
-    "locality": "Casal de' Pazzi",
-    "country": "Italy",
-    "lat": 44.200369,
-    "lon": 7.571731,
-    "uncertainty": "1470"
   },
   {
     "id": "MZURORN2025-149",
@@ -629,14 +629,26 @@
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Buteo",
+    "locality": "Casal de' Pazzi",
+    "country": "Italy",
+    "lat": 41.9345,
+    "lon": 12.5565,
+    "uncertainty": "1470"
+  },
+  {
+    "id": "MZURORN2025-150",
+    "name": "Buteo buteo (Linnaeus, 1758)",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Buteo",
     "locality": "Robilante",
     "country": "Italy",
-    "lat": 41.927097,
-    "lon": 12.564616,
+    "lat": 44.293,
+    "lon": 7.512,
     "uncertainty": "958"
   },
   {
-    "id": "MZURORN2025-108",
+    "id": "MZURORN2025-109",
     "name": "Calidris minuta (Leisler, 1812)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
@@ -648,7 +660,7 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-101",
+    "id": "MZURORN2025-102",
     "name": "Calidris pugnax (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
@@ -660,18 +672,6 @@
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-102",
-    "name": "Calidris pugnax (Linnaeus, 1758)",
-    "order": "Charadriiformes",
-    "family": "Scolopacidae",
-    "genus": "Calidris",
-    "locality": "Rome",
-    "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
-    "uncertainty": "36625"
-  },
-  {
     "id": "MZURORN2025-103",
     "name": "Calidris pugnax (Linnaeus, 1758)",
     "order": "Charadriiformes",
@@ -679,7 +679,7 @@
     "genus": "Calidris",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
@@ -689,50 +689,62 @@
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Calidris",
-    "locality": "Ager Romanus",
+    "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-152",
-    "name": "Caprimulgus europaeus (Linnaeus, 1758)",
+    "id": "MZURORN2025-105",
+    "name": "Calidris pugnax (Linnaeus, 1758)",
+    "order": "Charadriiformes",
+    "family": "Scolopacidae",
+    "genus": "Calidris",
+    "locality": "Ager Romanus",
+    "country": "Italy",
+    "lat": 41.869748,
+    "lon": 12.442645,
+    "uncertainty": "36625"
+  },
+  {
+    "id": "MZURORN2025-153",
+    "name": "Caprimulgus europaeus Linnaeus, 1758",
     "order": "Caprimulgiformes",
     "family": "Caprimulgidae",
     "genus": "Caprimulgus",
     "locality": "Borgo San Dalmazzo",
     "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
+    "lat": 44.33014,
+    "lon": 7.485924,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-153",
-    "name": "Caprimulgus europaeus (Linnaeus, 1758)",
+    "id": "MZURORN2025-154",
+    "name": "Caprimulgus europaeus Linnaeus, 1758",
     "order": "Caprimulgiformes",
     "family": "Caprimulgidae",
     "genus": "Caprimulgus",
     "locality": "Zannone Island",
     "country": "Italy",
-    "lat": 44.33014,
-    "lon": 7.485924,
+    "lat": 40.96915,
+    "lon": 13.05418,
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-154",
-    "name": "Caprimulgus europaeus (Linnaeus, 1758)",
+    "id": "MZURORN2025-155",
+    "name": "Caprimulgus europaeus Linnaeus, 1758",
     "order": "Caprimulgiformes",
     "family": "Caprimulgidae",
     "genus": "Caprimulgus",
     "locality": "Zannone Island",
     "country": "Italy",
-    "lat": 40.970559,
-    "lon": 13.054792,
+    "lat": 40.96915,
+    "lon": 13.05418,
     "uncertainty": "834"
   },
   {
-    "id": "MZURORN2025-270",
+    "id": "MZURORN2025-271",
     "name": "Carduelis carduelis (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
@@ -744,7 +756,7 @@
     "uncertainty": "2568"
   },
   {
-    "id": "MZURORN2025-243",
+    "id": "MZURORN2025-244",
     "name": "Certhia brachydactyla (Brehm, 1820)",
     "order": "Passeriformes",
     "family": "Certhiidae",
@@ -756,7 +768,7 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-244",
+    "id": "MZURORN2025-245",
     "name": "Certhia brachydactyla (Brehm, 1820)",
     "order": "Passeriformes",
     "family": "Certhiidae",
@@ -768,7 +780,7 @@
     "uncertainty": "2568"
   },
   {
-    "id": "MZURORN2025-245",
+    "id": "MZURORN2025-246",
     "name": "Certhia brachydactyla (Brehm, 1820)",
     "order": "Passeriformes",
     "family": "Certhiidae",
@@ -780,7 +792,7 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-232",
+    "id": "MZURORN2025-233",
     "name": "Cettia cetti (Temminck, 1820)",
     "order": "Passeriformes",
     "family": "Cettiidae",
@@ -792,20 +804,8 @@
     "uncertainty": "1728"
   },
   {
-    "id": "MZURORN2025-097",
-    "name": "Charadrius dubius (Scopoli, 1786)",
-    "order": "Charadriiformes",
-    "family": "Charadriidae",
-    "genus": "Charadrius",
-    "locality": "Tarquinia",
-    "country": "Italy",
-    "lat": 42.25,
-    "lon": 11.75,
-    "uncertainty": "2539"
-  },
-  {
     "id": "MZURORN2025-098",
-    "name": "Charadrius hiaticula (Linnaeus, 1758)",
+    "name": "Charadrius dubius Scopoli, 1786",
     "order": "Charadriiformes",
     "family": "Charadriidae",
     "genus": "Charadrius",
@@ -816,16 +816,16 @@
     "uncertainty": "2539"
   },
   {
-    "id": "MZURORN2025-163",
-    "name": "Chlidonias niger (Linnaeus, 1758)",
+    "id": "MZURORN2025-099",
+    "name": "Charadrius hiaticula Linnaeus, 1758",
     "order": "Charadriiformes",
-    "family": "Laridae",
-    "genus": "Chlidonias",
-    "locality": "Pietraporzio",
+    "family": "Charadriidae",
+    "genus": "Charadrius",
+    "locality": "Tarquinia",
     "country": "Italy",
-    "lat": 41.722409,
-    "lon": 12.396117,
-    "uncertainty": "6372"
+    "lat": 42.25,
+    "lon": 11.75,
+    "uncertainty": "2539"
   },
   {
     "id": "MZURORN2025-164",
@@ -833,14 +833,26 @@
     "order": "Charadriiformes",
     "family": "Laridae",
     "genus": "Chlidonias",
+    "locality": "Pietraporzio",
+    "country": "Italy",
+    "lat": 44.34377,
+    "lon": 7.03346,
+    "uncertainty": "6372"
+  },
+  {
+    "id": "MZURORN2025-165",
+    "name": "Chlidonias niger (Linnaeus, 1758)",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Chlidonias",
     "locality": "Chioggia",
     "country": "Italy",
-    "lat": 44.342541,
-    "lon": 7.031874,
+    "lat": 45.2186,
+    "lon": 12.2786,
     "uncertainty": "1156"
   },
   {
-    "id": "MZURORN2025-273",
+    "id": "MZURORN2025-274",
     "name": "Chloris chloris (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
@@ -852,7 +864,7 @@
     "uncertainty": "2298"
   },
   {
-    "id": "MZURORN2025-274",
+    "id": "MZURORN2025-275",
     "name": "Chloris chloris (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
@@ -864,19 +876,7 @@
     "uncertainty": "7350"
   },
   {
-    "id": "MZURORN2025-165",
-    "name": "Chroicocephalus ridibundus (Linnaeus, 1766)",
-    "order": "Charadriiformes",
-    "family": "Laridae",
-    "genus": "Chroicocephalus",
-    "locality": "Rome",
-    "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
-    "uncertainty": "2637"
-  },
-  {
-    "id": "MZURORN2025-195",
+    "id": "MZURORN2025-196",
     "name": "Cinclus cinclus (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Cinclidae",
@@ -888,15 +888,15 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-196",
+    "id": "MZURORN2025-197",
     "name": "Cinclus cinclus (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Cinclidae",
     "genus": "Cinclus",
     "locality": "Cuneo",
     "country": "Italy",
-    "lat": 45.388095,
-    "lon": 11.794121,
+    "lat": 44.3983,
+    "lon": 7.5456,
     "uncertainty": "1509"
   },
   {
@@ -912,7 +912,7 @@
     "uncertainty": "14488"
   },
   {
-    "id": "MZURORN2025-145",
+    "id": "MZURORN2025-146",
     "name": "Circus aeruginosus (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
@@ -924,7 +924,7 @@
     "uncertainty": "816"
   },
   {
-    "id": "MZURORN2025-144",
+    "id": "MZURORN2025-145",
     "name": "Circus cyaneus (Linnaeus, 1766)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
@@ -936,20 +936,8 @@
     "uncertainty": "3324"
   },
   {
-    "id": "MZURORN2025-278",
-    "name": "Coccothraustes coccothraustes (Brisson, 1760)",
-    "order": "Passeriformes",
-    "family": "Fringillidae",
-    "genus": "Coccothraustes",
-    "locality": "Roccasparvera",
-    "country": "Italy",
-    "lat": 44.341424,
-    "lon": 7.44016,
-    "uncertainty": "896"
-  },
-  {
-    "id": "MZURORN2025-280",
-    "name": "Coccothraustes coccothraustes (Brisson, 1760)",
+    "id": "MZURORN2025-279",
+    "name": "Coccothraustes coccothraustes (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Coccothraustes",
@@ -961,55 +949,43 @@
   },
   {
     "id": "MZURORN2025-281",
-    "name": "Coccothraustes coccothraustes (Brisson, 1760)",
+    "name": "Coccothraustes coccothraustes (Linnaeus, 1758)",
+    "order": "Passeriformes",
+    "family": "Fringillidae",
+    "genus": "Coccothraustes",
+    "locality": "Roccasparvera",
+    "country": "Italy",
+    "lat": 44.341424,
+    "lon": 7.44016,
+    "uncertainty": "896"
+  },
+  {
+    "id": "MZURORN2025-282",
+    "name": "Coccothraustes coccothraustes (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Coccothraustes",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-259",
-    "name": "Coloeus monedula (Linnaeus, 1758)",
-    "order": "Passeriformes",
-    "family": "Corvidae",
-    "genus": "Coloeus",
-    "locality": "Ager Romanus",
-    "country": "Italy",
-    "lat": 41.869748,
-    "lon": 12.442645,
-    "uncertainty": "28880"
-  },
-  {
-    "id": "MZURORN2025-260",
-    "name": "Coloeus monedula (Linnaeus, 1758)",
-    "order": "Passeriformes",
-    "family": "Corvidae",
-    "genus": "Coloeus",
-    "locality": "Ager Romanus",
-    "country": "Italy",
-    "lat": 41.869748,
-    "lon": 12.442645,
-    "uncertainty": "28880"
-  },
-  {
-    "id": "MZURORN2025-160",
-    "name": "Columba palumbus (Linnaeus, 1758)",
+    "id": "MZURORN2025-161",
+    "name": "Columba palumbus Linnaeus, 1758",
     "order": "Columbiformes",
     "family": "Columbidae",
     "genus": "Columba",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-162",
-    "name": "Columba palumbus (Linnaeus, 1758)",
+    "id": "MZURORN2025-163",
+    "name": "Columba palumbus Linnaeus, 1758",
     "order": "Columbiformes",
     "family": "Columbidae",
     "genus": "Columba",
@@ -1020,8 +996,8 @@
     "uncertainty": "7066"
   },
   {
-    "id": "MZURORN2025-182",
-    "name": "Coracias garrulus (Linnaeus, 1758)",
+    "id": "MZURORN2025-183",
+    "name": "Coracias garrulus Linnaeus, 1758",
     "order": "Coraciiformes",
     "family": "Coraciidae",
     "genus": "Coracias",
@@ -1033,7 +1009,7 @@
   },
   {
     "id": "MZURORN2025-011",
-    "name": "Corvus albus (Statius Müller, 1776)",
+    "name": "Corvus albus Müller, 1776",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Corvus",
@@ -1044,20 +1020,20 @@
     "uncertainty": "3285"
   },
   {
-    "id": "MZURORN2025-257",
-    "name": "Corvus corax (Linnaeus, 1758)",
+    "id": "MZURORN2025-258",
+    "name": "Corvus corax Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Corvus",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-261",
-    "name": "Corvus corone (Linnaeus, 1758)",
+    "id": "MZURORN2025-262",
+    "name": "Corvus cornix Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Corvus",
@@ -1068,52 +1044,64 @@
     "uncertainty": "862"
   },
   {
-    "id": "MZURORN2025-262",
-    "name": "Corvus corone (Linnaeus, 1758)",
+    "id": "MZURORN2025-263",
+    "name": "Corvus cornix Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Corvus",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-258",
-    "name": "Corvus frugilegus (Linnaeus, 1758)",
+    "id": "MZURORN2025-259",
+    "name": "Corvus frugilegus Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Corvus",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-132",
+    "id": "MZURORN2025-260",
+    "name": "Corvus monedula Linnaeus, 1758",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Corvus",
+    "locality": "Ager Romanus",
+    "country": "Italy",
+    "lat": 41.869748,
+    "lon": 12.442645,
+    "uncertainty": "28880"
+  },
+  {
+    "id": "MZURORN2025-261",
+    "name": "Corvus monedula Linnaeus, 1758",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Corvus",
+    "locality": "Ager Romanus",
+    "country": "Italy",
+    "lat": 41.869748,
+    "lon": 12.442645,
+    "uncertainty": "28880"
+  },
+  {
+    "id": "MZURORN2025-133",
     "name": "Coturnix coturnix (Linnaeus, 1758)",
     "order": "Galliformes",
     "family": "Phasianidae",
     "genus": "Coturnix",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
-  },
-  {
-    "id": "MZURORN2025-134",
-    "name": "Coturnix coturnix (Linnaeus, 1758)",
-    "order": "Galliformes",
-    "family": "Phasianidae",
-    "genus": "Coturnix",
-    "locality": "Borgo San Dalmazzo",
-    "country": "Italy",
-    "lat": 44.33014,
-    "lon": 7.485924,
-    "uncertainty": "1929"
   },
   {
     "id": "MZURORN2025-135",
@@ -1128,8 +1116,20 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-155",
-    "name": "Cuculus canorus (Linnaeus, 1758)",
+    "id": "MZURORN2025-136",
+    "name": "Coturnix coturnix (Linnaeus, 1758)",
+    "order": "Galliformes",
+    "family": "Phasianidae",
+    "genus": "Coturnix",
+    "locality": "Borgo San Dalmazzo",
+    "country": "Italy",
+    "lat": 44.33014,
+    "lon": 7.485924,
+    "uncertainty": "1929"
+  },
+  {
+    "id": "MZURORN2025-156",
+    "name": "Cuculus canorus Linnaeus, 1758",
     "order": "Cuculiformes",
     "family": "Cuculidae",
     "genus": "Cuculus",
@@ -1140,8 +1140,8 @@
     "uncertainty": "6372"
   },
   {
-    "id": "MZURORN2025-156",
-    "name": "Cuculus canorus (Linnaeus, 1758)",
+    "id": "MZURORN2025-157",
+    "name": "Cuculus canorus Linnaeus, 1758",
     "order": "Cuculiformes",
     "family": "Cuculidae",
     "genus": "Cuculus",
@@ -1152,8 +1152,8 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-157",
-    "name": "Cuculus canorus (Linnaeus, 1758)",
+    "id": "MZURORN2025-158",
+    "name": "Cuculus canorus Linnaeus, 1758",
     "order": "Cuculiformes",
     "family": "Cuculidae",
     "genus": "Cuculus",
@@ -1165,18 +1165,18 @@
   },
   {
     "id": "MZURORN2025-227",
-    "name": "Curruca hortensis (Gmelin, 1789)",
+    "name": "Curruca cantillans Pallas, 1764",
     "order": "Passeriformes",
     "family": "Sylviidae",
     "genus": "Curruca",
-    "locality": "Borgo San Dalmazzo",
+    "locality": "Roma, Fidene",
     "country": "Italy",
-    "lat": 44.33014,
-    "lon": 7.485924,
-    "uncertainty": "1929"
+    "lat": 41.978832,
+    "lon": 12.515607,
+    "uncertainty": "1913"
   },
   {
-    "id": "MZURORN2025-255",
+    "id": "MZURORN2025-256",
     "name": "Cyanistes caeruleus (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Paridae",
@@ -1195,7 +1195,7 @@
     "genus": "Dendrocopos",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
@@ -1212,7 +1212,7 @@
     "uncertainty": "28880"
   },
   {
-    "id": "MZURORN2025-213",
+    "id": "MZURORN2025-214",
     "name": "Dendrocopos major (Linnaeus, 1758)",
     "order": "Piciformes",
     "family": "Picidae",
@@ -1224,7 +1224,7 @@
     "uncertainty": "100000"
   },
   {
-    "id": "MZURORN2025-214",
+    "id": "MZURORN2025-215",
     "name": "Dendrocopos major (Linnaeus, 1758)",
     "order": "Piciformes",
     "family": "Picidae",
@@ -1236,7 +1236,7 @@
     "uncertainty": "479"
   },
   {
-    "id": "MZURORN2025-210",
+    "id": "MZURORN2025-211",
     "name": "Dryobates minor (Linnaeus, 1758)",
     "order": "Piciformes",
     "family": "Picidae",
@@ -1248,33 +1248,33 @@
     "uncertainty": "2568"
   },
   {
-    "id": "MZURORN2025-082",
+    "id": "MZURORN2025-083",
     "name": "Egretta garzetta (Linnaeus, 1766)",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Egretta",
     "locality": "Borgo San Dalmazzo",
     "country": "Italy",
-    "lat": 45.416667,
-    "lon": 11.883333,
+    "lat": 44.33014,
+    "lon": 7.485924,
     "uncertainty": "7350"
   },
   {
-    "id": "MZURORN2025-297",
-    "name": "Emberiza calandra (Linnaeus, 1758)",
-    "order": "Pelecaniformes",
+    "id": "MZURORN2025-298",
+    "name": "Emberiza calandra Linnaeus, 1758",
+    "order": "Passeriformes",
     "family": "Emberizidae",
     "genus": "Emberiza",
     "locality": "Zannone Island",
     "country": "Italy",
-    "lat": 40.970559,
-    "lon": 13.054792,
+    "lat": 40.96915,
+    "lon": 13.05418,
     "uncertainty": "834"
   },
   {
-    "id": "MZURORN2025-294",
-    "name": "Emberiza citrinella (Linnaeus, 1758)",
-    "order": "Pelecaniformes",
+    "id": "MZURORN2025-295",
+    "name": "Emberiza citrinella Linnaeus, 1758",
+    "order": "Passeriformes",
     "family": "Emberizidae",
     "genus": "Emberiza",
     "locality": "Borgo San Dalmazzo",
@@ -1284,9 +1284,9 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-295",
-    "name": "Emberiza citrinella (Linnaeus, 1758)",
-    "order": "Pelecaniformes",
+    "id": "MZURORN2025-296",
+    "name": "Emberiza citrinella Linnaeus, 1758",
+    "order": "Passeriformes",
     "family": "Emberizidae",
     "genus": "Emberiza",
     "locality": "Boves",
@@ -1296,9 +1296,9 @@
     "uncertainty": "1676"
   },
   {
-    "id": "MZURORN2025-296",
-    "name": "Emberiza citrinella (Linnaeus, 1758)",
-    "order": "Pelecaniformes",
+    "id": "MZURORN2025-297",
+    "name": "Emberiza citrinella Linnaeus, 1758",
+    "order": "Passeriformes",
     "family": "Emberizidae",
     "genus": "Emberiza",
     "locality": "Noventa Padovana",
@@ -1332,7 +1332,7 @@
     "uncertainty": "898"
   },
   {
-    "id": "MZURORN2025-188",
+    "id": "MZURORN2025-189",
     "name": "Erithacus rubecula (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
@@ -1344,32 +1344,32 @@
     "uncertainty": "898"
   },
   {
-    "id": "MZURORN2025-125",
-    "name": "Falco naumanni (Fleischer, 1818)",
+    "id": "MZURORN2025-126",
+    "name": "Falco naumanni Fleischer, 1818",
     "order": "Falconiformes",
     "family": "Falconidae",
     "genus": "Falco",
     "locality": "Zannone Island",
     "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
+    "lat": 40.96915,
+    "lon": 13.05418,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-122",
-    "name": "Falco subbuteo (Linnaeus, 1758)",
+    "id": "MZURORN2025-123",
+    "name": "Falco subbuteo Linnaeus, 1758",
     "order": "Falconiformes",
     "family": "Falconidae",
     "genus": "Falco",
     "locality": "Zannone Island",
     "country": "Italy",
-    "lat": 41.777933,
-    "lon": 12.297191,
+    "lat": 40.96915,
+    "lon": 13.05418,
     "uncertainty": "7066"
   },
   {
-    "id": "MZURORN2025-123",
-    "name": "Falco subbuteo (Linnaeus, 1758)",
+    "id": "MZURORN2025-124",
+    "name": "Falco subbuteo Linnaeus, 1758",
     "order": "Falconiformes",
     "family": "Falconidae",
     "genus": "Falco",
@@ -1380,32 +1380,32 @@
     "uncertainty": "834"
   },
   {
-    "id": "MZURORN2025-124",
-    "name": "Falco subbuteo (Linnaeus, 1758)",
+    "id": "MZURORN2025-125",
+    "name": "Falco subbuteo Linnaeus, 1758",
     "order": "Falconiformes",
     "family": "Falconidae",
     "genus": "Falco",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "1470"
   },
   {
     "id": "MZURORN2025-028",
-    "name": "Falco tinnunculus (Linnaeus, 1758)",
+    "name": "Falco tinnunculus Linnaeus, 1758",
     "order": "Falconiformes",
     "family": "Falconidae",
     "genus": "Falco",
     "locality": "Cuneo",
     "country": "Italy",
-    "lat": 45.388095,
-    "lon": 11.794121,
+    "lat": 44.3983,
+    "lon": 7.5456,
     "uncertainty": "1509"
   },
   {
     "id": "MZURORN2025-029",
-    "name": "Falco tinnunculus (Linnaeus, 1758)",
+    "name": "Falco tinnunculus Linnaeus, 1758",
     "order": "Falconiformes",
     "family": "Falconidae",
     "genus": "Falco",
@@ -1416,31 +1416,31 @@
     "uncertainty": "1470"
   },
   {
-    "id": "MZURORN2025-129",
-    "name": "Falco tinnunculus (Linnaeus, 1758)",
+    "id": "MZURORN2025-130",
+    "name": "Falco tinnunculus Linnaeus, 1758",
     "order": "Falconiformes",
     "family": "Falconidae",
     "genus": "Falco",
     "locality": "Cuneo",
     "country": "Italy",
-    "lat": 44.200369,
-    "lon": 7.571731,
+    "lat": 44.3983,
+    "lon": 7.5456,
     "uncertainty": "1470"
   },
   {
-    "id": "MZURORN2025-130",
-    "name": "Falco tinnunculus (Linnaeus, 1758)",
+    "id": "MZURORN2025-131",
+    "name": "Falco tinnunculus Linnaeus, 1758",
     "order": "Falconiformes",
     "family": "Falconidae",
     "genus": "Falco",
     "locality": "Vinadio",
     "country": "Italy",
-    "lat": 45.388095,
-    "lon": 11.794121,
+    "lat": 44.30902,
+    "lon": 7.17603,
     "uncertainty": "1509"
   },
   {
-    "id": "MZURORN2025-252",
+    "id": "MZURORN2025-253",
     "name": "Ficedula hypoleuca (Pallas, 1764)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
@@ -1453,33 +1453,33 @@
   },
   {
     "id": "MZURORN2025-023",
-    "name": "Fringilla coelebs (Linnaeus, 1758)",
+    "name": "Fringilla coelebs Linnaeus, 1758",
     "order": "Passeriformes",
-    "family": "Fringillinae",
+    "family": "Fringillidae",
     "genus": "Fringilla",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
-    "uncertainty": "36625"
-  },
-  {
-    "id": "MZURORN2025-267",
-    "name": "Fringilla coelebs (Linnaeus, 1758)",
-    "order": "Passeriformes",
-    "family": "Fringillinae",
-    "genus": "Fringilla",
-    "locality": "Rome",
-    "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
     "id": "MZURORN2025-268",
-    "name": "Fringilla coelebs (Linnaeus, 1758)",
+    "name": "Fringilla coelebs Linnaeus, 1758",
     "order": "Passeriformes",
-    "family": "Fringillinae",
+    "family": "Fringillidae",
+    "genus": "Fringilla",
+    "locality": "Rome",
+    "country": "Italy",
+    "lat": 41.999131,
+    "lon": 12.483333,
+    "uncertainty": "36625"
+  },
+  {
+    "id": "MZURORN2025-269",
+    "name": "Fringilla coelebs Linnaeus, 1758",
+    "order": "Passeriformes",
+    "family": "Fringillidae",
     "genus": "Fringilla",
     "locality": "Selvazzano",
     "country": "Italy",
@@ -1488,8 +1488,8 @@
     "uncertainty": "14488"
   },
   {
-    "id": "MZURORN2025-269",
-    "name": "Fringilla montifringilla (Linnaeus, 1758)",
+    "id": "MZURORN2025-270",
+    "name": "Fringilla montifringilla Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Fringilla",
@@ -1501,42 +1501,42 @@
   },
   {
     "id": "MZURORN2025-033",
-    "name": "Fulica atra (Linnaeus, 1758)",
+    "name": "Fulica atra Linnaeus, 1758",
     "order": "Gruiformes",
     "family": "Rallidae",
     "genus": "Fulica",
     "locality": "Pietraporzio",
     "country": "Italy",
-    "lat": 44.342541,
-    "lon": 7.031874,
+    "lat": 44.34377,
+    "lon": 7.03346,
     "uncertainty": "1156"
   },
   {
     "id": "MZURORN2025-034",
-    "name": "Fulica atra (Linnaeus, 1758)",
+    "name": "Fulica atra Linnaeus, 1758",
     "order": "Gruiformes",
     "family": "Rallidae",
     "genus": "Fulica",
     "locality": "Pietraporzio",
     "country": "Italy",
-    "lat": 44.342541,
-    "lon": 7.031874,
+    "lat": 44.34377,
+    "lon": 7.03346,
     "uncertainty": "1156"
   },
   {
-    "id": "MZURORN2025-137",
-    "name": "Fulica atra (Linnaeus, 1758)",
+    "id": "MZURORN2025-138",
+    "name": "Fulica atra Linnaeus, 1758",
     "order": "Gruiformes",
     "family": "Rallidae",
     "genus": "Fulica",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "1470"
   },
   {
-    "id": "MZURORN2025-202",
+    "id": "MZURORN2025-203",
     "name": "Galerida cristata (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Alaudidae",
@@ -1548,19 +1548,19 @@
     "uncertainty": "28880"
   },
   {
-    "id": "MZURORN2025-107",
+    "id": "MZURORN2025-108",
     "name": "Gallinago gallinago (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Gallinago",
     "locality": "Borgo San Dalmazzo",
     "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
+    "lat": 44.33014,
+    "lon": 7.485924,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-109",
+    "id": "MZURORN2025-110",
     "name": "Gallinago gallinago (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
@@ -1572,14 +1572,14 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-105",
+    "id": "MZURORN2025-106",
     "name": "Gallinago media (Latham, 1787)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Gallinago",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.869748,
+    "lat": 41.999131,
     "lon": 12.442645,
     "uncertainty": "28880"
   },
@@ -1596,7 +1596,7 @@
     "uncertainty": "2000"
   },
   {
-    "id": "MZURORN2025-138",
+    "id": "MZURORN2025-139",
     "name": "Gallinula chloropus (Linnaeus, 1758)",
     "order": "Gruiformes",
     "family": "Rallidae",
@@ -1632,7 +1632,7 @@
     "uncertainty": "6372"
   },
   {
-    "id": "MZURORN2025-238",
+    "id": "MZURORN2025-239",
     "name": "Garrulus glandarius (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Corvidae",
@@ -1644,7 +1644,7 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-239",
+    "id": "MZURORN2025-240",
     "name": "Garrulus glandarius (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Corvidae",
@@ -1656,31 +1656,31 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-070",
+    "id": "MZURORN2025-071",
     "name": "Gavia stellata (Pontoppidan, 1763)",
     "order": "Gaviiformes",
     "family": "Gaviidae",
     "genus": "Gavia",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "4941"
   },
   {
-    "id": "MZURORN2025-086",
+    "id": "MZURORN2025-087",
     "name": "Gavia stellata (Pontoppidan, 1763)",
     "order": "Gaviiformes",
     "family": "Gaviidae",
     "genus": "Gavia",
     "locality": "Ostia",
     "country": "Italy",
-    "lat": 44.341424,
-    "lon": 7.44016,
+    "lat": 41.754738,
+    "lon": 12.29897,
     "uncertainty": "896"
   },
   {
-    "id": "MZURORN2025-173",
+    "id": "MZURORN2025-174",
     "name": "Glaucidium passerinum (Linnaeus, 1758)",
     "order": "Strigiformes",
     "family": "Strigidae",
@@ -1692,56 +1692,44 @@
     "uncertainty": "1385"
   },
   {
-    "id": "MZURORN2025-096",
+    "id": "MZURORN2025-097",
     "name": "Himantopus himantopus (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Recurvirostridae",
     "genus": "Himantopus",
     "locality": "Fiumicino",
     "country": "Italy",
-    "lat": 41.777933,
-    "lon": 12.297191,
+    "lat": 41.7674,
+    "lon": 12.2298,
     "uncertainty": "7066"
   },
   {
-    "id": "MZURORN2025-204",
-    "name": "Hirundo rustica (Linnaeus, 1758)",
+    "id": "MZURORN2025-205",
+    "name": "Hirundo rustica Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Hirundinidae",
     "genus": "Hirundo",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-166",
+    "id": "MZURORN2025-167",
     "name": "Hydrocoloeus minutus (Pallas, 1776)",
     "order": "Charadriiformes",
     "family": "Laridae",
     "genus": "Hydrocoloeus",
     "locality": "Jesolo",
     "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
+    "lat": 45.5356,
+    "lon": 12.6368,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-168",
-    "name": "Ichthyaetus melanocephalus (Temminck, 1820)",
-    "order": "Charadriiformes",
-    "family": "Laridae",
-    "genus": "Ichthyaetus",
-    "locality": "Fiumicino",
-    "country": "Italy",
-    "lat": 41.472641,
-    "lon": 12.6603,
-    "uncertainty": "2795"
-  },
-  {
     "id": "MZURORN2025-020",
-    "name": "Jynx torquilla (Linnaeus, 1758)",
+    "name": "Jynx torquilla Linnaeus, 1758",
     "order": "Piciformes",
     "family": "Picidae",
     "genus": "Jynx",
@@ -1752,8 +1740,8 @@
     "uncertainty": "100000"
   },
   {
-    "id": "MZURORN2025-207",
-    "name": "Jynx torquilla (Linnaeus, 1758)",
+    "id": "MZURORN2025-208",
+    "name": "Jynx torquilla Linnaeus, 1758",
     "order": "Piciformes",
     "family": "Picidae",
     "genus": "Jynx",
@@ -1764,8 +1752,8 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-209",
-    "name": "Jynx torquilla (Linnaeus, 1758)",
+    "id": "MZURORN2025-210",
+    "name": "Jynx torquilla Linnaeus, 1758",
     "order": "Piciformes",
     "family": "Picidae",
     "genus": "Jynx",
@@ -1776,8 +1764,8 @@
     "uncertainty": "2055"
   },
   {
-    "id": "MZURORN2025-211",
-    "name": "Jynx torquilla (Linnaeus, 1758)",
+    "id": "MZURORN2025-212",
+    "name": "Jynx torquilla Linnaeus, 1758",
     "order": "Piciformes",
     "family": "Picidae",
     "genus": "Jynx",
@@ -1788,19 +1776,19 @@
     "uncertainty": "464"
   },
   {
-    "id": "MZURORN2025-126",
+    "id": "MZURORN2025-127",
     "name": "Lagopus muta (Montin, 1781)",
     "order": "Galliformes",
     "family": "Phasianidae",
     "genus": "Lagopus",
     "locality": "Palanfrè",
     "country": "Italy",
-    "lat": 40.970559,
-    "lon": 13.054792,
+    "lat": 44.19725,
+    "lon": 7.49807,
     "uncertainty": "834"
   },
   {
-    "id": "MZURORN2025-127",
+    "id": "MZURORN2025-128",
     "name": "Lagopus muta (Montin, 1781)",
     "order": "Galliformes",
     "family": "Phasianidae",
@@ -1812,19 +1800,43 @@
     "uncertainty": "1399"
   },
   {
-    "id": "MZURORN2025-242",
-    "name": "Lanius senator (Linnaeus, 1758)",
+    "id": "MZURORN2025-243",
+    "name": "Lanius senator Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Laniidae",
     "genus": "Lanius",
     "locality": "Cuneo",
     "country": "Italy",
-    "lat": 45.388095,
-    "lon": 11.794121,
+    "lat": 44.3983,
+    "lon": 7.5456,
     "uncertainty": "1509"
   },
   {
-    "id": "MZURORN2025-116",
+    "id": "MZURORN2025-169",
+    "name": "Larus melanocephalus Temminck, 1820",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Larus",
+    "locality": "Fiumicino",
+    "country": "Italy",
+    "lat": 41.7674,
+    "lon": 12.2298,
+    "uncertainty": "2795"
+  },
+  {
+    "id": "MZURORN2025-166",
+    "name": "Larus ridibundus Linnaeus, 1766",
+    "order": "Charadriiformes",
+    "family": "Laridae",
+    "genus": "Larus",
+    "locality": "Rome",
+    "country": "Italy",
+    "lat": 41.999131,
+    "lon": 12.483333,
+    "uncertainty": "2637"
+  },
+  {
+    "id": "MZURORN2025-117",
     "name": "Limosa limosa (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
@@ -1836,7 +1848,7 @@
     "uncertainty": "2539"
   },
   {
-    "id": "MZURORN2025-271",
+    "id": "MZURORN2025-272",
     "name": "Linaria cannabina (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
@@ -1848,8 +1860,8 @@
     "uncertainty": "7350"
   },
   {
-    "id": "MZURORN2025-275",
-    "name": "Loxia curvirostra (Linnaeus, 1758)",
+    "id": "MZURORN2025-276",
+    "name": "Loxia curvirostra Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Loxia",
@@ -1860,8 +1872,8 @@
     "uncertainty": "100000"
   },
   {
-    "id": "MZURORN2025-191",
-    "name": "Luscinia megarhynchos (Brehm, 1831)",
+    "id": "MZURORN2025-192",
+    "name": "Luscinia megarhynchos Brehm, 1831",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Luscinia",
@@ -1896,8 +1908,8 @@
     "uncertainty": "3188"
   },
   {
-    "id": "MZURORN2025-074",
-    "name": "Mareca penelope (Linnaeus, 1758)",
+    "id": "MZURORN2025-075",
+    "name": "Mareca penelope Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Mareca",
@@ -1908,8 +1920,8 @@
     "uncertainty": "1427"
   },
   {
-    "id": "MZURORN2025-075",
-    "name": "Mareca penelope (Linnaeus, 1758)",
+    "id": "MZURORN2025-076",
+    "name": "Mareca penelope Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Mareca",
@@ -1920,67 +1932,67 @@
     "uncertainty": "957"
   },
   {
-    "id": "MZURORN2025-061",
+    "id": "MZURORN2025-062",
     "name": "Mergellus albellus (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Mergellus",
     "locality": "Valle Morosina",
     "country": "Italy",
-    "lat": 41.883333,
-    "lon": 12.216667,
+    "lat": 45.2757,
+    "lon": 12.13938,
     "uncertainty": "1427"
   },
   {
-    "id": "MZURORN2025-060",
-    "name": "Mergus serrator (Linnaeus, 1758)",
+    "id": "MZURORN2025-061",
+    "name": "Mergus serrator Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Mergus",
     "locality": "Maccarese",
     "country": "Italy",
-    "lat": 41.881674,
-    "lon": 12.20881,
+    "lat": 41.87696,
+    "lon": 12.21975,
     "uncertainty": "2000"
   },
   {
-    "id": "MZURORN2025-073",
-    "name": "Mergus serrator (Linnaeus, 1758)",
+    "id": "MZURORN2025-074",
+    "name": "Mergus serrator Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Mergus",
     "locality": "Maccarese",
     "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
+    "lat": 41.87696,
+    "lon": 12.21975,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-184",
-    "name": "Merops apiaster (Linnaeus, 1758)",
+    "id": "MZURORN2025-185",
+    "name": "Merops apiaster Linnaeus, 1758",
     "order": "Coraciiformes",
     "family": "Meropidae",
     "genus": "Merops",
     "locality": "Ager Romanus",
     "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
+    "lat": 41.869748,
+    "lon": 12.442645,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-143",
+    "id": "MZURORN2025-144",
     "name": "Milvus migrans (Boddaert, 1783)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Milvus",
     "locality": "Policoro",
     "country": "Italy",
-    "lat": 41.722409,
-    "lon": 12.396117,
+    "lat": 40.2125,
+    "lon": 16.6734,
     "uncertainty": "6372"
   },
   {
-    "id": "MZURORN2025-142",
+    "id": "MZURORN2025-143",
     "name": "Milvus milvus (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
@@ -1992,11 +2004,35 @@
     "uncertainty": "635"
   },
   {
-    "id": "MZURORN2025-198",
-    "name": "Monticola alba (Linnaeus, 1758)",
+    "id": "MZURORN2025-224",
+    "name": "Monticola solitarius (Linnaeus, 1758)",
+    "order": "Passeriformes",
+    "family": "Muscicapidae",
+    "genus": "Monticola",
+    "locality": "Rome",
+    "country": "Italy",
+    "lat": 41.999131,
+    "lon": 12.483333,
+    "uncertainty": "36625"
+  },
+  {
+    "id": "MZURORN2025-199",
+    "name": "Motacilla alba Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Motacillidae",
-    "genus": "Monticola",
+    "genus": "Motacilla",
+    "locality": "Padua",
+    "country": "Italy",
+    "lat": 45.416667,
+    "lon": 11.883333,
+    "uncertainty": "7350"
+  },
+  {
+    "id": "MZURORN2025-201",
+    "name": "Motacilla alba Linnaeus, 1758",
+    "order": "Passeriformes",
+    "family": "Motacillidae",
+    "genus": "Motacilla",
     "locality": "Padua",
     "country": "Italy",
     "lat": 45.416667,
@@ -2005,34 +2041,22 @@
   },
   {
     "id": "MZURORN2025-200",
-    "name": "Monticola alba (Linnaeus, 1758)",
+    "name": "Motacilla cinerea Tunstall, 1771",
     "order": "Passeriformes",
     "family": "Motacillidae",
-    "genus": "Monticola",
-    "locality": "Padua",
-    "country": "Italy",
-    "lat": 45.416667,
-    "lon": 11.883333,
-    "uncertainty": "7350"
-  },
-  {
-    "id": "MZURORN2025-199",
-    "name": "Monticola cinerea (Tunstall, 1771)",
-    "order": "Passeriformes",
-    "family": "Motacillidae",
-    "genus": "Monticola",
+    "genus": "Motacilla",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-201",
-    "name": "Monticola cinerea (Tunstall, 1771)",
+    "id": "MZURORN2025-202",
+    "name": "Motacilla cinerea Tunstall, 1771",
     "order": "Passeriformes",
     "family": "Motacillidae",
-    "genus": "Monticola",
+    "genus": "Motacilla",
     "locality": "Borgo San Dalmazzo",
     "country": "Italy",
     "lat": 44.33014,
@@ -2040,26 +2064,14 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-223",
-    "name": "Monticola solitarius (Linnaeus, 1758)",
-    "order": "Passeriformes",
-    "family": "Muscicapidae",
-    "genus": "Monticola",
-    "locality": "Rome",
-    "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
-    "uncertainty": "36625"
-  },
-  {
-    "id": "MZURORN2025-064",
+    "id": "MZURORN2025-065",
     "name": "Netta rufina (Pallas, 1773)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Netta",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "4941"
   },
@@ -2076,38 +2088,38 @@
     "uncertainty": "4017"
   },
   {
-    "id": "MZURORN2025-237",
+    "id": "MZURORN2025-238",
     "name": "Nucifraga caryocatactes (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Nucifraga",
     "locality": "Cuneo",
     "country": "Italy",
-    "lat": 45.388095,
-    "lon": 11.794121,
+    "lat": 44.3983,
+    "lon": 7.5456,
     "uncertainty": "1509"
   },
   {
-    "id": "MZURORN2025-111",
+    "id": "MZURORN2025-112",
     "name": "Numenius arquata (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Numenius",
     "locality": "Cuneo",
     "country": "Italy",
-    "lat": 41.869748,
-    "lon": 12.442645,
+    "lat": 44.3983,
+    "lon": 7.5456,
     "uncertainty": "28880"
   },
   {
-    "id": "MZURORN2025-115",
+    "id": "MZURORN2025-116",
     "name": "Numenius arquata (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Numenius",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "4941"
   },
@@ -2119,44 +2131,44 @@
     "genus": "Nycticorax",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-081",
+    "id": "MZURORN2025-082",
     "name": "Nycticorax nycticorax (Linnaeus, 1758)",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Nycticorax",
     "locality": "Padua",
     "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
+    "lat": 45.4071,
+    "lon": 11.8767,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-085",
+    "id": "MZURORN2025-086",
     "name": "Nycticorax nycticorax (Linnaeus, 1758)",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Nycticorax",
     "locality": "Roccasparvera",
     "country": "Italy",
-    "lat": 45.420556,
-    "lon": 12.248889,
+    "lat": 44.341424,
+    "lon": 7.44016,
     "uncertainty": "2137"
   },
   {
-    "id": "MZURORN2025-222",
+    "id": "MZURORN2025-223",
     "name": "Oenanthe oenanthe (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Oenanthe",
     "locality": "Fiumicino",
     "country": "Italy",
-    "lat": 41.777933,
-    "lon": 12.297191,
+    "lat": 41.7674,
+    "lon": 12.2298,
     "uncertainty": "7066"
   },
   {
@@ -2167,12 +2179,12 @@
     "genus": "Oriolus",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-246",
+    "id": "MZURORN2025-247",
     "name": "Oriolus oriolus (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Oriolidae",
@@ -2184,7 +2196,7 @@
     "uncertainty": "7350"
   },
   {
-    "id": "MZURORN2025-247",
+    "id": "MZURORN2025-248",
     "name": "Oriolus oriolus (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Oriolidae",
@@ -2203,25 +2215,25 @@
     "genus": "Otus",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-169",
+    "id": "MZURORN2025-170",
     "name": "Otus scops (Linnaeus, 1758)",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Otus",
     "locality": "Pietraporzio",
     "country": "Italy",
-    "lat": 41.777933,
-    "lon": 12.297191,
+    "lat": 44.34377,
+    "lon": 7.03346,
     "uncertainty": "7066"
   },
   {
     "id": "MZURORN2025-015",
-    "name": "Parus major (Linnaeus, 1758)",
+    "name": "Parus major Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Paridae",
     "genus": "Parus",
@@ -2233,19 +2245,7 @@
   },
   {
     "id": "MZURORN2025-016",
-    "name": "Parus major (Linnaeus, 1758)",
-    "order": "Passeriformes",
-    "family": "Paridae",
-    "genus": "Parus",
-    "locality": "Borgo San Dalmazzo",
-    "country": "Italy",
-    "lat": 44.33014,
-    "lon": 7.485924,
-    "uncertainty": "1929"
-  },
-  {
-    "id": "MZURORN2025-248",
-    "name": "Parus major (Linnaeus, 1758)",
+    "name": "Parus major Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Paridae",
     "genus": "Parus",
@@ -2257,7 +2257,7 @@
   },
   {
     "id": "MZURORN2025-249",
-    "name": "Parus major (Linnaeus, 1758)",
+    "name": "Parus major Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Paridae",
     "genus": "Parus",
@@ -2269,7 +2269,7 @@
   },
   {
     "id": "MZURORN2025-250",
-    "name": "Parus major (Linnaeus, 1758)",
+    "name": "Parus major Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Paridae",
     "genus": "Parus",
@@ -2281,7 +2281,7 @@
   },
   {
     "id": "MZURORN2025-251",
-    "name": "Parus major (Linnaeus, 1758)",
+    "name": "Parus major Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Paridae",
     "genus": "Parus",
@@ -2292,11 +2292,11 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-292",
-    "name": "Passer domesticus (Linnaeus, 1758)",
+    "id": "MZURORN2025-252",
+    "name": "Parus major Linnaeus, 1758",
     "order": "Passeriformes",
-    "family": "Passeridae",
-    "genus": "Passer",
+    "family": "Paridae",
+    "genus": "Parus",
     "locality": "Borgo San Dalmazzo",
     "country": "Italy",
     "lat": 44.33014,
@@ -2309,6 +2309,18 @@
     "order": "Passeriformes",
     "family": "Passeridae",
     "genus": "Passer",
+    "locality": "Borgo San Dalmazzo",
+    "country": "Italy",
+    "lat": 44.33014,
+    "lon": 7.485924,
+    "uncertainty": "1929"
+  },
+  {
+    "id": "MZURORN2025-294",
+    "name": "Passer domesticus (Linnaeus, 1758)",
+    "order": "Passeriformes",
+    "family": "Passeridae",
+    "genus": "Passer",
     "locality": "Moriglione",
     "country": "Italy",
     "lat": 44.573094,
@@ -2317,7 +2329,7 @@
   },
   {
     "id": "MZURORN2025-013",
-    "name": "Passer italiae (Viellot, 1817)",
+    "name": "Passer italiae (Vieillot, 1817)",
     "order": "Passeriformes",
     "family": "Passeridae",
     "genus": "Passer",
@@ -2329,25 +2341,25 @@
   },
   {
     "id": "MZURORN2025-014",
-    "name": "Passer italiae (Viellot, 1817)",
+    "name": "Passer italiae (Vieillot, 1817)",
     "order": "Passeriformes",
     "family": "Passeridae",
     "genus": "Passer",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-291",
-    "name": "Passer italiae (Viellot, 1817)",
+    "id": "MZURORN2025-292",
+    "name": "Passer italiae (Vieillot, 1817)",
     "order": "Passeriformes",
     "family": "Passeridae",
     "genus": "Passer",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
@@ -2364,7 +2376,7 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-288",
+    "id": "MZURORN2025-289",
     "name": "Passer montanus (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Passeridae",
@@ -2376,7 +2388,7 @@
     "uncertainty": "957"
   },
   {
-    "id": "MZURORN2025-289",
+    "id": "MZURORN2025-290",
     "name": "Passer montanus (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Passeridae",
@@ -2388,7 +2400,7 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-290",
+    "id": "MZURORN2025-291",
     "name": "Passer montanus (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Passeridae",
@@ -2400,7 +2412,7 @@
     "uncertainty": "957"
   },
   {
-    "id": "MZURORN2025-287",
+    "id": "MZURORN2025-288",
     "name": "Pastor roseus (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Sturnidae",
@@ -2412,14 +2424,14 @@
     "uncertainty": "3498"
   },
   {
-    "id": "MZURORN2025-131",
+    "id": "MZURORN2025-132",
     "name": "Perdix perdix (Linnaeus, 1758)",
     "order": "Galliformes",
     "family": "Phasianidae",
     "genus": "Perdix",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "883"
   },
@@ -2431,19 +2443,7 @@
     "genus": "Pernis",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
-    "uncertainty": "1470"
-  },
-  {
-    "id": "MZURORN2025-139",
-    "name": "Pernis apivorus (Linnaeus, 1758)",
-    "order": "Accipitriformes",
-    "family": "Accipitridae",
-    "genus": "Pernis",
-    "locality": "Rome",
-    "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "1470"
   },
@@ -2453,11 +2453,11 @@
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Pernis",
-    "locality": "Zannone Island",
+    "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
-    "uncertainty": "36625"
+    "uncertainty": "1470"
   },
   {
     "id": "MZURORN2025-141",
@@ -2465,26 +2465,38 @@
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Pernis",
+    "locality": "Zannone Island",
+    "country": "Italy",
+    "lat": 40.96915,
+    "lon": 13.05418,
+    "uncertainty": "36625"
+  },
+  {
+    "id": "MZURORN2025-142",
+    "name": "Pernis apivorus (Linnaeus, 1758)",
+    "order": "Accipitriformes",
+    "family": "Accipitridae",
+    "genus": "Pernis",
     "locality": "Certosa di Pesio",
     "country": "Italy",
-    "lat": 40.970559,
-    "lon": 13.054792,
+    "lat": 44.24083,
+    "lon": 7.66184,
     "uncertainty": "834"
   },
   {
-    "id": "MZURORN2025-088",
+    "id": "MZURORN2025-089",
     "name": "Phalacrocorax carbo (Linnaeus, 1758)",
     "order": "Suliformes",
     "family": "Phalacrocoracidae",
     "genus": "Phalacrocorax",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "2298"
   },
   {
-    "id": "MZURORN2025-189",
+    "id": "MZURORN2025-190",
     "name": "Phoenicurus ochruros (Gmelin, 1774)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
@@ -2496,7 +2508,7 @@
     "uncertainty": "1244"
   },
   {
-    "id": "MZURORN2025-187",
+    "id": "MZURORN2025-188",
     "name": "Phoenicurus phoenicurus (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
@@ -2508,7 +2520,7 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-190",
+    "id": "MZURORN2025-191",
     "name": "Phoenicurus phoenicurus (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
@@ -2520,27 +2532,27 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-192",
+    "id": "MZURORN2025-193",
     "name": "Phoenicurus phoenicurus (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Phoenicurus",
     "locality": "Zannone Island",
     "country": "Italy",
-    "lat": 40.970559,
-    "lon": 13.054792,
+    "lat": 40.96915,
+    "lon": 13.05418,
     "uncertainty": "834"
   },
   {
-    "id": "MZURORN2025-230",
+    "id": "MZURORN2025-231",
     "name": "Phylloscopus sibilatrix (Bechstein, 1793)",
     "order": "Passeriformes",
     "family": "Phylloscopidae",
     "genus": "Phylloscopus",
     "locality": "Zannone Island",
     "country": "Italy",
-    "lat": 40.970559,
-    "lon": 13.054792,
+    "lat": 40.96915,
+    "lon": 13.05418,
     "uncertainty": "834"
   },
   {
@@ -2568,18 +2580,6 @@
     "uncertainty": "1470"
   },
   {
-    "id": "MZURORN2025-240",
-    "name": "Pica pica (Linnaeus, 1758)",
-    "order": "Passeriformes",
-    "family": "Corvidae",
-    "genus": "Pica",
-    "locality": "Borgo San Dalmazzo",
-    "country": "Italy",
-    "lat": 44.33014,
-    "lon": 7.485924,
-    "uncertainty": "1929"
-  },
-  {
     "id": "MZURORN2025-241",
     "name": "Pica pica (Linnaeus, 1758)",
     "order": "Passeriformes",
@@ -2592,32 +2592,44 @@
     "uncertainty": "1929"
   },
   {
+    "id": "MZURORN2025-242",
+    "name": "Pica pica (Linnaeus, 1758)",
+    "order": "Passeriformes",
+    "family": "Corvidae",
+    "genus": "Pica",
+    "locality": "Borgo San Dalmazzo",
+    "country": "Italy",
+    "lat": 44.33014,
+    "lon": 7.485924,
+    "uncertainty": "1929"
+  },
+  {
     "id": "MZURORN2025-019",
-    "name": "Picus viridis (Linnaeus, 1758)",
+    "name": "Picus viridis Linnaeus, 1758",
     "order": "Piciformes",
     "family": "Picidae",
     "genus": "Picus",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-208",
-    "name": "Picus viridis (Linnaeus, 1758)",
+    "id": "MZURORN2025-209",
+    "name": "Picus viridis Linnaeus, 1758",
     "order": "Piciformes",
     "family": "Picidae",
     "genus": "Picus",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-212",
-    "name": "Picus viridis (Linnaeus, 1758)",
+    "id": "MZURORN2025-213",
+    "name": "Picus viridis Linnaeus, 1758",
     "order": "Piciformes",
     "family": "Picidae",
     "genus": "Picus",
@@ -2628,7 +2640,7 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-087",
+    "id": "MZURORN2025-088",
     "name": "Plegadis falcinellus (Linnaeus, 1766)",
     "order": "Pelecaniformes",
     "family": "Threskiornithidae",
@@ -2640,14 +2652,14 @@
     "uncertainty": "3959"
   },
   {
-    "id": "MZURORN2025-100",
+    "id": "MZURORN2025-101",
     "name": "Pluvialis apricaria (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Charadriidae",
     "genus": "Pluvialis",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "1509"
   },
@@ -2659,36 +2671,36 @@
     "genus": "Podiceps",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-089",
+    "id": "MZURORN2025-090",
     "name": "Podiceps cristatus (Linnaeus, 1758)",
     "order": "Podicipediformes",
     "family": "Podicipedidae",
     "genus": "Podiceps",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-071",
-    "name": "Podiceps nigricollis (Brehm, 1831)",
+    "id": "MZURORN2025-072",
+    "name": "Podiceps nigricollis Brehm, 1831",
     "order": "Podicipediformes",
     "family": "Podicipedidae",
     "genus": "Podiceps",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-254",
+    "id": "MZURORN2025-255",
     "name": "Poecile palustris (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Paridae",
@@ -2700,7 +2712,7 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-197",
+    "id": "MZURORN2025-198",
     "name": "Prunella modularis (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Prunellidae",
@@ -2724,7 +2736,7 @@
     "uncertainty": "1470"
   },
   {
-    "id": "MZURORN2025-264",
+    "id": "MZURORN2025-265",
     "name": "Pyrrhocorax graculus (Linnaeus, 1766)",
     "order": "Passeriformes",
     "family": "Corvidae",
@@ -2736,7 +2748,7 @@
     "uncertainty": "10173"
   },
   {
-    "id": "MZURORN2025-265",
+    "id": "MZURORN2025-266",
     "name": "Pyrrhocorax graculus (Linnaeus, 1766)",
     "order": "Passeriformes",
     "family": "Corvidae",
@@ -2748,7 +2760,7 @@
     "uncertainty": "957"
   },
   {
-    "id": "MZURORN2025-266",
+    "id": "MZURORN2025-267",
     "name": "Pyrrhocorax graculus (Linnaeus, 1766)",
     "order": "Passeriformes",
     "family": "Corvidae",
@@ -2760,7 +2772,7 @@
     "uncertainty": "1470"
   },
   {
-    "id": "MZURORN2025-263",
+    "id": "MZURORN2025-264",
     "name": "Pyrrhocorax pyrrhocorax (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Corvidae",
@@ -2772,7 +2784,7 @@
     "uncertainty": "1470"
   },
   {
-    "id": "MZURORN2025-276",
+    "id": "MZURORN2025-277",
     "name": "Pyrrhula pyrrhula (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
@@ -2784,7 +2796,7 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-277",
+    "id": "MZURORN2025-278",
     "name": "Pyrrhula pyrrhula (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
@@ -2796,7 +2808,7 @@
     "uncertainty": "2568"
   },
   {
-    "id": "MZURORN2025-279",
+    "id": "MZURORN2025-280",
     "name": "Pyrrhula pyrrhula (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
@@ -2809,7 +2821,7 @@
   },
   {
     "id": "MZURORN2025-031",
-    "name": "Rallus aquaticus (Linnaeus, 1758)",
+    "name": "Rallus aquaticus Linnaeus, 1758",
     "order": "Gruiformes",
     "family": "Rallidae",
     "genus": "Rallus",
@@ -2821,31 +2833,31 @@
   },
   {
     "id": "MZURORN2025-032",
-    "name": "Rallus aquaticus (Linnaeus, 1758)",
+    "name": "Rallus aquaticus Linnaeus, 1758",
     "order": "Gruiformes",
     "family": "Rallidae",
     "genus": "Rallus",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-133",
-    "name": "Rallus aquaticus (Linnaeus, 1758)",
+    "id": "MZURORN2025-134",
+    "name": "Rallus aquaticus Linnaeus, 1758",
     "order": "Gruiformes",
     "family": "Rallidae",
     "genus": "Rallus",
     "locality": "Borgo San Dalmazzo",
     "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
+    "lat": 44.33014,
+    "lon": 7.485924,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-136",
-    "name": "Rallus aquaticus (Linnaeus, 1758)",
+    "id": "MZURORN2025-137",
+    "name": "Rallus aquaticus Linnaeus, 1758",
     "order": "Gruiformes",
     "family": "Rallidae",
     "genus": "Rallus",
@@ -2857,7 +2869,7 @@
   },
   {
     "id": "MZURORN2025-009",
-    "name": "Ramphastos dicolorus (Linnaeus, 1766)",
+    "name": "Ramphastos dicolorus Linnaeus, 1766",
     "order": "Piciformes",
     "family": "Ramphastidae",
     "genus": "Ramphastos",
@@ -2869,7 +2881,7 @@
   },
   {
     "id": "MZURORN2025-010",
-    "name": "Ramphastos dicolorus (Linnaeus, 1766)",
+    "name": "Ramphastos dicolorus Linnaeus, 1766",
     "order": "Piciformes",
     "family": "Ramphastidae",
     "genus": "Ramphastos",
@@ -2880,31 +2892,31 @@
     "uncertainty": "1000000"
   },
   {
-    "id": "MZURORN2025-094",
-    "name": "Recurvirostra avosetta (Linnaeus, 1758)",
+    "id": "MZURORN2025-095",
+    "name": "Recurvirostra avosetta Linnaeus, 1758",
     "order": "Charadriiformes",
     "family": "Recurvirostridae",
     "genus": "Recurvirostra",
     "locality": "Maccarese",
     "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
+    "lat": 41.87696,
+    "lon": 12.21975,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-095",
-    "name": "Recurvirostra avosetta (Linnaeus, 1758)",
+    "id": "MZURORN2025-096",
+    "name": "Recurvirostra avosetta Linnaeus, 1758",
     "order": "Charadriiformes",
     "family": "Recurvirostridae",
     "genus": "Recurvirostra",
     "locality": "Fiumicino",
     "country": "Italy",
-    "lat": 41.883333,
-    "lon": 12.216667,
+    "lat": 41.7674,
+    "lon": 12.2298,
     "uncertainty": "1427"
   },
   {
-    "id": "MZURORN2025-231",
+    "id": "MZURORN2025-232",
     "name": "Regulus regulus (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Regulidae",
@@ -2916,7 +2928,7 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-233",
+    "id": "MZURORN2025-234",
     "name": "Regulus regulus (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Regulidae",
@@ -2926,18 +2938,6 @@
     "lat": 45.416667,
     "lon": 11.883333,
     "uncertainty": "7350"
-  },
-  {
-    "id": "MZURORN2025-058",
-    "name": "Rhynchotus rufescens (Temminck, 1815)",
-    "order": "Tinamiformes",
-    "family": "Tinamidae",
-    "genus": "Rhynchotus",
-    "locality": "NA",
-    "country": "Guatemala",
-    "lat": 15.4,
-    "lon": -90.6,
-    "uncertainty": "100000"
   },
   {
     "id": "MZURORN2025-059",
@@ -2952,19 +2952,19 @@
     "uncertainty": "100000"
   },
   {
-    "id": "MZURORN2025-167",
+    "id": "MZURORN2025-168",
     "name": "Rissa tridactyla (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Laridae",
     "genus": "Rissa",
     "locality": "Nettuno",
     "country": "Italy",
-    "lat": 45.53247,
-    "lon": 12.646526,
+    "lat": 41.4595,
+    "lon": 12.6604,
     "uncertainty": "2001"
   },
   {
-    "id": "MZURORN2025-225",
+    "id": "MZURORN2025-226",
     "name": "Saxicola rubetra (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
@@ -2976,31 +2976,31 @@
     "uncertainty": "2961"
   },
   {
-    "id": "MZURORN2025-224",
-    "name": "Saxicola torquatus (Linnaeus, 1766)",
+    "id": "MZURORN2025-225",
+    "name": "Saxicola rubicola (Linnaeus, 1766)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Saxicola",
     "locality": "Zannone Island",
     "country": "Italy",
-    "lat": 40.970559,
-    "lon": 13.054792,
+    "lat": 40.96915,
+    "lon": 13.05418,
     "uncertainty": "834"
   },
   {
-    "id": "MZURORN2025-106",
-    "name": "Scolopax rusticola (Linnaeus, 1758)",
+    "id": "MZURORN2025-107",
+    "name": "Scolopax rusticola Linnaeus, 1758",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Scolopax",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-272",
+    "id": "MZURORN2025-273",
     "name": "Serinus serinus (Linnaeus, 1766)",
     "order": "Passeriformes",
     "family": "Fringillidae",
@@ -3012,8 +3012,8 @@
     "uncertainty": "1751"
   },
   {
-    "id": "MZURORN2025-256",
-    "name": "Sitta europaea (Linnaeus, 1758)",
+    "id": "MZURORN2025-257",
+    "name": "Sitta europaea Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Sittidae",
     "genus": "Sitta",
@@ -3029,14 +3029,14 @@
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Spatula",
-    "locality": "Roma",
+    "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-065",
+    "id": "MZURORN2025-066",
     "name": "Spatula clypeata (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
@@ -3048,15 +3048,15 @@
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-066",
+    "id": "MZURORN2025-067",
     "name": "Spatula clypeata (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Spatula",
     "locality": "Maccarese",
     "country": "Italy",
-    "lat": 41.416667,
-    "lon": 12.916667,
+    "lat": 41.87696,
+    "lon": 12.21975,
     "uncertainty": "3188"
   },
   {
@@ -3072,7 +3072,7 @@
     "uncertainty": "2539"
   },
   {
-    "id": "MZURORN2025-067",
+    "id": "MZURORN2025-068",
     "name": "Spatula querquedula (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
@@ -3084,40 +3084,28 @@
     "uncertainty": "1427"
   },
   {
-    "id": "MZURORN2025-076",
+    "id": "MZURORN2025-077",
     "name": "Spatula querquedula (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Spatula",
     "locality": "Casale Monferrato",
     "country": "Italy",
-    "lat": 42.205532,
-    "lon": 11.718856,
+    "lat": 45.13336,
+    "lon": 8.45714,
     "uncertainty": "957"
   },
   {
-    "id": "MZURORN2025-161",
+    "id": "MZURORN2025-162",
     "name": "Sternula albifrons (Pallas, 1764)",
     "order": "Charadriiformes",
     "family": "Laridae",
     "genus": "Sternula",
     "locality": "Fiumicino",
     "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
+    "lat": 41.7674,
+    "lon": 12.2298,
     "uncertainty": "36625"
-  },
-  {
-    "id": "MZURORN2025-158",
-    "name": "Streptopelia turtur (Linnaeus, 1758)",
-    "order": "Columbiformes",
-    "family": "Columbidae",
-    "genus": "Streptopelia",
-    "locality": "Rome",
-    "country": "Italy",
-    "lat": 41.999131,
-    "lon": 12.019142,
-    "uncertainty": "852"
   },
   {
     "id": "MZURORN2025-159",
@@ -3128,12 +3116,24 @@
     "locality": "Rome",
     "country": "Italy",
     "lat": 41.999131,
-    "lon": 12.019142,
+    "lon": 12.483333,
+    "uncertainty": "852"
+  },
+  {
+    "id": "MZURORN2025-160",
+    "name": "Streptopelia turtur (Linnaeus, 1758)",
+    "order": "Columbiformes",
+    "family": "Columbidae",
+    "genus": "Streptopelia",
+    "locality": "Rome",
+    "country": "Italy",
+    "lat": 41.999131,
+    "lon": 12.483333,
     "uncertainty": "1000"
   },
   {
     "id": "MZURORN2025-042",
-    "name": "Strix aluco (Linnaeus, 1758)",
+    "name": "Strix aluco Linnaeus, 1758",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Strix",
@@ -3144,8 +3144,8 @@
     "uncertainty": "3959"
   },
   {
-    "id": "MZURORN2025-171",
-    "name": "Strix aluco (Linnaeus, 1758)",
+    "id": "MZURORN2025-172",
+    "name": "Strix aluco Linnaeus, 1758",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Strix",
@@ -3156,8 +3156,8 @@
     "uncertainty": "1500"
   },
   {
-    "id": "MZURORN2025-172",
-    "name": "Strix aluco (Linnaeus, 1758)",
+    "id": "MZURORN2025-173",
+    "name": "Strix aluco Linnaeus, 1758",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Strix",
@@ -3168,20 +3168,20 @@
     "uncertainty": "1244"
   },
   {
-    "id": "MZURORN2025-282",
-    "name": "Sturnus vulgaris (Linnaeus, 1758)",
+    "id": "MZURORN2025-283",
+    "name": "Sturnus vulgaris Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Sturnidae",
     "genus": "Sturnus",
     "locality": "Cuneo",
     "country": "Italy",
-    "lat": 45.388095,
-    "lon": 11.794121,
+    "lat": 44.3983,
+    "lon": 7.5456,
     "uncertainty": "1509"
   },
   {
-    "id": "MZURORN2025-283",
-    "name": "Sturnus vulgaris (Linnaeus, 1758)",
+    "id": "MZURORN2025-284",
+    "name": "Sturnus vulgaris Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Sturnidae",
     "genus": "Sturnus",
@@ -3192,20 +3192,8 @@
     "uncertainty": "3062"
   },
   {
-    "id": "MZURORN2025-284",
-    "name": "Sturnus vulgaris (Linnaeus, 1758)",
-    "order": "Passeriformes",
-    "family": "Sturnidae",
-    "genus": "Sturnus",
-    "locality": "Borgo San Dalmazzo",
-    "country": "Italy",
-    "lat": 44.33014,
-    "lon": 7.485924,
-    "uncertainty": "1929"
-  },
-  {
     "id": "MZURORN2025-285",
-    "name": "Sturnus vulgaris (Linnaeus, 1758)",
+    "name": "Sturnus vulgaris Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Sturnidae",
     "genus": "Sturnus",
@@ -3217,7 +3205,7 @@
   },
   {
     "id": "MZURORN2025-286",
-    "name": "Sturnus vulgaris (Linnaeus, 1758)",
+    "name": "Sturnus vulgaris Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Sturnidae",
     "genus": "Sturnus",
@@ -3228,11 +3216,11 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-234",
-    "name": "Sylvia atricapilla (Linnaeus, 1758)",
+    "id": "MZURORN2025-287",
+    "name": "Sturnus vulgaris Linnaeus, 1758",
     "order": "Passeriformes",
-    "family": "Sylviidae",
-    "genus": "Sylvia",
+    "family": "Sturnidae",
+    "genus": "Sturnus",
     "locality": "Borgo San Dalmazzo",
     "country": "Italy",
     "lat": 44.33014,
@@ -3245,7 +3233,7 @@
     "order": "Passeriformes",
     "family": "Sylviidae",
     "genus": "Sylvia",
-    "locality": "Piano Quinto",
+    "locality": "Borgo San Dalmazzo",
     "country": "Italy",
     "lat": 44.33014,
     "lon": 7.485924,
@@ -3257,15 +3245,15 @@
     "order": "Passeriformes",
     "family": "Sylviidae",
     "genus": "Sylvia",
-    "locality": "Borgo San Dalmazzo",
+    "locality": "Piano Quinto",
     "country": "Italy",
     "lat": 44.33014,
     "lon": 7.485924,
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-228",
-    "name": "Sylvia borin (Boddaert, 1783)",
+    "id": "MZURORN2025-237",
+    "name": "Sylvia atricapilla (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Sylviidae",
     "genus": "Sylvia",
@@ -3288,32 +3276,44 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-226",
-    "name": "Sylvia cantillans (Pallas, 1764)",
+    "id": "MZURORN2025-230",
+    "name": "Sylvia borin (Boddaert, 1783)",
     "order": "Passeriformes",
     "family": "Sylviidae",
     "genus": "Sylvia",
-    "locality": "Roma, Fidene",
+    "locality": "Borgo San Dalmazzo",
     "country": "Italy",
-    "lat": 41.978832,
-    "lon": 12.515607,
-    "uncertainty": "1913"
+    "lat": 44.33014,
+    "lon": 7.485924,
+    "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-069",
+    "id": "MZURORN2025-228",
+    "name": "Sylvia hortensis (J.F. Gmelin, 1789)",
+    "order": "Passeriformes",
+    "family": "Sylviidae",
+    "genus": "Sylvia",
+    "locality": "Borgo San Dalmazzo",
+    "country": "Italy",
+    "lat": 44.33014,
+    "lon": 7.485924,
+    "uncertainty": "1929"
+  },
+  {
+    "id": "MZURORN2025-070",
     "name": "Tachybaptus ruficollis (Pallas, 1764)",
     "order": "Podicipediformes",
     "family": "Podicipedidae",
     "genus": "Tachybaptus",
     "locality": "Valle Millecampi",
     "country": "Italy",
-    "lat": 45.082615,
-    "lon": 12.287164,
+    "lat": 45.27194,
+    "lon": 12.18083,
     "uncertainty": "7136"
   },
   {
     "id": "MZURORN2025-008",
-    "name": "Trichoglossus moluccans (Pallas, 1764)",
+    "name": "Trichoglossus moluccanus (Gmelin, 1788)",
     "order": "Psittaciformes",
     "family": "Psittaculidae",
     "genus": "Trichoglossus",
@@ -3324,7 +3324,7 @@
     "uncertainty": "1000000"
   },
   {
-    "id": "MZURORN2025-112",
+    "id": "MZURORN2025-113",
     "name": "Tringa erythropus (Pallas, 1764)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
@@ -3336,8 +3336,8 @@
     "uncertainty": "2539"
   },
   {
-    "id": "MZURORN2025-113",
-    "name": "Tringa glareola   (Linnaeus, 1758)",
+    "id": "MZURORN2025-114",
+    "name": "Tringa glareola   Linnaeus, 1758",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Tringa",
@@ -3348,7 +3348,7 @@
     "uncertainty": "28880"
   },
   {
-    "id": "MZURORN2025-117",
+    "id": "MZURORN2025-118",
     "name": "Tringa nebularia (Gunnerus, 1767)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
@@ -3360,7 +3360,7 @@
     "uncertainty": "28880"
   },
   {
-    "id": "MZURORN2025-110",
+    "id": "MZURORN2025-111",
     "name": "Tringa totanus (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
@@ -3373,19 +3373,19 @@
   },
   {
     "id": "MZURORN2025-012",
-    "name": "Trochilidaesp.  (Vigors, 1825)",
+    "name": "Trochilidae sp. Vigors, 1825",
     "order": "Apodiformes",
     "family": "Trochilidae",
-    "genus": "Trochilidaesp.",
+    "genus": "Trochilidae",
     "locality": "NA",
-    "country": "Equador",
+    "country": "Ecuador",
     "lat": -2.0,
     "lon": -78.0,
     "uncertainty": "100000"
   },
   {
-    "id": "MZURORN2025-193",
-    "name": "Troglodytes troglodytes (Linnaeus, 1758)",
+    "id": "MZURORN2025-194",
+    "name": "Troglodytes troglodytes Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Troglodytidae",
     "genus": "Troglodytes",
@@ -3396,8 +3396,8 @@
     "uncertainty": "1929"
   },
   {
-    "id": "MZURORN2025-194",
-    "name": "Troglodytes troglodytes (Linnaeus, 1758)",
+    "id": "MZURORN2025-195",
+    "name": "Troglodytes troglodytes Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Troglodytidae",
     "genus": "Troglodytes",
@@ -3408,56 +3408,56 @@
     "uncertainty": "2568"
   },
   {
-    "id": "MZURORN2025-217",
-    "name": "Turdus iliacus (Linnaeus, 1758)",
-    "order": "Passeriformes",
-    "family": "Turdidae",
-    "genus": "Turdus",
-    "locality": "Borgo San Dalmazzo",
-    "country": "Italy",
-    "lat": 44.33014,
-    "lon": 7.485924,
-    "uncertainty": "1929"
-  },
-  {
-    "id": "MZURORN2025-219",
-    "name": "Turdus iliacus (Linnaeus, 1758)",
-    "order": "Passeriformes",
-    "family": "Turdidae",
-    "genus": "Turdus",
-    "locality": "Borgo San Dalmazzo",
-    "country": "Italy",
-    "lat": 44.33014,
-    "lon": 7.485924,
-    "uncertainty": "1929"
-  },
-  {
-    "id": "MZURORN2025-215",
-    "name": "Turdus merula (Linnaeus, 1758)",
-    "order": "Passeriformes",
-    "family": "Turdidae",
-    "genus": "Turdus",
-    "locality": "Rome",
-    "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
-    "uncertainty": "36625"
-  },
-  {
     "id": "MZURORN2025-218",
-    "name": "Turdus merula (Linnaeus, 1758)",
+    "name": "Turdus iliacus Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Turdidae",
     "genus": "Turdus",
-    "locality": "Rome",
+    "locality": "Borgo San Dalmazzo",
     "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
-    "uncertainty": "36625"
+    "lat": 44.33014,
+    "lon": 7.485924,
+    "uncertainty": "1929"
   },
   {
     "id": "MZURORN2025-220",
-    "name": "Turdus philomelos (Brehm, 1831)",
+    "name": "Turdus iliacus Linnaeus, 1758",
+    "order": "Passeriformes",
+    "family": "Turdidae",
+    "genus": "Turdus",
+    "locality": "Borgo San Dalmazzo",
+    "country": "Italy",
+    "lat": 44.33014,
+    "lon": 7.485924,
+    "uncertainty": "1929"
+  },
+  {
+    "id": "MZURORN2025-216",
+    "name": "Turdus merula Linnaeus, 1758",
+    "order": "Passeriformes",
+    "family": "Turdidae",
+    "genus": "Turdus",
+    "locality": "Rome",
+    "country": "Italy",
+    "lat": 41.999131,
+    "lon": 12.483333,
+    "uncertainty": "36625"
+  },
+  {
+    "id": "MZURORN2025-219",
+    "name": "Turdus merula Linnaeus, 1758",
+    "order": "Passeriformes",
+    "family": "Turdidae",
+    "genus": "Turdus",
+    "locality": "Rome",
+    "country": "Italy",
+    "lat": 41.999131,
+    "lon": 12.483333,
+    "uncertainty": "36625"
+  },
+  {
+    "id": "MZURORN2025-221",
+    "name": "Turdus philomelos Brehm, 1831",
     "order": "Passeriformes",
     "family": "Turdidae",
     "genus": "Turdus",
@@ -3468,8 +3468,8 @@
     "uncertainty": "826"
   },
   {
-    "id": "MZURORN2025-221",
-    "name": "Turdus philomelos (Brehm, 1831)",
+    "id": "MZURORN2025-222",
+    "name": "Turdus philomelos Brehm, 1831",
     "order": "Passeriformes",
     "family": "Turdidae",
     "genus": "Turdus",
@@ -3480,19 +3480,19 @@
     "uncertainty": "1350"
   },
   {
-    "id": "MZURORN2025-216",
-    "name": "Turdus torquatus (Linnaeus, 1758)",
+    "id": "MZURORN2025-217",
+    "name": "Turdus torquatus Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Turdidae",
     "genus": "Turdus",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "36625"
   },
   {
-    "id": "MZURORN2025-170",
+    "id": "MZURORN2025-171",
     "name": "Tyto alba (Scopoli, 1769)",
     "order": "Strigiformes",
     "family": "Tytonidae",
@@ -3504,63 +3504,63 @@
     "uncertainty": "1156"
   },
   {
-    "id": "MZURORN2025-179",
-    "name": "Upupa epops (Linnaeus, 1758)",
+    "id": "MZURORN2025-180",
+    "name": "Upupa epops Linnaeus, 1758",
     "order": "Bucerotiformes",
     "family": "Upupidae",
     "genus": "Upupa",
     "locality": "Borgo San Dalmazzo",
     "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
+    "lat": 44.33014,
+    "lon": 7.485924,
     "uncertainty": "36625"
-  },
-  {
-    "id": "MZURORN2025-180",
-    "name": "Upupa epops (Linnaeus, 1758)",
-    "order": "Bucerotiformes",
-    "family": "Upupidae",
-    "genus": "Upupa",
-    "locality": "Rome",
-    "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
-    "uncertainty": "6372"
   },
   {
     "id": "MZURORN2025-181",
-    "name": "Upupa epops (Linnaeus, 1758)",
-    "order": "Bucerotiformes",
-    "family": "Upupidae",
-    "genus": "Upupa",
-    "locality": "Borgo San Dalmazzo",
-    "country": "Italy",
-    "lat": 41.9,
-    "lon": 12.483333,
-    "uncertainty": "36625"
-  },
-  {
-    "id": "MZURORN2025-183",
-    "name": "Upupa epops (Linnaeus, 1758)",
+    "name": "Upupa epops Linnaeus, 1758",
     "order": "Bucerotiformes",
     "family": "Upupidae",
     "genus": "Upupa",
     "locality": "Rome",
     "country": "Italy",
-    "lat": 41.9,
+    "lat": 41.999131,
     "lon": 12.483333,
     "uncertainty": "6372"
   },
   {
-    "id": "MZURORN2025-099",
+    "id": "MZURORN2025-182",
+    "name": "Upupa epops Linnaeus, 1758",
+    "order": "Bucerotiformes",
+    "family": "Upupidae",
+    "genus": "Upupa",
+    "locality": "Borgo San Dalmazzo",
+    "country": "Italy",
+    "lat": 44.33014,
+    "lon": 7.485924,
+    "uncertainty": "36625"
+  },
+  {
+    "id": "MZURORN2025-184",
+    "name": "Upupa epops Linnaeus, 1758",
+    "order": "Bucerotiformes",
+    "family": "Upupidae",
+    "genus": "Upupa",
+    "locality": "Rome",
+    "country": "Italy",
+    "lat": 41.999131,
+    "lon": 12.483333,
+    "uncertainty": "6372"
+  },
+  {
+    "id": "MZURORN2025-100",
     "name": "Vanellus vanellus (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Charadriidae",
     "genus": "Vanellus",
     "locality": "Cuneo",
     "country": "Italy",
-    "lat": 44.382,
-    "lon": 7.536,
+    "lat": 44.3983,
+    "lon": 7.5456,
     "uncertainty": "20000"
   }
 ]
