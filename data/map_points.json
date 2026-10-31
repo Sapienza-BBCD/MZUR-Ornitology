@@ -81,7 +81,7 @@
     "country": "Italy",
     "lat": 41.7674,
     "lon": 12.2298,
-    "uncertainty": "1929"
+    "uncertainty": "7066"
   },
   {
     "id": "MZURORN2025-115",
@@ -93,7 +93,7 @@
     "country": "Italy",
     "lat": 45.27194,
     "lon": 12.18083,
-    "uncertainty": "1000"
+    "uncertainty": "2452"
   },
   {
     "id": "MZURORN2025-254",
@@ -117,7 +117,7 @@
     "country": "Italy",
     "lat": 41.869748,
     "lon": 12.442645,
-    "uncertainty": "36625"
+    "uncertainty": "28880"
   },
   {
     "id": "MZURORN2025-186",
@@ -145,7 +145,7 @@
   },
   {
     "id": "MZURORN2025-129",
-    "name": "Alectoris graeca (Meisner, 1804)",
+    "name": "Alectoris graeca (Meisner, 1804)",
     "order": "Galliformes",
     "family": "Phasianidae",
     "genus": "Alectoris",
@@ -273,7 +273,7 @@
     "country": "Italy",
     "lat": 45.2757,
     "lon": 12.13938,
-    "uncertainty": "1427"
+    "uncertainty": "1929"
   },
   {
     "id": "MZURORN2025-204",
@@ -385,7 +385,7 @@
   },
   {
     "id": "MZURORN2025-176",
-    "name": "Asio flammeus (Pontoppidan, 1763)",
+    "name": "Asio flammeus (Pontoppidan, 1763)",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Asio",
@@ -393,11 +393,11 @@
     "country": "Italy",
     "lat": 44.38957,
     "lon": 7.513522,
-    "uncertainty": "5000"
+    "uncertainty": "2568"
   },
   {
     "id": "MZURORN2025-177",
-    "name": "Asio flammeus (Pontoppidan, 1763)",
+    "name": "Asio flammeus (Pontoppidan, 1763)",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Asio",
@@ -417,7 +417,7 @@
     "country": "Italy",
     "lat": 44.34377,
     "lon": 7.03346,
-    "uncertainty": "1470"
+    "uncertainty": "1156"
   },
   {
     "id": "MZURORN2025-039",
@@ -453,7 +453,7 @@
     "country": "Italy",
     "lat": 44.3939613173244,
     "lon": 7.51594787484057,
-    "uncertainty": ""
+    "uncertainty": "2200"
   },
   {
     "id": "MZURORN2025-051",
@@ -477,7 +477,7 @@
     "country": "Italy",
     "lat": 45.13336,
     "lon": 8.45714,
-    "uncertainty": "7136"
+    "uncertainty": "957"
   },
   {
     "id": "MZURORN2025-073",
@@ -613,7 +613,7 @@
   },
   {
     "id": "MZURORN2025-109",
-    "name": "Calidris minuta (Leisler, 1812)",
+    "name": "Calidris minuta (Leisler, 1812)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Calidris",
@@ -669,7 +669,7 @@
     "country": "Italy",
     "lat": 41.869748,
     "lon": 12.442645,
-    "uncertainty": "36625"
+    "uncertainty": "28880"
   },
   {
     "id": "MZURORN2025-153",
@@ -721,7 +721,7 @@
   },
   {
     "id": "MZURORN2025-244",
-    "name": "Certhia brachydactyla C.L. Brehm, 1820",
+    "name": "Certhia brachydactyla C.L. Brehm, 1820",
     "order": "Passeriformes",
     "family": "Certhiidae",
     "genus": "Certhia",
@@ -733,7 +733,7 @@
   },
   {
     "id": "MZURORN2025-245",
-    "name": "Certhia brachydactyla C.L. Brehm, 1820",
+    "name": "Certhia brachydactyla C.L. Brehm, 1820",
     "order": "Passeriformes",
     "family": "Certhiidae",
     "genus": "Certhia",
@@ -745,7 +745,7 @@
   },
   {
     "id": "MZURORN2025-246",
-    "name": "Certhia brachydactyla C.L. Brehm, 1820",
+    "name": "Certhia brachydactyla C.L. Brehm, 1820",
     "order": "Passeriformes",
     "family": "Certhiidae",
     "genus": "Certhia",
@@ -757,7 +757,7 @@
   },
   {
     "id": "MZURORN2025-233",
-    "name": "Cettia cetti (Temminck, 1820)",
+    "name": "Cettia cetti (Temminck, 1820)",
     "order": "Passeriformes",
     "family": "Cettiidae",
     "genus": "Cettia",
@@ -769,7 +769,7 @@
   },
   {
     "id": "MZURORN2025-098",
-    "name": "Charadrius dubius Scopoli, 1786",
+    "name": "Charadrius dubius Scopoli, 1786",
     "order": "Charadriiformes",
     "family": "Charadriidae",
     "genus": "Charadrius",
@@ -801,7 +801,7 @@
     "country": "Italy",
     "lat": 44.34377,
     "lon": 7.03346,
-    "uncertainty": "6372"
+    "uncertainty": "1156"
   },
   {
     "id": "MZURORN2025-165",
@@ -901,7 +901,7 @@
   },
   {
     "id": "MZURORN2025-279",
-    "name": "Coccothraustes coccothraustes (Linnaeus, 1758)",
+    "name": "Coccothraustes coccothraustes (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Coccothraustes",
@@ -913,7 +913,7 @@
   },
   {
     "id": "MZURORN2025-281",
-    "name": "Coccothraustes coccothraustes (Linnaeus, 1758)",
+    "name": "Coccothraustes coccothraustes (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Coccothraustes",
@@ -925,7 +925,7 @@
   },
   {
     "id": "MZURORN2025-282",
-    "name": "Coccothraustes coccothraustes (Linnaeus, 1758)",
+    "name": "Coccothraustes coccothraustes (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Coccothraustes",
@@ -973,7 +973,7 @@
   },
   {
     "id": "MZURORN2025-011",
-    "name": "Corvus albus P.L.S. Müller, 1776",
+    "name": "Corvus albus P.L.S. Müller, 1776",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Corvus",
@@ -1173,7 +1173,7 @@
     "country": "Italy",
     "lat": 44.334721,
     "lon": 7.436547,
-    "uncertainty": "479"
+    "uncertainty": "1929"
   },
   {
     "id": "MZURORN2025-211",
@@ -1189,7 +1189,7 @@
   },
   {
     "id": "MZURORN2025-083",
-    "name": "Egretta garzetta (Linnaeus, 1766)",
+    "name": "Egretta garzetta (Linnaeus, 1766)",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Egretta",
@@ -1365,7 +1365,7 @@
     "country": "Italy",
     "lat": 44.3983,
     "lon": 7.5456,
-    "uncertainty": "1470"
+    "uncertainty": "1509"
   },
   {
     "id": "MZURORN2025-131",
@@ -1513,7 +1513,7 @@
   },
   {
     "id": "MZURORN2025-106",
-    "name": "Gallinago media (Latham, 1787)",
+    "name": "Gallinago media (Latham, 1787)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Gallinago",
@@ -1597,7 +1597,7 @@
   },
   {
     "id": "MZURORN2025-071",
-    "name": "Gavia stellata (Pontoppidan, 1763)",
+    "name": "Gavia stellata (Pontoppidan, 1763)",
     "order": "Gaviiformes",
     "family": "Gaviidae",
     "genus": "Gavia",
@@ -1609,7 +1609,7 @@
   },
   {
     "id": "MZURORN2025-087",
-    "name": "Gavia stellata (Pontoppidan, 1763)",
+    "name": "Gavia stellata (Pontoppidan, 1763)",
     "order": "Gaviiformes",
     "family": "Gaviidae",
     "genus": "Gavia",
@@ -1617,7 +1617,7 @@
     "country": "Italy",
     "lat": 41.754738,
     "lon": 12.29897,
-    "uncertainty": "896"
+    "uncertainty": "3959"
   },
   {
     "id": "MZURORN2025-174",
@@ -1705,7 +1705,7 @@
   },
   {
     "id": "MZURORN2025-127",
-    "name": "Lagopus muta (Montin, 1781)",
+    "name": "Lagopus muta (Montin, 1781)",
     "order": "Galliformes",
     "family": "Phasianidae",
     "genus": "Lagopus",
@@ -1717,7 +1717,7 @@
   },
   {
     "id": "MZURORN2025-128",
-    "name": "Lagopus muta (Montin, 1781)",
+    "name": "Lagopus muta (Montin, 1781)",
     "order": "Galliformes",
     "family": "Phasianidae",
     "genus": "Lagopus",
@@ -1749,7 +1749,7 @@
     "country": "Italy",
     "lat": 41.7674,
     "lon": 12.2298,
-    "uncertainty": "2795"
+    "uncertainty": "7066"
   },
   {
     "id": "MZURORN2025-166",
@@ -1789,7 +1789,7 @@
   },
   {
     "id": "MZURORN2025-192",
-    "name": "Luscinia megarhynchos C.L. Brehm, 1831",
+    "name": "Luscinia megarhynchos C.L. Brehm, 1831",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Luscinia",
@@ -1857,7 +1857,7 @@
     "country": "Italy",
     "lat": 45.2757,
     "lon": 12.13938,
-    "uncertainty": "1427"
+    "uncertainty": "1929"
   },
   {
     "id": "MZURORN2025-061",
@@ -1893,7 +1893,7 @@
     "country": "Italy",
     "lat": 41.869748,
     "lon": 12.442645,
-    "uncertainty": "36625"
+    "uncertainty": "28880"
   },
   {
     "id": "MZURORN2025-144",
@@ -1917,7 +1917,7 @@
     "country": "Italy",
     "lat": 41.722409,
     "lon": 12.396117,
-    "uncertainty": "635"
+    "uncertainty": "6372"
   },
   {
     "id": "MZURORN2025-224",
@@ -1957,7 +1957,7 @@
   },
   {
     "id": "MZURORN2025-200",
-    "name": "Motacilla cinerea Tunstall, 1771",
+    "name": "Motacilla cinerea Tunstall, 1771",
     "order": "Passeriformes",
     "family": "Motacillidae",
     "genus": "Motacilla",
@@ -1969,7 +1969,7 @@
   },
   {
     "id": "MZURORN2025-202",
-    "name": "Motacilla cinerea Tunstall, 1771",
+    "name": "Motacilla cinerea Tunstall, 1771",
     "order": "Passeriformes",
     "family": "Motacillidae",
     "genus": "Motacilla",
@@ -1981,7 +1981,7 @@
   },
   {
     "id": "MZURORN2025-048",
-    "name": "Netta rufina (Pallas, 1773)",
+    "name": "Netta rufina (Pallas, 1773)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Netta",
@@ -1989,11 +1989,11 @@
     "country": "Italy",
     "lat": 45.13336,
     "lon": 8.45714,
-    "uncertainty": "7136"
+    "uncertainty": "957"
   },
   {
     "id": "MZURORN2025-065",
-    "name": "Netta rufina (Pallas, 1773)",
+    "name": "Netta rufina (Pallas, 1773)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Netta",
@@ -2037,7 +2037,7 @@
     "country": "Italy",
     "lat": 44.3983,
     "lon": 7.5456,
-    "uncertainty": "28880"
+    "uncertainty": "1509"
   },
   {
     "id": "MZURORN2025-116",
@@ -2085,7 +2085,7 @@
     "country": "Italy",
     "lat": 44.341424,
     "lon": 7.44016,
-    "uncertainty": "2137"
+    "uncertainty": "896"
   },
   {
     "id": "MZURORN2025-223",
@@ -2157,7 +2157,7 @@
     "country": "Italy",
     "lat": 44.34377,
     "lon": 7.03346,
-    "uncertainty": "7066"
+    "uncertainty": "1156"
   },
   {
     "id": "MZURORN2025-015",
@@ -2577,7 +2577,7 @@
     "country": "Italy",
     "lat": 41.960157,
     "lon": 12.80412,
-    "uncertainty": "3959"
+    "uncertainty": "2298"
   },
   {
     "id": "MZURORN2025-101",
@@ -2617,7 +2617,7 @@
   },
   {
     "id": "MZURORN2025-072",
-    "name": "Podiceps nigricollis Brehm, 1831",
+    "name": "Podiceps nigricollis Brehm, 1831",
     "order": "Podicipediformes",
     "family": "Podicipedidae",
     "genus": "Podiceps",
@@ -2797,7 +2797,7 @@
   },
   {
     "id": "MZURORN2025-009",
-    "name": "Ramphastos dicolorus Linnaeus, 1766",
+    "name": "Ramphastos dicolorus Linnaeus, 1766",
     "order": "Piciformes",
     "family": "Ramphastidae",
     "genus": "Ramphastos",
@@ -2809,7 +2809,7 @@
   },
   {
     "id": "MZURORN2025-010",
-    "name": "Ramphastos dicolorus Linnaeus, 1766",
+    "name": "Ramphastos dicolorus Linnaeus, 1766",
     "order": "Piciformes",
     "family": "Ramphastidae",
     "genus": "Ramphastos",
@@ -2841,7 +2841,7 @@
     "country": "Italy",
     "lat": 41.7674,
     "lon": 12.2298,
-    "uncertainty": "1427"
+    "uncertainty": "7066"
   },
   {
     "id": "MZURORN2025-232",
@@ -2869,7 +2869,7 @@
   },
   {
     "id": "MZURORN2025-059",
-    "name": "Rhynchotus rufescens (Temminck, 1815)",
+    "name": "Rhynchotus rufescens (Temminck, 1815)",
     "order": "Tinamiformes",
     "family": "Tinamidae",
     "genus": "Rhynchotus",
@@ -2905,7 +2905,7 @@
   },
   {
     "id": "MZURORN2025-225",
-    "name": "Saxicola rubicola (Linnaeus, 1766)",
+    "name": "Saxicola rubicola (Linnaeus, 1766)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Saxicola",
@@ -2929,7 +2929,7 @@
   },
   {
     "id": "MZURORN2025-273",
-    "name": "Serinus serinus (Linnaeus, 1766)",
+    "name": "Serinus serinus (Linnaeus, 1766)",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Serinus",
@@ -3025,7 +3025,7 @@
   },
   {
     "id": "MZURORN2025-162",
-    "name": "Sternula albifrons (Pallas, 1764)",
+    "name": "Sternula albifrons (Pallas, 1764)",
     "order": "Charadriiformes",
     "family": "Laridae",
     "genus": "Sternula",
@@ -3033,7 +3033,7 @@
     "country": "Italy",
     "lat": 41.7674,
     "lon": 12.2298,
-    "uncertainty": "36625"
+    "uncertainty": "7066"
   },
   {
     "id": "MZURORN2025-159",
@@ -3249,7 +3249,7 @@
     "country": "Italy",
     "lat": 45.27194,
     "lon": 12.18083,
-    "uncertainty": "7136"
+    "uncertainty": "2452"
   },
   {
     "id": "MZURORN2025-008",
@@ -3277,7 +3277,7 @@
   },
   {
     "id": "MZURORN2025-118",
-    "name": "Tringa nebularia (Gunnerus, 1767)",
+    "name": "Tringa nebularia (Gunnerus, 1767)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Tringa",
@@ -3405,7 +3405,7 @@
     "country": "Italy",
     "lat": 42.03319,
     "lon": 12.451403,
-    "uncertainty": "826"
+    "uncertainty": "1350"
   },
   {
     "id": "MZURORN2025-222",
@@ -3433,7 +3433,7 @@
   },
   {
     "id": "MZURORN2025-171",
-    "name": "Tyto alba (Scopoli, 1769)",
+    "name": "Tyto alba (Scopoli, 1769)",
     "order": "Strigiformes",
     "family": "Tytonidae",
     "genus": "Tyto",
@@ -3501,6 +3501,6 @@
     "country": "Italy",
     "lat": 44.3983,
     "lon": 7.5456,
-    "uncertainty": "20000"
+    "uncertainty": "1509"
   }
 ]
