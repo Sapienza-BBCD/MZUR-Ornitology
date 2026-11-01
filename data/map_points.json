@@ -978,7 +978,7 @@
     "family": "Corvidae",
     "genus": "Corvus",
     "locality": "Shewa",
-    "country": "Ethiopia",
+    "country": "Etiopia",
     "lat": 9.990569,
     "lon": 39.899033,
     "uncertainty": "3285"
@@ -2802,7 +2802,7 @@
     "family": "Ramphastidae",
     "genus": "Ramphastos",
     "locality": "",
-    "country": "Brazil",
+    "country": "Brasile",
     "lat": -15.0,
     "lon": -47.0,
     "uncertainty": "1000000"
@@ -2814,7 +2814,7 @@
     "family": "Ramphastidae",
     "genus": "Ramphastos",
     "locality": "",
-    "country": "Brazil",
+    "country": "Brasile",
     "lat": -15.0,
     "lon": -47.0,
     "uncertainty": "1000000"
