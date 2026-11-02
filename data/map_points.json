@@ -1,7 +1,19 @@
 [
   {
+    "id": "MZURORN2025-012",
+    "name": "",
+    "order": "Apodiformes",
+    "family": "Trochilidae",
+    "genus": "",
+    "locality": "",
+    "country": "Ecuador",
+    "lat": -2.0,
+    "lon": -78.0,
+    "uncertainty": "100000"
+  },
+  {
     "id": "MZURORN2025-147",
-    "name": "Accipiter gentilis (Linnaeus, 1758)",
+    "name": "Accipiter gentilis  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Accipiter",
@@ -13,7 +25,7 @@
   },
   {
     "id": "MZURORN2025-148",
-    "name": "Accipiter gentilis (Linnaeus, 1758)",
+    "name": "Accipiter gentilis  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Accipiter",
@@ -25,7 +37,7 @@
   },
   {
     "id": "MZURORN2025-030",
-    "name": "Accipiter nisus (Linnaeus, 1758)",
+    "name": "Accipiter nisus  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Accipiter",
@@ -37,7 +49,7 @@
   },
   {
     "id": "MZURORN2025-119",
-    "name": "Accipiter nisus (Linnaeus, 1758)",
+    "name": "Accipiter nisus  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Accipiter",
@@ -49,7 +61,7 @@
   },
   {
     "id": "MZURORN2025-120",
-    "name": "Accipiter nisus (Linnaeus, 1758)",
+    "name": "Accipiter nisus  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Accipiter",
@@ -61,7 +73,7 @@
   },
   {
     "id": "MZURORN2025-121",
-    "name": "Accipiter nisus (Linnaeus, 1758)",
+    "name": "Accipiter nisus  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Accipiter",
@@ -73,7 +85,7 @@
   },
   {
     "id": "MZURORN2025-122",
-    "name": "Accipiter nisus (Linnaeus, 1758)",
+    "name": "Accipiter nisus  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Accipiter",
@@ -85,7 +97,7 @@
   },
   {
     "id": "MZURORN2025-115",
-    "name": "Actitis hypoleucos (Linnaeus, 1758)",
+    "name": "Actitis hypoleucos  (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Actitis",
@@ -97,7 +109,7 @@
   },
   {
     "id": "MZURORN2025-254",
-    "name": "Aegithalos caudatus (Linnaeus, 1758)",
+    "name": "Aegithalos caudatus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Aegithalidae",
     "genus": "Aegithalos",
@@ -109,7 +121,7 @@
   },
   {
     "id": "MZURORN2025-207",
-    "name": "Alauda arvensis Linnaeus, 1758",
+    "name": "Alauda arvensis  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Alaudidae",
     "genus": "Alauda",
@@ -121,7 +133,7 @@
   },
   {
     "id": "MZURORN2025-186",
-    "name": "Alcedo atthis (Linnaeus, 1758)",
+    "name": "Alcedo atthis  (Linnaeus, 1758)",
     "order": "Coraciiformes",
     "family": "Alcedinidae",
     "genus": "Alcedo",
@@ -133,7 +145,7 @@
   },
   {
     "id": "MZURORN2025-187",
-    "name": "Alcedo atthis (Linnaeus, 1758)",
+    "name": "Alcedo atthis  (Linnaeus, 1758)",
     "order": "Coraciiformes",
     "family": "Alcedinidae",
     "genus": "Alcedo",
@@ -145,7 +157,7 @@
   },
   {
     "id": "MZURORN2025-129",
-    "name": "Alectoris graeca (Meisner, 1804)",
+    "name": "Alectoris graeca  (Meisner, 1804)",
     "order": "Galliformes",
     "family": "Phasianidae",
     "genus": "Alectoris",
@@ -157,7 +169,7 @@
   },
   {
     "id": "MZURORN2025-055",
-    "name": "Anas acuta Linnaeus, 1758",
+    "name": "Anas acuta  Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anas",
@@ -169,7 +181,7 @@
   },
   {
     "id": "MZURORN2025-069",
-    "name": "Anas acuta Linnaeus, 1758",
+    "name": "Anas acuta  Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anas",
@@ -181,7 +193,7 @@
   },
   {
     "id": "MZURORN2025-049",
-    "name": "Anas crecca Linnaeus, 1758",
+    "name": "Anas crecca  Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anas",
@@ -193,7 +205,7 @@
   },
   {
     "id": "MZURORN2025-078",
-    "name": "Anas crecca Linnaeus, 1758",
+    "name": "Anas crecca  Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anas",
@@ -205,7 +217,7 @@
   },
   {
     "id": "MZURORN2025-053",
-    "name": "Anas platyrhynchos Linnaeus, 1758",
+    "name": "Anas platyrhynchos  Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anas",
@@ -217,7 +229,7 @@
   },
   {
     "id": "MZURORN2025-057",
-    "name": "Anas platyrhynchos Linnaeus, 1758",
+    "name": "Anas platyrhynchos  Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anas",
@@ -229,7 +241,7 @@
   },
   {
     "id": "MZURORN2025-079",
-    "name": "Anas platyrhynchos Linnaeus, 1758",
+    "name": "Anas platyrhynchos  Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anas",
@@ -241,7 +253,7 @@
   },
   {
     "id": "MZURORN2025-080",
-    "name": "Anas platyrhynchos Linnaeus, 1758",
+    "name": "Anas platyrhynchos  Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anas",
@@ -253,7 +265,7 @@
   },
   {
     "id": "MZURORN2025-081",
-    "name": "Anas platyrhynchos Linnaeus, 1758",
+    "name": "Anas platyrhynchos  Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anas",
@@ -265,7 +277,7 @@
   },
   {
     "id": "MZURORN2025-092",
-    "name": "Anser albifrons (Scopoli, 1769)",
+    "name": "Anser albifrons  (Scopoli, 1769)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Anser",
@@ -277,7 +289,7 @@
   },
   {
     "id": "MZURORN2025-204",
-    "name": "Anthus trivialis (Linnaeus, 1758)",
+    "name": "Anthus trivialis  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Motacillidae",
     "genus": "Anthus",
@@ -289,7 +301,7 @@
   },
   {
     "id": "MZURORN2025-179",
-    "name": "Apus apus (Linnaeus, 1758)",
+    "name": "Apus apus  (Linnaeus, 1758)",
     "order": "Apodiformes",
     "family": "Apodidae",
     "genus": "Apus",
@@ -301,7 +313,7 @@
   },
   {
     "id": "MZURORN2025-151",
-    "name": "Aquila chrysaetos (Linnaeus, 1758)",
+    "name": "Aquila chrysaetos  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Aquila",
@@ -313,7 +325,7 @@
   },
   {
     "id": "MZURORN2025-084",
-    "name": "Ardea alba Linnaeus, 1758",
+    "name": "Ardea alba  Linnaeus, 1758",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Ardea",
@@ -325,7 +337,7 @@
   },
   {
     "id": "MZURORN2025-038",
-    "name": "Ardea purpurea Linnaeus, 1766",
+    "name": "Ardea purpurea  Linnaeus, 1766",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Ardea",
@@ -337,7 +349,7 @@
   },
   {
     "id": "MZURORN2025-041",
-    "name": "Ardea purpurea Linnaeus, 1766",
+    "name": "Ardea purpurea  Linnaeus, 1766",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Ardea",
@@ -349,7 +361,7 @@
   },
   {
     "id": "MZURORN2025-091",
-    "name": "Ardea purpurea Linnaeus, 1766",
+    "name": "Ardea purpurea  Linnaeus, 1766",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Ardea",
@@ -361,7 +373,7 @@
   },
   {
     "id": "MZURORN2025-093",
-    "name": "Ardea purpurea Linnaeus, 1766",
+    "name": "Ardea purpurea  Linnaeus, 1766",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Ardea",
@@ -373,7 +385,7 @@
   },
   {
     "id": "MZURORN2025-094",
-    "name": "Ardea purpurea Linnaeus, 1766",
+    "name": "Ardea purpurea  Linnaeus, 1766",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Ardea",
@@ -385,19 +397,19 @@
   },
   {
     "id": "MZURORN2025-176",
-    "name": "Asio flammeus (Pontoppidan, 1763)",
+    "name": "Asio flammeus  (Pontoppidan, 1763)",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Asio",
     "locality": "Limone",
     "country": "Italy",
-    "lat": 44.38957,
-    "lon": 7.513522,
+    "lat": 44.200369,
+    "lon": 7.571731,
     "uncertainty": "2568"
   },
   {
     "id": "MZURORN2025-177",
-    "name": "Asio flammeus (Pontoppidan, 1763)",
+    "name": "Asio flammeus  (Pontoppidan, 1763)",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Asio",
@@ -409,7 +421,7 @@
   },
   {
     "id": "MZURORN2025-178",
-    "name": "Asio otus (Linnaeus, 1758)",
+    "name": "Asio otus  (Linnaeus, 1758)",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Asio",
@@ -421,19 +433,19 @@
   },
   {
     "id": "MZURORN2025-039",
-    "name": "Athene noctua (Scopoli, 1769)",
+    "name": "Athene noctua  (Scopoli, 1769)",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Athene",
     "locality": "Confreria",
     "country": "Italy",
-    "lat": 44.3939613173244,
-    "lon": 7.51594787484057,
-    "uncertainty": "2200"
+    "lat": 44.38957,
+    "lon": 7.513522,
+    "uncertainty": "2568"
   },
   {
     "id": "MZURORN2025-044",
-    "name": "Athene noctua (Scopoli, 1769)",
+    "name": "Athene noctua  (Scopoli, 1769)",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Athene",
@@ -445,19 +457,19 @@
   },
   {
     "id": "MZURORN2025-175",
-    "name": "Athene noctua (Scopoli, 1769)",
+    "name": "Athene noctua  (Scopoli, 1769)",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Athene",
     "locality": "Confreria",
     "country": "Italy",
-    "lat": 44.3939613173244,
-    "lon": 7.51594787484057,
-    "uncertainty": "2200"
+    "lat": 44.38957,
+    "lon": 7.513522,
+    "uncertainty": "2568"
   },
   {
     "id": "MZURORN2025-051",
-    "name": "Aythya ferina (Linnaeus, 1758)",
+    "name": "Aythya ferina  (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Aythya",
@@ -469,7 +481,7 @@
   },
   {
     "id": "MZURORN2025-063",
-    "name": "Aythya ferina (Linnaeus, 1758)",
+    "name": "Aythya ferina  (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Aythya",
@@ -481,7 +493,7 @@
   },
   {
     "id": "MZURORN2025-073",
-    "name": "Aythya ferina (Linnaeus, 1758)",
+    "name": "Aythya ferina  (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Aythya",
@@ -493,7 +505,7 @@
   },
   {
     "id": "MZURORN2025-054",
-    "name": "Aythya nyroca (Güldenstädt, 1770)",
+    "name": "Aythya nyroca  (Güldenstädt, 1770)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Aythya",
@@ -505,7 +517,7 @@
   },
   {
     "id": "MZURORN2025-064",
-    "name": "Aythya nyroca (Güldenstädt, 1770)",
+    "name": "Aythya nyroca  (Güldenstädt, 1770)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Aythya",
@@ -517,7 +529,7 @@
   },
   {
     "id": "MZURORN2025-085",
-    "name": "Botaurus stellaris (Linnaeus, 1758)",
+    "name": "Botaurus stellaris  (Linnaeus, 1758)",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Botaurus",
@@ -529,7 +541,7 @@
   },
   {
     "id": "MZURORN2025-040",
-    "name": "Bubo bubo (Linnaeus, 1758)",
+    "name": "Bubo bubo  (Linnaeus, 1758)",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Bubo",
@@ -541,7 +553,7 @@
   },
   {
     "id": "MZURORN2025-152",
-    "name": "Bubo bubo (Linnaeus, 1758)",
+    "name": "Bubo bubo  (Linnaeus, 1758)",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Bubo",
@@ -553,7 +565,7 @@
   },
   {
     "id": "MZURORN2025-025",
-    "name": "Buteo buteo (Linnaeus, 1758)",
+    "name": "Buteo buteo  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Buteo",
@@ -565,7 +577,7 @@
   },
   {
     "id": "MZURORN2025-045",
-    "name": "Buteo buteo (Linnaeus, 1758)",
+    "name": "Buteo buteo  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Buteo",
@@ -577,7 +589,7 @@
   },
   {
     "id": "MZURORN2025-047",
-    "name": "Buteo buteo (Linnaeus, 1758)",
+    "name": "Buteo buteo  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Buteo",
@@ -589,7 +601,7 @@
   },
   {
     "id": "MZURORN2025-149",
-    "name": "Buteo buteo (Linnaeus, 1758)",
+    "name": "Buteo buteo  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Buteo",
@@ -601,7 +613,7 @@
   },
   {
     "id": "MZURORN2025-150",
-    "name": "Buteo buteo (Linnaeus, 1758)",
+    "name": "Buteo buteo  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Buteo",
@@ -613,7 +625,7 @@
   },
   {
     "id": "MZURORN2025-109",
-    "name": "Calidris minuta (Leisler, 1812)",
+    "name": "Calidris minuta  (Leisler, 1812)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Calidris",
@@ -625,7 +637,7 @@
   },
   {
     "id": "MZURORN2025-102",
-    "name": "Calidris pugnax (Linnaeus, 1758)",
+    "name": "Calidris pugnax  (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Calidris",
@@ -637,7 +649,7 @@
   },
   {
     "id": "MZURORN2025-103",
-    "name": "Calidris pugnax (Linnaeus, 1758)",
+    "name": "Calidris pugnax  (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Calidris",
@@ -649,7 +661,7 @@
   },
   {
     "id": "MZURORN2025-104",
-    "name": "Calidris pugnax (Linnaeus, 1758)",
+    "name": "Calidris pugnax  (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Calidris",
@@ -661,7 +673,7 @@
   },
   {
     "id": "MZURORN2025-105",
-    "name": "Calidris pugnax (Linnaeus, 1758)",
+    "name": "Calidris pugnax  (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Calidris",
@@ -673,7 +685,7 @@
   },
   {
     "id": "MZURORN2025-153",
-    "name": "Caprimulgus europaeus Linnaeus, 1758",
+    "name": "Caprimulgus europaeus  Linnaeus, 1758",
     "order": "Caprimulgiformes",
     "family": "Caprimulgidae",
     "genus": "Caprimulgus",
@@ -685,7 +697,7 @@
   },
   {
     "id": "MZURORN2025-154",
-    "name": "Caprimulgus europaeus Linnaeus, 1758",
+    "name": "Caprimulgus europaeus  Linnaeus, 1758",
     "order": "Caprimulgiformes",
     "family": "Caprimulgidae",
     "genus": "Caprimulgus",
@@ -697,7 +709,7 @@
   },
   {
     "id": "MZURORN2025-155",
-    "name": "Caprimulgus europaeus Linnaeus, 1758",
+    "name": "Caprimulgus europaeus  Linnaeus, 1758",
     "order": "Caprimulgiformes",
     "family": "Caprimulgidae",
     "genus": "Caprimulgus",
@@ -709,7 +721,7 @@
   },
   {
     "id": "MZURORN2025-271",
-    "name": "Carduelis carduelis (Linnaeus, 1758)",
+    "name": "Carduelis carduelis  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Carduelis",
@@ -721,7 +733,7 @@
   },
   {
     "id": "MZURORN2025-244",
-    "name": "Certhia brachydactyla C.L. Brehm, 1820",
+    "name": "Certhia brachydactyla  C.L. Brehm, 1820",
     "order": "Passeriformes",
     "family": "Certhiidae",
     "genus": "Certhia",
@@ -733,7 +745,7 @@
   },
   {
     "id": "MZURORN2025-245",
-    "name": "Certhia brachydactyla C.L. Brehm, 1820",
+    "name": "Certhia brachydactyla  C.L. Brehm, 1820",
     "order": "Passeriformes",
     "family": "Certhiidae",
     "genus": "Certhia",
@@ -745,7 +757,7 @@
   },
   {
     "id": "MZURORN2025-246",
-    "name": "Certhia brachydactyla C.L. Brehm, 1820",
+    "name": "Certhia brachydactyla  C.L. Brehm, 1820",
     "order": "Passeriformes",
     "family": "Certhiidae",
     "genus": "Certhia",
@@ -757,7 +769,7 @@
   },
   {
     "id": "MZURORN2025-233",
-    "name": "Cettia cetti (Temminck, 1820)",
+    "name": "Cettia cetti  (Temminck, 1820)",
     "order": "Passeriformes",
     "family": "Cettiidae",
     "genus": "Cettia",
@@ -769,7 +781,7 @@
   },
   {
     "id": "MZURORN2025-098",
-    "name": "Charadrius dubius Scopoli, 1786",
+    "name": "Charadrius dubius  Scopoli, 1786",
     "order": "Charadriiformes",
     "family": "Charadriidae",
     "genus": "Charadrius",
@@ -781,7 +793,7 @@
   },
   {
     "id": "MZURORN2025-099",
-    "name": "Charadrius hiaticula Linnaeus, 1758",
+    "name": "Charadrius hiaticula  Linnaeus, 1758",
     "order": "Charadriiformes",
     "family": "Charadriidae",
     "genus": "Charadrius",
@@ -793,7 +805,7 @@
   },
   {
     "id": "MZURORN2025-164",
-    "name": "Chlidonias niger (Linnaeus, 1758)",
+    "name": "Chlidonias niger  (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Laridae",
     "genus": "Chlidonias",
@@ -805,7 +817,7 @@
   },
   {
     "id": "MZURORN2025-165",
-    "name": "Chlidonias niger (Linnaeus, 1758)",
+    "name": "Chlidonias niger  (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Laridae",
     "genus": "Chlidonias",
@@ -817,7 +829,7 @@
   },
   {
     "id": "MZURORN2025-274",
-    "name": "Chloris chloris (Linnaeus, 1758)",
+    "name": "Chloris chloris  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Chloris",
@@ -829,7 +841,7 @@
   },
   {
     "id": "MZURORN2025-275",
-    "name": "Chloris chloris (Linnaeus, 1758)",
+    "name": "Chloris chloris  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Chloris",
@@ -841,7 +853,7 @@
   },
   {
     "id": "MZURORN2025-196",
-    "name": "Cinclus cinclus (Linnaeus, 1758)",
+    "name": "Cinclus cinclus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Cinclidae",
     "genus": "Cinclus",
@@ -853,7 +865,7 @@
   },
   {
     "id": "MZURORN2025-197",
-    "name": "Cinclus cinclus (Linnaeus, 1758)",
+    "name": "Cinclus cinclus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Cinclidae",
     "genus": "Cinclus",
@@ -865,7 +877,7 @@
   },
   {
     "id": "MZURORN2025-027",
-    "name": "Circus aeruginosus (Linnaeus, 1758)",
+    "name": "Circus aeruginosus  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Circus",
@@ -877,7 +889,7 @@
   },
   {
     "id": "MZURORN2025-146",
-    "name": "Circus aeruginosus (Linnaeus, 1758)",
+    "name": "Circus aeruginosus  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Circus",
@@ -889,7 +901,7 @@
   },
   {
     "id": "MZURORN2025-145",
-    "name": "Circus cyaneus (Linnaeus, 1766)",
+    "name": "Circus cyaneus  (Linnaeus, 1766)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Circus",
@@ -901,7 +913,7 @@
   },
   {
     "id": "MZURORN2025-279",
-    "name": "Coccothraustes coccothraustes (Linnaeus, 1758)",
+    "name": "Coccothraustes coccothraustes  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Coccothraustes",
@@ -913,7 +925,7 @@
   },
   {
     "id": "MZURORN2025-281",
-    "name": "Coccothraustes coccothraustes (Linnaeus, 1758)",
+    "name": "Coccothraustes coccothraustes  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Coccothraustes",
@@ -925,7 +937,7 @@
   },
   {
     "id": "MZURORN2025-282",
-    "name": "Coccothraustes coccothraustes (Linnaeus, 1758)",
+    "name": "Coccothraustes coccothraustes  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Coccothraustes",
@@ -937,7 +949,7 @@
   },
   {
     "id": "MZURORN2025-161",
-    "name": "Columba palumbus Linnaeus, 1758",
+    "name": "Columba palumbus  Linnaeus, 1758",
     "order": "Columbiformes",
     "family": "Columbidae",
     "genus": "Columba",
@@ -949,7 +961,7 @@
   },
   {
     "id": "MZURORN2025-163",
-    "name": "Columba palumbus Linnaeus, 1758",
+    "name": "Columba palumbus  Linnaeus, 1758",
     "order": "Columbiformes",
     "family": "Columbidae",
     "genus": "Columba",
@@ -961,7 +973,7 @@
   },
   {
     "id": "MZURORN2025-183",
-    "name": "Coracias garrulus Linnaeus, 1758",
+    "name": "Coracias garrulus  Linnaeus, 1758",
     "order": "Coraciiformes",
     "family": "Coraciidae",
     "genus": "Coracias",
@@ -973,7 +985,7 @@
   },
   {
     "id": "MZURORN2025-011",
-    "name": "Corvus albus P.L.S. Müller, 1776",
+    "name": "Corvus albus  P.L.S. Müller, 1776",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Corvus",
@@ -985,7 +997,7 @@
   },
   {
     "id": "MZURORN2025-258",
-    "name": "Corvus corax Linnaeus, 1758",
+    "name": "Corvus corax  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Corvus",
@@ -997,7 +1009,7 @@
   },
   {
     "id": "MZURORN2025-262",
-    "name": "Corvus corone Linnaeus, 1758",
+    "name": "Corvus corone  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Corvus",
@@ -1009,7 +1021,7 @@
   },
   {
     "id": "MZURORN2025-263",
-    "name": "Corvus corone Linnaeus, 1758",
+    "name": "Corvus corone cornix Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Corvus",
@@ -1021,7 +1033,7 @@
   },
   {
     "id": "MZURORN2025-259",
-    "name": "Corvus frugilegus Linnaeus, 1758",
+    "name": "Corvus frugilegus  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Corvus",
@@ -1033,7 +1045,7 @@
   },
   {
     "id": "MZURORN2025-260",
-    "name": "Corvus monedula Linnaeus, 1758",
+    "name": "Corvus monedula  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Corvus",
@@ -1045,7 +1057,7 @@
   },
   {
     "id": "MZURORN2025-261",
-    "name": "Corvus monedula Linnaeus, 1758",
+    "name": "Corvus monedula  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Corvus",
@@ -1057,7 +1069,7 @@
   },
   {
     "id": "MZURORN2025-133",
-    "name": "Coturnix coturnix (Linnaeus, 1758)",
+    "name": "Coturnix coturnix  (Linnaeus, 1758)",
     "order": "Galliformes",
     "family": "Phasianidae",
     "genus": "Coturnix",
@@ -1069,7 +1081,7 @@
   },
   {
     "id": "MZURORN2025-135",
-    "name": "Coturnix coturnix (Linnaeus, 1758)",
+    "name": "Coturnix coturnix  (Linnaeus, 1758)",
     "order": "Galliformes",
     "family": "Phasianidae",
     "genus": "Coturnix",
@@ -1081,7 +1093,7 @@
   },
   {
     "id": "MZURORN2025-136",
-    "name": "Coturnix coturnix (Linnaeus, 1758)",
+    "name": "Coturnix coturnix  (Linnaeus, 1758)",
     "order": "Galliformes",
     "family": "Phasianidae",
     "genus": "Coturnix",
@@ -1093,7 +1105,7 @@
   },
   {
     "id": "MZURORN2025-156",
-    "name": "Cuculus canorus Linnaeus, 1758",
+    "name": "Cuculus canorus  Linnaeus, 1758",
     "order": "Cuculiformes",
     "family": "Cuculidae",
     "genus": "Cuculus",
@@ -1105,7 +1117,7 @@
   },
   {
     "id": "MZURORN2025-157",
-    "name": "Cuculus canorus Linnaeus, 1758",
+    "name": "Cuculus canorus  Linnaeus, 1758",
     "order": "Cuculiformes",
     "family": "Cuculidae",
     "genus": "Cuculus",
@@ -1117,7 +1129,7 @@
   },
   {
     "id": "MZURORN2025-158",
-    "name": "Cuculus canorus Linnaeus, 1758",
+    "name": "Cuculus canorus  Linnaeus, 1758",
     "order": "Cuculiformes",
     "family": "Cuculidae",
     "genus": "Cuculus",
@@ -1129,7 +1141,7 @@
   },
   {
     "id": "MZURORN2025-256",
-    "name": "Cyanistes caeruleus (Linnaeus, 1758)",
+    "name": "Cyanistes caeruleus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Paridae",
     "genus": "Cyanistes",
@@ -1141,7 +1153,7 @@
   },
   {
     "id": "MZURORN2025-017",
-    "name": "Dendrocopos major (Linnaeus, 1758)",
+    "name": "Dendrocopos major  (Linnaeus, 1758)",
     "order": "Piciformes",
     "family": "Picidae",
     "genus": "Dendrocopos",
@@ -1153,7 +1165,7 @@
   },
   {
     "id": "MZURORN2025-018",
-    "name": "Dendrocopos major (Linnaeus, 1758)",
+    "name": "Dendrocopos major  (Linnaeus, 1758)",
     "order": "Piciformes",
     "family": "Picidae",
     "genus": "Dendrocopos",
@@ -1165,7 +1177,7 @@
   },
   {
     "id": "MZURORN2025-215",
-    "name": "Dendrocopos major (Linnaeus, 1758)",
+    "name": "Dendrocopos major  (Linnaeus, 1758)",
     "order": "Piciformes",
     "family": "Picidae",
     "genus": "Dendrocopos",
@@ -1177,7 +1189,7 @@
   },
   {
     "id": "MZURORN2025-211",
-    "name": "Dryobates minor (Linnaeus, 1758)",
+    "name": "Dryobates minor  (Linnaeus, 1758)",
     "order": "Piciformes",
     "family": "Picidae",
     "genus": "Dryobates",
@@ -1189,7 +1201,7 @@
   },
   {
     "id": "MZURORN2025-083",
-    "name": "Egretta garzetta (Linnaeus, 1766)",
+    "name": "Egretta garzetta  (Linnaeus, 1766)",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Egretta",
@@ -1201,7 +1213,7 @@
   },
   {
     "id": "MZURORN2025-298",
-    "name": "Emberiza calandra Linnaeus, 1758",
+    "name": "Emberiza calandra  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Emberizidae",
     "genus": "Emberiza",
@@ -1213,7 +1225,7 @@
   },
   {
     "id": "MZURORN2025-295",
-    "name": "Emberiza citrinella Linnaeus, 1758",
+    "name": "Emberiza citrinella  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Emberizidae",
     "genus": "Emberiza",
@@ -1225,7 +1237,7 @@
   },
   {
     "id": "MZURORN2025-296",
-    "name": "Emberiza citrinella Linnaeus, 1758",
+    "name": "Emberiza citrinella  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Emberizidae",
     "genus": "Emberiza",
@@ -1237,7 +1249,7 @@
   },
   {
     "id": "MZURORN2025-297",
-    "name": "Emberiza citrinella Linnaeus, 1758",
+    "name": "Emberiza citrinella  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Emberizidae",
     "genus": "Emberiza",
@@ -1249,7 +1261,7 @@
   },
   {
     "id": "MZURORN2025-007",
-    "name": "Eriocnemis vestita (Lesson, 1839)",
+    "name": "Eriocnemis vestita  (Lesson, 1839)",
     "order": "Apodiformes",
     "family": "Trochilidae",
     "genus": "Eriocnemis",
@@ -1261,7 +1273,7 @@
   },
   {
     "id": "MZURORN2025-022",
-    "name": "Erithacus rubecula (Linnaeus, 1758)",
+    "name": "Erithacus rubecula  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Erithacus",
@@ -1273,7 +1285,7 @@
   },
   {
     "id": "MZURORN2025-189",
-    "name": "Erithacus rubecula (Linnaeus, 1758)",
+    "name": "Erithacus rubecula  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Erithacus",
@@ -1285,7 +1297,7 @@
   },
   {
     "id": "MZURORN2025-126",
-    "name": "Falco naumanni Fleischer, 1818",
+    "name": "Falco naumanni  Fleischer, 1818",
     "order": "Falconiformes",
     "family": "Falconidae",
     "genus": "Falco",
@@ -1297,7 +1309,7 @@
   },
   {
     "id": "MZURORN2025-123",
-    "name": "Falco subbuteo Linnaeus, 1758",
+    "name": "Falco subbuteo  Linnaeus, 1758",
     "order": "Falconiformes",
     "family": "Falconidae",
     "genus": "Falco",
@@ -1309,7 +1321,7 @@
   },
   {
     "id": "MZURORN2025-124",
-    "name": "Falco subbuteo Linnaeus, 1758",
+    "name": "Falco subbuteo  Linnaeus, 1758",
     "order": "Falconiformes",
     "family": "Falconidae",
     "genus": "Falco",
@@ -1321,7 +1333,7 @@
   },
   {
     "id": "MZURORN2025-125",
-    "name": "Falco subbuteo Linnaeus, 1758",
+    "name": "Falco subbuteo  Linnaeus, 1758",
     "order": "Falconiformes",
     "family": "Falconidae",
     "genus": "Falco",
@@ -1333,7 +1345,7 @@
   },
   {
     "id": "MZURORN2025-028",
-    "name": "Falco tinnunculus Linnaeus, 1758",
+    "name": "Falco tinnunculus  Linnaeus, 1758",
     "order": "Falconiformes",
     "family": "Falconidae",
     "genus": "Falco",
@@ -1345,7 +1357,7 @@
   },
   {
     "id": "MZURORN2025-029",
-    "name": "Falco tinnunculus Linnaeus, 1758",
+    "name": "Falco tinnunculus  Linnaeus, 1758",
     "order": "Falconiformes",
     "family": "Falconidae",
     "genus": "Falco",
@@ -1357,7 +1369,7 @@
   },
   {
     "id": "MZURORN2025-130",
-    "name": "Falco tinnunculus Linnaeus, 1758",
+    "name": "Falco tinnunculus  Linnaeus, 1758",
     "order": "Falconiformes",
     "family": "Falconidae",
     "genus": "Falco",
@@ -1369,7 +1381,7 @@
   },
   {
     "id": "MZURORN2025-131",
-    "name": "Falco tinnunculus Linnaeus, 1758",
+    "name": "Falco tinnunculus  Linnaeus, 1758",
     "order": "Falconiformes",
     "family": "Falconidae",
     "genus": "Falco",
@@ -1381,7 +1393,7 @@
   },
   {
     "id": "MZURORN2025-253",
-    "name": "Ficedula hypoleuca (Pallas, 1764)",
+    "name": "Ficedula hypoleuca  (Pallas, 1764)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Ficedula",
@@ -1393,7 +1405,7 @@
   },
   {
     "id": "MZURORN2025-023",
-    "name": "Fringilla coelebs Linnaeus, 1758",
+    "name": "Fringilla coelebs  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Fringilla",
@@ -1405,7 +1417,7 @@
   },
   {
     "id": "MZURORN2025-268",
-    "name": "Fringilla coelebs Linnaeus, 1758",
+    "name": "Fringilla coelebs  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Fringilla",
@@ -1417,7 +1429,7 @@
   },
   {
     "id": "MZURORN2025-269",
-    "name": "Fringilla coelebs Linnaeus, 1758",
+    "name": "Fringilla coelebs  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Fringilla",
@@ -1429,7 +1441,7 @@
   },
   {
     "id": "MZURORN2025-270",
-    "name": "Fringilla montifringilla Linnaeus, 1758",
+    "name": "Fringilla montifringilla  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Fringilla",
@@ -1441,7 +1453,7 @@
   },
   {
     "id": "MZURORN2025-033",
-    "name": "Fulica atra Linnaeus, 1758",
+    "name": "Fulica atra  Linnaeus, 1758",
     "order": "Gruiformes",
     "family": "Rallidae",
     "genus": "Fulica",
@@ -1453,7 +1465,7 @@
   },
   {
     "id": "MZURORN2025-034",
-    "name": "Fulica atra Linnaeus, 1758",
+    "name": "Fulica atra  Linnaeus, 1758",
     "order": "Gruiformes",
     "family": "Rallidae",
     "genus": "Fulica",
@@ -1465,7 +1477,7 @@
   },
   {
     "id": "MZURORN2025-138",
-    "name": "Fulica atra Linnaeus, 1758",
+    "name": "Fulica atra  Linnaeus, 1758",
     "order": "Gruiformes",
     "family": "Rallidae",
     "genus": "Fulica",
@@ -1477,7 +1489,7 @@
   },
   {
     "id": "MZURORN2025-203",
-    "name": "Galerida cristata (Linnaeus, 1758)",
+    "name": "Galerida cristata  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Alaudidae",
     "genus": "Galerida",
@@ -1489,7 +1501,7 @@
   },
   {
     "id": "MZURORN2025-108",
-    "name": "Gallinago gallinago (Linnaeus, 1758)",
+    "name": "Gallinago gallinago  (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Gallinago",
@@ -1501,7 +1513,7 @@
   },
   {
     "id": "MZURORN2025-110",
-    "name": "Gallinago gallinago (Linnaeus, 1758)",
+    "name": "Gallinago gallinago  (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Gallinago",
@@ -1513,7 +1525,7 @@
   },
   {
     "id": "MZURORN2025-106",
-    "name": "Gallinago media (Latham, 1787)",
+    "name": "Gallinago media  (Latham, 1787)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Gallinago",
@@ -1525,7 +1537,7 @@
   },
   {
     "id": "MZURORN2025-035",
-    "name": "Gallinula chloropus (Linnaeus, 1758)",
+    "name": "Gallinula chloropus  (Linnaeus, 1758)",
     "order": "Gruiformes",
     "family": "Rallidae",
     "genus": "Gallinula",
@@ -1537,7 +1549,7 @@
   },
   {
     "id": "MZURORN2025-139",
-    "name": "Gallinula chloropus (Linnaeus, 1758)",
+    "name": "Gallinula chloropus  (Linnaeus, 1758)",
     "order": "Gruiformes",
     "family": "Rallidae",
     "genus": "Gallinula",
@@ -1549,7 +1561,7 @@
   },
   {
     "id": "MZURORN2025-001",
-    "name": "Garrulus glandarius (Linnaeus, 1758)",
+    "name": "Garrulus glandarius  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Garrulus",
@@ -1561,7 +1573,7 @@
   },
   {
     "id": "MZURORN2025-005",
-    "name": "Garrulus glandarius (Linnaeus, 1758)",
+    "name": "Garrulus glandarius  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Garrulus",
@@ -1573,7 +1585,7 @@
   },
   {
     "id": "MZURORN2025-239",
-    "name": "Garrulus glandarius (Linnaeus, 1758)",
+    "name": "Garrulus glandarius  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Garrulus",
@@ -1585,7 +1597,7 @@
   },
   {
     "id": "MZURORN2025-240",
-    "name": "Garrulus glandarius (Linnaeus, 1758)",
+    "name": "Garrulus glandarius  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Garrulus",
@@ -1597,7 +1609,7 @@
   },
   {
     "id": "MZURORN2025-071",
-    "name": "Gavia stellata (Pontoppidan, 1763)",
+    "name": "Gavia stellata  (Pontoppidan, 1763)",
     "order": "Gaviiformes",
     "family": "Gaviidae",
     "genus": "Gavia",
@@ -1609,7 +1621,7 @@
   },
   {
     "id": "MZURORN2025-087",
-    "name": "Gavia stellata (Pontoppidan, 1763)",
+    "name": "Gavia stellata  (Pontoppidan, 1763)",
     "order": "Gaviiformes",
     "family": "Gaviidae",
     "genus": "Gavia",
@@ -1621,7 +1633,7 @@
   },
   {
     "id": "MZURORN2025-174",
-    "name": "Glaucidium passerinum (Linnaeus, 1758)",
+    "name": "Glaucidium passerinum  (Linnaeus, 1758)",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Glaucidium",
@@ -1633,7 +1645,7 @@
   },
   {
     "id": "MZURORN2025-097",
-    "name": "Himantopus himantopus (Linnaeus, 1758)",
+    "name": "Himantopus himantopus  (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Recurvirostridae",
     "genus": "Himantopus",
@@ -1645,7 +1657,7 @@
   },
   {
     "id": "MZURORN2025-205",
-    "name": "Hirundo rustica Linnaeus, 1758",
+    "name": "Hirundo rustica  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Hirundinidae",
     "genus": "Hirundo",
@@ -1657,7 +1669,7 @@
   },
   {
     "id": "MZURORN2025-167",
-    "name": "Hydrocoloeus minutus (Pallas, 1776)",
+    "name": "Hydrocoloeus minutus  (Pallas, 1776)",
     "order": "Charadriiformes",
     "family": "Laridae",
     "genus": "Hydrocoloeus",
@@ -1669,7 +1681,7 @@
   },
   {
     "id": "MZURORN2025-208",
-    "name": "Jynx torquilla Linnaeus, 1758",
+    "name": "Jynx torquilla  Linnaeus, 1758",
     "order": "Piciformes",
     "family": "Picidae",
     "genus": "Jynx",
@@ -1681,7 +1693,7 @@
   },
   {
     "id": "MZURORN2025-210",
-    "name": "Jynx torquilla Linnaeus, 1758",
+    "name": "Jynx torquilla  Linnaeus, 1758",
     "order": "Piciformes",
     "family": "Picidae",
     "genus": "Jynx",
@@ -1693,7 +1705,7 @@
   },
   {
     "id": "MZURORN2025-212",
-    "name": "Jynx torquilla Linnaeus, 1758",
+    "name": "Jynx torquilla  Linnaeus, 1758",
     "order": "Piciformes",
     "family": "Picidae",
     "genus": "Jynx",
@@ -1705,7 +1717,7 @@
   },
   {
     "id": "MZURORN2025-127",
-    "name": "Lagopus muta (Montin, 1781)",
+    "name": "Lagopus muta  (Montin, 1781)",
     "order": "Galliformes",
     "family": "Phasianidae",
     "genus": "Lagopus",
@@ -1717,7 +1729,7 @@
   },
   {
     "id": "MZURORN2025-128",
-    "name": "Lagopus muta (Montin, 1781)",
+    "name": "Lagopus muta  (Montin, 1781)",
     "order": "Galliformes",
     "family": "Phasianidae",
     "genus": "Lagopus",
@@ -1729,7 +1741,7 @@
   },
   {
     "id": "MZURORN2025-243",
-    "name": "Lanius senator Linnaeus, 1758",
+    "name": "Lanius senator  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Laniidae",
     "genus": "Lanius",
@@ -1741,7 +1753,7 @@
   },
   {
     "id": "MZURORN2025-169",
-    "name": "Larus melanocephalus Temminck, 1820",
+    "name": "Larus melanocephalus  Temminck, 1820",
     "order": "Charadriiformes",
     "family": "Laridae",
     "genus": "Larus",
@@ -1753,7 +1765,7 @@
   },
   {
     "id": "MZURORN2025-166",
-    "name": "Larus ridibundus Linnaeus, 1766",
+    "name": "Larus ridibundus  Linnaeus, 1766",
     "order": "Charadriiformes",
     "family": "Laridae",
     "genus": "Larus",
@@ -1765,7 +1777,7 @@
   },
   {
     "id": "MZURORN2025-117",
-    "name": "Limosa limosa (Linnaeus, 1758)",
+    "name": "Limosa limosa  (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Limosa",
@@ -1777,7 +1789,7 @@
   },
   {
     "id": "MZURORN2025-272",
-    "name": "Linaria cannabina (Linnaeus, 1758)",
+    "name": "Linaria cannabina  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Linaria",
@@ -1789,7 +1801,7 @@
   },
   {
     "id": "MZURORN2025-192",
-    "name": "Luscinia megarhynchos C.L. Brehm, 1831",
+    "name": "Luscinia megarhynchos  C.L. Brehm, 1831",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Luscinia",
@@ -1801,7 +1813,7 @@
   },
   {
     "id": "MZURORN2025-046",
-    "name": "Mareca penelope (Linnaeus, 1758)",
+    "name": "Mareca penelope  (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Mareca",
@@ -1813,7 +1825,7 @@
   },
   {
     "id": "MZURORN2025-056",
-    "name": "Mareca penelope (Linnaeus, 1758)",
+    "name": "Mareca penelope  (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Mareca",
@@ -1825,7 +1837,7 @@
   },
   {
     "id": "MZURORN2025-075",
-    "name": "Mareca penelope (Linnaeus, 1758)",
+    "name": "Mareca penelope  (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Mareca",
@@ -1837,7 +1849,7 @@
   },
   {
     "id": "MZURORN2025-076",
-    "name": "Mareca penelope (Linnaeus, 1758)",
+    "name": "Mareca penelope  (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Mareca",
@@ -1849,7 +1861,7 @@
   },
   {
     "id": "MZURORN2025-062",
-    "name": "Mergellus albellus (Linnaeus, 1758)",
+    "name": "Mergellus albellus  (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Mergellus",
@@ -1861,7 +1873,7 @@
   },
   {
     "id": "MZURORN2025-061",
-    "name": "Mergus serrator Linnaeus, 1758",
+    "name": "Mergus serrator  Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Mergus",
@@ -1873,7 +1885,7 @@
   },
   {
     "id": "MZURORN2025-074",
-    "name": "Mergus serrator Linnaeus, 1758",
+    "name": "Mergus serrator  Linnaeus, 1758",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Mergus",
@@ -1885,7 +1897,7 @@
   },
   {
     "id": "MZURORN2025-185",
-    "name": "Merops apiaster Linnaeus, 1758",
+    "name": "Merops apiaster  Linnaeus, 1758",
     "order": "Coraciiformes",
     "family": "Meropidae",
     "genus": "Merops",
@@ -1897,7 +1909,7 @@
   },
   {
     "id": "MZURORN2025-144",
-    "name": "Milvus migrans (Boddaert, 1783)",
+    "name": "Milvus migrans  (Boddaert, 1783)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Milvus",
@@ -1909,7 +1921,7 @@
   },
   {
     "id": "MZURORN2025-143",
-    "name": "Milvus milvus (Linnaeus, 1758)",
+    "name": "Milvus milvus  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Milvus",
@@ -1921,7 +1933,7 @@
   },
   {
     "id": "MZURORN2025-224",
-    "name": "Monticola solitarius (Linnaeus, 1758)",
+    "name": "Monticola solitarius  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Monticola",
@@ -1933,7 +1945,7 @@
   },
   {
     "id": "MZURORN2025-199",
-    "name": "Motacilla alba Linnaeus, 1758",
+    "name": "Motacilla alba  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Motacillidae",
     "genus": "Motacilla",
@@ -1945,7 +1957,7 @@
   },
   {
     "id": "MZURORN2025-201",
-    "name": "Motacilla alba Linnaeus, 1758",
+    "name": "Motacilla alba  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Motacillidae",
     "genus": "Motacilla",
@@ -1957,7 +1969,7 @@
   },
   {
     "id": "MZURORN2025-200",
-    "name": "Motacilla cinerea Tunstall, 1771",
+    "name": "Motacilla cinerea  Tunstall, 1771",
     "order": "Passeriformes",
     "family": "Motacillidae",
     "genus": "Motacilla",
@@ -1969,7 +1981,7 @@
   },
   {
     "id": "MZURORN2025-202",
-    "name": "Motacilla cinerea Tunstall, 1771",
+    "name": "Motacilla cinerea  Tunstall, 1771",
     "order": "Passeriformes",
     "family": "Motacillidae",
     "genus": "Motacilla",
@@ -1981,7 +1993,7 @@
   },
   {
     "id": "MZURORN2025-048",
-    "name": "Netta rufina (Pallas, 1773)",
+    "name": "Netta rufina  (Pallas, 1773)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Netta",
@@ -1993,7 +2005,7 @@
   },
   {
     "id": "MZURORN2025-065",
-    "name": "Netta rufina (Pallas, 1773)",
+    "name": "Netta rufina  (Pallas, 1773)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Netta",
@@ -2005,7 +2017,7 @@
   },
   {
     "id": "MZURORN2025-004",
-    "name": "Nucifraga caryocatactes (Linnaeus, 1758)",
+    "name": "Nucifraga caryocatactes  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Nucifraga",
@@ -2017,7 +2029,7 @@
   },
   {
     "id": "MZURORN2025-238",
-    "name": "Nucifraga caryocatactes (Linnaeus, 1758)",
+    "name": "Nucifraga caryocatactes  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Nucifraga",
@@ -2029,7 +2041,7 @@
   },
   {
     "id": "MZURORN2025-112",
-    "name": "Numenius arquata (Linnaeus, 1758)",
+    "name": "Numenius arquata  (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Numenius",
@@ -2041,7 +2053,7 @@
   },
   {
     "id": "MZURORN2025-116",
-    "name": "Numenius arquata (Linnaeus, 1758)",
+    "name": "Numenius arquata  (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Numenius",
@@ -2053,7 +2065,7 @@
   },
   {
     "id": "MZURORN2025-037",
-    "name": "Nycticorax nycticorax (Linnaeus, 1758)",
+    "name": "Nycticorax nycticorax  (Linnaeus, 1758)",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Nycticorax",
@@ -2065,7 +2077,7 @@
   },
   {
     "id": "MZURORN2025-082",
-    "name": "Nycticorax nycticorax (Linnaeus, 1758)",
+    "name": "Nycticorax nycticorax  (Linnaeus, 1758)",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Nycticorax",
@@ -2077,7 +2089,7 @@
   },
   {
     "id": "MZURORN2025-086",
-    "name": "Nycticorax nycticorax (Linnaeus, 1758)",
+    "name": "Nycticorax nycticorax  (Linnaeus, 1758)",
     "order": "Pelecaniformes",
     "family": "Ardeidae",
     "genus": "Nycticorax",
@@ -2089,7 +2101,7 @@
   },
   {
     "id": "MZURORN2025-223",
-    "name": "Oenanthe oenanthe (Linnaeus, 1758)",
+    "name": "Oenanthe oenanthe  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Oenanthe",
@@ -2101,7 +2113,7 @@
   },
   {
     "id": "MZURORN2025-024",
-    "name": "Oriolus oriolus (Linnaeus, 1758)",
+    "name": "Oriolus oriolus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Oriolidae",
     "genus": "Oriolus",
@@ -2113,7 +2125,7 @@
   },
   {
     "id": "MZURORN2025-247",
-    "name": "Oriolus oriolus (Linnaeus, 1758)",
+    "name": "Oriolus oriolus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Oriolidae",
     "genus": "Oriolus",
@@ -2125,7 +2137,7 @@
   },
   {
     "id": "MZURORN2025-248",
-    "name": "Oriolus oriolus (Linnaeus, 1758)",
+    "name": "Oriolus oriolus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Oriolidae",
     "genus": "Oriolus",
@@ -2137,7 +2149,7 @@
   },
   {
     "id": "MZURORN2025-043",
-    "name": "Otus scops (Linnaeus, 1758)",
+    "name": "Otus scops  (Linnaeus, 1758)",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Otus",
@@ -2149,7 +2161,7 @@
   },
   {
     "id": "MZURORN2025-170",
-    "name": "Otus scops (Linnaeus, 1758)",
+    "name": "Otus scops  (Linnaeus, 1758)",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Otus",
@@ -2161,7 +2173,7 @@
   },
   {
     "id": "MZURORN2025-015",
-    "name": "Parus major Linnaeus, 1758",
+    "name": "Parus major  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Paridae",
     "genus": "Parus",
@@ -2173,7 +2185,7 @@
   },
   {
     "id": "MZURORN2025-016",
-    "name": "Parus major Linnaeus, 1758",
+    "name": "Parus major  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Paridae",
     "genus": "Parus",
@@ -2185,7 +2197,7 @@
   },
   {
     "id": "MZURORN2025-249",
-    "name": "Parus major Linnaeus, 1758",
+    "name": "Parus major  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Paridae",
     "genus": "Parus",
@@ -2197,7 +2209,7 @@
   },
   {
     "id": "MZURORN2025-250",
-    "name": "Parus major Linnaeus, 1758",
+    "name": "Parus major  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Paridae",
     "genus": "Parus",
@@ -2209,7 +2221,7 @@
   },
   {
     "id": "MZURORN2025-251",
-    "name": "Parus major Linnaeus, 1758",
+    "name": "Parus major  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Paridae",
     "genus": "Parus",
@@ -2221,7 +2233,7 @@
   },
   {
     "id": "MZURORN2025-252",
-    "name": "Parus major Linnaeus, 1758",
+    "name": "Parus major  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Paridae",
     "genus": "Parus",
@@ -2233,7 +2245,7 @@
   },
   {
     "id": "MZURORN2025-293",
-    "name": "Passer domesticus (Linnaeus, 1758)",
+    "name": "Passer domesticus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Passeridae",
     "genus": "Passer",
@@ -2245,7 +2257,7 @@
   },
   {
     "id": "MZURORN2025-294",
-    "name": "Passer domesticus (Linnaeus, 1758)",
+    "name": "Passer domesticus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Passeridae",
     "genus": "Passer",
@@ -2257,7 +2269,7 @@
   },
   {
     "id": "MZURORN2025-013",
-    "name": "Passer italiae (Vieillot, 1817)",
+    "name": "Passer italiae  (Vieillot, 1817)",
     "order": "Passeriformes",
     "family": "Passeridae",
     "genus": "Passer",
@@ -2269,7 +2281,7 @@
   },
   {
     "id": "MZURORN2025-014",
-    "name": "Passer italiae (Vieillot, 1817)",
+    "name": "Passer italiae  (Vieillot, 1817)",
     "order": "Passeriformes",
     "family": "Passeridae",
     "genus": "Passer",
@@ -2281,7 +2293,7 @@
   },
   {
     "id": "MZURORN2025-292",
-    "name": "Passer italiae (Vieillot, 1817)",
+    "name": "Passer italiae  (Vieillot, 1817)",
     "order": "Passeriformes",
     "family": "Passeridae",
     "genus": "Passer",
@@ -2293,7 +2305,7 @@
   },
   {
     "id": "MZURORN2025-021",
-    "name": "Passer montanus (Linnaeus, 1758)",
+    "name": "Passer montanus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Passeridae",
     "genus": "Passer",
@@ -2305,7 +2317,7 @@
   },
   {
     "id": "MZURORN2025-289",
-    "name": "Passer montanus (Linnaeus, 1758)",
+    "name": "Passer montanus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Passeridae",
     "genus": "Passer",
@@ -2317,7 +2329,7 @@
   },
   {
     "id": "MZURORN2025-290",
-    "name": "Passer montanus (Linnaeus, 1758)",
+    "name": "Passer montanus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Passeridae",
     "genus": "Passer",
@@ -2329,7 +2341,7 @@
   },
   {
     "id": "MZURORN2025-291",
-    "name": "Passer montanus (Linnaeus, 1758)",
+    "name": "Passer montanus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Passeridae",
     "genus": "Passer",
@@ -2341,7 +2353,7 @@
   },
   {
     "id": "MZURORN2025-288",
-    "name": "Pastor roseus (Linnaeus, 1758)",
+    "name": "Pastor roseus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Sturnidae",
     "genus": "Pastor",
@@ -2353,7 +2365,7 @@
   },
   {
     "id": "MZURORN2025-132",
-    "name": "Perdix perdix (Linnaeus, 1758)",
+    "name": "Perdix perdix  (Linnaeus, 1758)",
     "order": "Galliformes",
     "family": "Phasianidae",
     "genus": "Perdix",
@@ -2365,7 +2377,7 @@
   },
   {
     "id": "MZURORN2025-026",
-    "name": "Pernis apivorus (Linnaeus, 1758)",
+    "name": "Pernis apivorus  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Pernis",
@@ -2377,7 +2389,7 @@
   },
   {
     "id": "MZURORN2025-140",
-    "name": "Pernis apivorus (Linnaeus, 1758)",
+    "name": "Pernis apivorus  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Pernis",
@@ -2389,7 +2401,7 @@
   },
   {
     "id": "MZURORN2025-141",
-    "name": "Pernis apivorus (Linnaeus, 1758)",
+    "name": "Pernis apivorus  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Pernis",
@@ -2401,7 +2413,7 @@
   },
   {
     "id": "MZURORN2025-142",
-    "name": "Pernis apivorus (Linnaeus, 1758)",
+    "name": "Pernis apivorus  (Linnaeus, 1758)",
     "order": "Accipitriformes",
     "family": "Accipitridae",
     "genus": "Pernis",
@@ -2413,7 +2425,7 @@
   },
   {
     "id": "MZURORN2025-089",
-    "name": "Phalacrocorax carbo (Linnaeus, 1758)",
+    "name": "Phalacrocorax carbo  (Linnaeus, 1758)",
     "order": "Suliformes",
     "family": "Phalacrocoracidae",
     "genus": "Phalacrocorax",
@@ -2425,19 +2437,19 @@
   },
   {
     "id": "MZURORN2025-190",
-    "name": "Phoenicurus ochruros (S.G. Gmelin, 1774)",
+    "name": "Phoenicurus ochruros  (S.G. Gmelin, 1774)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Phoenicurus",
     "locality": "Andonno",
     "country": "Italy",
-    "lat": 44.296191,
-    "lon": 7.430586,
+    "lat": 44.2946,
+    "lon": 7.4298,
     "uncertainty": "1244"
   },
   {
     "id": "MZURORN2025-188",
-    "name": "Phoenicurus phoenicurus (Linnaeus, 1758)",
+    "name": "Phoenicurus phoenicurus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Phoenicurus",
@@ -2449,7 +2461,7 @@
   },
   {
     "id": "MZURORN2025-191",
-    "name": "Phoenicurus phoenicurus (Linnaeus, 1758)",
+    "name": "Phoenicurus phoenicurus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Phoenicurus",
@@ -2461,7 +2473,7 @@
   },
   {
     "id": "MZURORN2025-193",
-    "name": "Phoenicurus phoenicurus (Linnaeus, 1758)",
+    "name": "Phoenicurus phoenicurus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Phoenicurus",
@@ -2473,7 +2485,7 @@
   },
   {
     "id": "MZURORN2025-231",
-    "name": "Phylloscopus sibilatrix (Bechstein, 1793)",
+    "name": "Phylloscopus sibilatrix  (Bechstein, 1793)",
     "order": "Passeriformes",
     "family": "Phylloscopidae",
     "genus": "Phylloscopus",
@@ -2485,7 +2497,7 @@
   },
   {
     "id": "MZURORN2025-003",
-    "name": "Pica pica (Linnaeus, 1758)",
+    "name": "Pica pica  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Pica",
@@ -2497,7 +2509,7 @@
   },
   {
     "id": "MZURORN2025-006",
-    "name": "Pica pica (Linnaeus, 1758)",
+    "name": "Pica pica  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Pica",
@@ -2509,7 +2521,7 @@
   },
   {
     "id": "MZURORN2025-241",
-    "name": "Pica pica (Linnaeus, 1758)",
+    "name": "Pica pica  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Pica",
@@ -2521,7 +2533,7 @@
   },
   {
     "id": "MZURORN2025-242",
-    "name": "Pica pica (Linnaeus, 1758)",
+    "name": "Pica pica  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Pica",
@@ -2533,7 +2545,7 @@
   },
   {
     "id": "MZURORN2025-019",
-    "name": "Picus viridis Linnaeus, 1758",
+    "name": "Picus viridis  Linnaeus, 1758",
     "order": "Piciformes",
     "family": "Picidae",
     "genus": "Picus",
@@ -2545,7 +2557,7 @@
   },
   {
     "id": "MZURORN2025-209",
-    "name": "Picus viridis Linnaeus, 1758",
+    "name": "Picus viridis  Linnaeus, 1758",
     "order": "Piciformes",
     "family": "Picidae",
     "genus": "Picus",
@@ -2557,7 +2569,7 @@
   },
   {
     "id": "MZURORN2025-213",
-    "name": "Picus viridis Linnaeus, 1758",
+    "name": "Picus viridis  Linnaeus, 1758",
     "order": "Piciformes",
     "family": "Picidae",
     "genus": "Picus",
@@ -2569,7 +2581,7 @@
   },
   {
     "id": "MZURORN2025-088",
-    "name": "Plegadis falcinellus (Linnaeus, 1766)",
+    "name": "Plegadis falcinellus  (Linnaeus, 1766)",
     "order": "Pelecaniformes",
     "family": "Threskiornithidae",
     "genus": "Plegadis",
@@ -2581,7 +2593,7 @@
   },
   {
     "id": "MZURORN2025-101",
-    "name": "Pluvialis apricaria (Linnaeus, 1758)",
+    "name": "Pluvialis apricaria  (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Charadriidae",
     "genus": "Pluvialis",
@@ -2593,7 +2605,7 @@
   },
   {
     "id": "MZURORN2025-036",
-    "name": "Podiceps cristatus (Linnaeus, 1758)",
+    "name": "Podiceps cristatus  (Linnaeus, 1758)",
     "order": "Podicipediformes",
     "family": "Podicipedidae",
     "genus": "Podiceps",
@@ -2605,7 +2617,7 @@
   },
   {
     "id": "MZURORN2025-090",
-    "name": "Podiceps cristatus (Linnaeus, 1758)",
+    "name": "Podiceps cristatus  (Linnaeus, 1758)",
     "order": "Podicipediformes",
     "family": "Podicipedidae",
     "genus": "Podiceps",
@@ -2617,7 +2629,7 @@
   },
   {
     "id": "MZURORN2025-072",
-    "name": "Podiceps nigricollis Brehm, 1831",
+    "name": "Podiceps nigricollis  C.L. Brehm, 1831",
     "order": "Podicipediformes",
     "family": "Podicipedidae",
     "genus": "Podiceps",
@@ -2629,7 +2641,7 @@
   },
   {
     "id": "MZURORN2025-255",
-    "name": "Poecile palustris (Linnaeus, 1758)",
+    "name": "Poecile palustris  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Paridae",
     "genus": "Poecile",
@@ -2641,7 +2653,7 @@
   },
   {
     "id": "MZURORN2025-198",
-    "name": "Prunella modularis (Linnaeus, 1758)",
+    "name": "Prunella modularis  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Prunellidae",
     "genus": "Prunella",
@@ -2653,7 +2665,7 @@
   },
   {
     "id": "MZURORN2025-002",
-    "name": "Pyrrhocorax graculus (Linnaeus, 1766)",
+    "name": "Pyrrhocorax graculus  (Linnaeus, 1766)",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Pyrrhocorax",
@@ -2665,7 +2677,7 @@
   },
   {
     "id": "MZURORN2025-264",
-    "name": "Pyrrhocorax graculus (Linnaeus, 1766)",
+    "name": "Pyrrhocorax graculus  (Linnaeus, 1766)",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Pyrrhocorax",
@@ -2677,7 +2689,7 @@
   },
   {
     "id": "MZURORN2025-266",
-    "name": "Pyrrhocorax graculus (Linnaeus, 1766)",
+    "name": "Pyrrhocorax graculus  (Linnaeus, 1766)",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Pyrrhocorax",
@@ -2689,7 +2701,7 @@
   },
   {
     "id": "MZURORN2025-267",
-    "name": "Pyrrhocorax graculus (Linnaeus, 1766)",
+    "name": "Pyrrhocorax graculus  (Linnaeus, 1766)",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Pyrrhocorax",
@@ -2701,7 +2713,7 @@
   },
   {
     "id": "MZURORN2025-265",
-    "name": "Pyrrhocorax pyrrhocorax (Linnaeus, 1758)",
+    "name": "Pyrrhocorax pyrrhocorax  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Corvidae",
     "genus": "Pyrrhocorax",
@@ -2713,7 +2725,7 @@
   },
   {
     "id": "MZURORN2025-277",
-    "name": "Pyrrhula pyrrhula (Linnaeus, 1758)",
+    "name": "Pyrrhula pyrrhula  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Pyrrhula",
@@ -2725,7 +2737,7 @@
   },
   {
     "id": "MZURORN2025-278",
-    "name": "Pyrrhula pyrrhula (Linnaeus, 1758)",
+    "name": "Pyrrhula pyrrhula  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Pyrrhula",
@@ -2737,7 +2749,7 @@
   },
   {
     "id": "MZURORN2025-280",
-    "name": "Pyrrhula pyrrhula (Linnaeus, 1758)",
+    "name": "Pyrrhula pyrrhula  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Pyrrhula",
@@ -2749,7 +2761,7 @@
   },
   {
     "id": "MZURORN2025-031",
-    "name": "Rallus aquaticus Linnaeus, 1758",
+    "name": "Rallus aquaticus  Linnaeus, 1758",
     "order": "Gruiformes",
     "family": "Rallidae",
     "genus": "Rallus",
@@ -2761,7 +2773,7 @@
   },
   {
     "id": "MZURORN2025-032",
-    "name": "Rallus aquaticus Linnaeus, 1758",
+    "name": "Rallus aquaticus  Linnaeus, 1758",
     "order": "Gruiformes",
     "family": "Rallidae",
     "genus": "Rallus",
@@ -2773,7 +2785,7 @@
   },
   {
     "id": "MZURORN2025-134",
-    "name": "Rallus aquaticus Linnaeus, 1758",
+    "name": "Rallus aquaticus  Linnaeus, 1758",
     "order": "Gruiformes",
     "family": "Rallidae",
     "genus": "Rallus",
@@ -2785,7 +2797,7 @@
   },
   {
     "id": "MZURORN2025-137",
-    "name": "Rallus aquaticus Linnaeus, 1758",
+    "name": "Rallus aquaticus  Linnaeus, 1758",
     "order": "Gruiformes",
     "family": "Rallidae",
     "genus": "Rallus",
@@ -2797,7 +2809,7 @@
   },
   {
     "id": "MZURORN2025-009",
-    "name": "Ramphastos dicolorus Linnaeus, 1766",
+    "name": "Ramphastos dicolorus  Linnaeus, 1766",
     "order": "Piciformes",
     "family": "Ramphastidae",
     "genus": "Ramphastos",
@@ -2809,7 +2821,7 @@
   },
   {
     "id": "MZURORN2025-010",
-    "name": "Ramphastos dicolorus Linnaeus, 1766",
+    "name": "Ramphastos dicolorus  Linnaeus, 1766",
     "order": "Piciformes",
     "family": "Ramphastidae",
     "genus": "Ramphastos",
@@ -2821,7 +2833,7 @@
   },
   {
     "id": "MZURORN2025-095",
-    "name": "Recurvirostra avosetta Linnaeus, 1758",
+    "name": "Recurvirostra avosetta  Linnaeus, 1758",
     "order": "Charadriiformes",
     "family": "Recurvirostridae",
     "genus": "Recurvirostra",
@@ -2833,7 +2845,7 @@
   },
   {
     "id": "MZURORN2025-096",
-    "name": "Recurvirostra avosetta Linnaeus, 1758",
+    "name": "Recurvirostra avosetta  Linnaeus, 1758",
     "order": "Charadriiformes",
     "family": "Recurvirostridae",
     "genus": "Recurvirostra",
@@ -2845,7 +2857,7 @@
   },
   {
     "id": "MZURORN2025-232",
-    "name": "Regulus regulus (Linnaeus, 1758)",
+    "name": "Regulus regulus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Regulidae",
     "genus": "Regulus",
@@ -2857,7 +2869,7 @@
   },
   {
     "id": "MZURORN2025-234",
-    "name": "Regulus regulus (Linnaeus, 1758)",
+    "name": "Regulus regulus  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Regulidae",
     "genus": "Regulus",
@@ -2869,7 +2881,7 @@
   },
   {
     "id": "MZURORN2025-059",
-    "name": "Rhynchotus rufescens (Temminck, 1815)",
+    "name": "Rhynchotus rufescens  (Temminck, 1815)",
     "order": "Tinamiformes",
     "family": "Tinamidae",
     "genus": "Rhynchotus",
@@ -2881,7 +2893,7 @@
   },
   {
     "id": "MZURORN2025-168",
-    "name": "Rissa tridactyla (Linnaeus, 1758)",
+    "name": "Rissa tridactyla  (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Laridae",
     "genus": "Rissa",
@@ -2893,7 +2905,7 @@
   },
   {
     "id": "MZURORN2025-226",
-    "name": "Saxicola rubetra (Linnaeus, 1758)",
+    "name": "Saxicola rubetra  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Saxicola",
@@ -2905,7 +2917,7 @@
   },
   {
     "id": "MZURORN2025-225",
-    "name": "Saxicola rubicola (Linnaeus, 1766)",
+    "name": "Saxicola rubicola  (Linnaeus, 1766)",
     "order": "Passeriformes",
     "family": "Muscicapidae",
     "genus": "Saxicola",
@@ -2917,7 +2929,7 @@
   },
   {
     "id": "MZURORN2025-107",
-    "name": "Scolopax rusticola Linnaeus, 1758",
+    "name": "Scolopax rusticola  Linnaeus, 1758",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Scolopax",
@@ -2929,7 +2941,7 @@
   },
   {
     "id": "MZURORN2025-273",
-    "name": "Serinus serinus (Linnaeus, 1766)",
+    "name": "Serinus serinus  (Linnaeus, 1766)",
     "order": "Passeriformes",
     "family": "Fringillidae",
     "genus": "Serinus",
@@ -2941,7 +2953,7 @@
   },
   {
     "id": "MZURORN2025-257",
-    "name": "Sitta europaea Linnaeus, 1758",
+    "name": "Sitta europaea  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Sittidae",
     "genus": "Sitta",
@@ -2953,7 +2965,7 @@
   },
   {
     "id": "MZURORN2025-052",
-    "name": "Spatula clypeata (Linnaeus, 1758)",
+    "name": "Spatula clypeata  (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Spatula",
@@ -2965,7 +2977,7 @@
   },
   {
     "id": "MZURORN2025-066",
-    "name": "Spatula clypeata (Linnaeus, 1758)",
+    "name": "Spatula clypeata  (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Spatula",
@@ -2977,7 +2989,7 @@
   },
   {
     "id": "MZURORN2025-067",
-    "name": "Spatula clypeata (Linnaeus, 1758)",
+    "name": "Spatula clypeata  (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Spatula",
@@ -2989,7 +3001,7 @@
   },
   {
     "id": "MZURORN2025-050",
-    "name": "Spatula querquedula (Linnaeus, 1758)",
+    "name": "Spatula querquedula  (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Spatula",
@@ -3001,7 +3013,7 @@
   },
   {
     "id": "MZURORN2025-068",
-    "name": "Spatula querquedula (Linnaeus, 1758)",
+    "name": "Spatula querquedula  (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Spatula",
@@ -3013,7 +3025,7 @@
   },
   {
     "id": "MZURORN2025-077",
-    "name": "Spatula querquedula (Linnaeus, 1758)",
+    "name": "Spatula querquedula  (Linnaeus, 1758)",
     "order": "Anseriformes",
     "family": "Anatidae",
     "genus": "Spatula",
@@ -3025,7 +3037,7 @@
   },
   {
     "id": "MZURORN2025-162",
-    "name": "Sternula albifrons (Pallas, 1764)",
+    "name": "Sternula albifrons  (Pallas, 1764)",
     "order": "Charadriiformes",
     "family": "Laridae",
     "genus": "Sternula",
@@ -3037,7 +3049,7 @@
   },
   {
     "id": "MZURORN2025-159",
-    "name": "Streptopelia turtur (Linnaeus, 1758)",
+    "name": "Streptopelia turtur  (Linnaeus, 1758)",
     "order": "Columbiformes",
     "family": "Columbidae",
     "genus": "Streptopelia",
@@ -3049,7 +3061,7 @@
   },
   {
     "id": "MZURORN2025-160",
-    "name": "Streptopelia turtur (Linnaeus, 1758)",
+    "name": "Streptopelia turtur  (Linnaeus, 1758)",
     "order": "Columbiformes",
     "family": "Columbidae",
     "genus": "Streptopelia",
@@ -3061,7 +3073,7 @@
   },
   {
     "id": "MZURORN2025-042",
-    "name": "Strix aluco Linnaeus, 1758",
+    "name": "Strix aluco  Linnaeus, 1758",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Strix",
@@ -3073,7 +3085,7 @@
   },
   {
     "id": "MZURORN2025-172",
-    "name": "Strix aluco Linnaeus, 1758",
+    "name": "Strix aluco  Linnaeus, 1758",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Strix",
@@ -3085,7 +3097,7 @@
   },
   {
     "id": "MZURORN2025-173",
-    "name": "Strix aluco Linnaeus, 1758",
+    "name": "Strix aluco  Linnaeus, 1758",
     "order": "Strigiformes",
     "family": "Strigidae",
     "genus": "Strix",
@@ -3097,7 +3109,7 @@
   },
   {
     "id": "MZURORN2025-283",
-    "name": "Sturnus vulgaris Linnaeus, 1758",
+    "name": "Sturnus vulgaris  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Sturnidae",
     "genus": "Sturnus",
@@ -3109,7 +3121,7 @@
   },
   {
     "id": "MZURORN2025-284",
-    "name": "Sturnus vulgaris Linnaeus, 1758",
+    "name": "Sturnus vulgaris  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Sturnidae",
     "genus": "Sturnus",
@@ -3121,7 +3133,7 @@
   },
   {
     "id": "MZURORN2025-285",
-    "name": "Sturnus vulgaris Linnaeus, 1758",
+    "name": "Sturnus vulgaris  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Sturnidae",
     "genus": "Sturnus",
@@ -3133,7 +3145,7 @@
   },
   {
     "id": "MZURORN2025-286",
-    "name": "Sturnus vulgaris Linnaeus, 1758",
+    "name": "Sturnus vulgaris  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Sturnidae",
     "genus": "Sturnus",
@@ -3145,7 +3157,7 @@
   },
   {
     "id": "MZURORN2025-287",
-    "name": "Sturnus vulgaris Linnaeus, 1758",
+    "name": "Sturnus vulgaris  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Sturnidae",
     "genus": "Sturnus",
@@ -3157,7 +3169,7 @@
   },
   {
     "id": "MZURORN2025-235",
-    "name": "Sylvia atricapilla (Linnaeus, 1758)",
+    "name": "Sylvia atricapilla  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Sylviidae",
     "genus": "Sylvia",
@@ -3169,7 +3181,7 @@
   },
   {
     "id": "MZURORN2025-236",
-    "name": "Sylvia atricapilla (Linnaeus, 1758)",
+    "name": "Sylvia atricapilla  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Sylviidae",
     "genus": "Sylvia",
@@ -3181,7 +3193,7 @@
   },
   {
     "id": "MZURORN2025-237",
-    "name": "Sylvia atricapilla (Linnaeus, 1758)",
+    "name": "Sylvia atricapilla  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Sylviidae",
     "genus": "Sylvia",
@@ -3193,7 +3205,7 @@
   },
   {
     "id": "MZURORN2025-229",
-    "name": "Sylvia borin (Boddaert, 1783)",
+    "name": "Sylvia borin  (Boddaert, 1783)",
     "order": "Passeriformes",
     "family": "Sylviidae",
     "genus": "Sylvia",
@@ -3205,7 +3217,7 @@
   },
   {
     "id": "MZURORN2025-230",
-    "name": "Sylvia borin (Boddaert, 1783)",
+    "name": "Sylvia borin  (Boddaert, 1783)",
     "order": "Passeriformes",
     "family": "Sylviidae",
     "genus": "Sylvia",
@@ -3217,7 +3229,7 @@
   },
   {
     "id": "MZURORN2025-227",
-    "name": "Sylvia cantillans (Pallas, 1764)",
+    "name": "Sylvia cantillans  (Pallas, 1764)",
     "order": "Passeriformes",
     "family": "Sylviidae",
     "genus": "Sylvia",
@@ -3229,7 +3241,7 @@
   },
   {
     "id": "MZURORN2025-228",
-    "name": "Sylvia hortensis (J.F. Gmelin, 1789)",
+    "name": "Sylvia hortensis  (J.F. Gmelin, 1789)",
     "order": "Passeriformes",
     "family": "Sylviidae",
     "genus": "Sylvia",
@@ -3241,7 +3253,7 @@
   },
   {
     "id": "MZURORN2025-070",
-    "name": "Tachybaptus ruficollis (Pallas, 1764)",
+    "name": "Tachybaptus ruficollis  (Pallas, 1764)",
     "order": "Podicipediformes",
     "family": "Podicipedidae",
     "genus": "Tachybaptus",
@@ -3253,7 +3265,7 @@
   },
   {
     "id": "MZURORN2025-008",
-    "name": "Trichoglossus moluccanus (Gmelin, 1788)",
+    "name": "Trichoglossus moluccanus  (Gmelin, 1788)",
     "order": "Psittaciformes",
     "family": "Psittaculidae",
     "genus": "Trichoglossus",
@@ -3265,7 +3277,7 @@
   },
   {
     "id": "MZURORN2025-113",
-    "name": "Tringa erythropus (Pallas, 1764)",
+    "name": "Tringa erythropus  (Pallas, 1764)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Tringa",
@@ -3277,7 +3289,7 @@
   },
   {
     "id": "MZURORN2025-118",
-    "name": "Tringa nebularia (Gunnerus, 1767)",
+    "name": "Tringa nebularia  (Gunnerus, 1767)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Tringa",
@@ -3289,7 +3301,7 @@
   },
   {
     "id": "MZURORN2025-114",
-    "name": "Tringa ochropus Linnaeus, 1758",
+    "name": "Tringa ochropus  Linnaeus, 1758",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Tringa",
@@ -3301,7 +3313,7 @@
   },
   {
     "id": "MZURORN2025-111",
-    "name": "Tringa totanus (Linnaeus, 1758)",
+    "name": "Tringa totanus  (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Scolopacidae",
     "genus": "Tringa",
@@ -3312,20 +3324,8 @@
     "uncertainty": "28880"
   },
   {
-    "id": "MZURORN2025-012",
-    "name": "Trochilidae",
-    "order": "Apodiformes",
-    "family": "Trochilidae",
-    "genus": "",
-    "locality": "",
-    "country": "Ecuador",
-    "lat": -2.0,
-    "lon": -78.0,
-    "uncertainty": "100000"
-  },
-  {
     "id": "MZURORN2025-194",
-    "name": "Troglodytes troglodytes (Linnaeus, 1758)",
+    "name": "Troglodytes troglodytes  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Troglodytidae",
     "genus": "Troglodytes",
@@ -3337,7 +3337,7 @@
   },
   {
     "id": "MZURORN2025-195",
-    "name": "Troglodytes troglodytes (Linnaeus, 1758)",
+    "name": "Troglodytes troglodytes  (Linnaeus, 1758)",
     "order": "Passeriformes",
     "family": "Troglodytidae",
     "genus": "Troglodytes",
@@ -3349,7 +3349,7 @@
   },
   {
     "id": "MZURORN2025-218",
-    "name": "Turdus iliacus Linnaeus, 1758",
+    "name": "Turdus iliacus  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Turdidae",
     "genus": "Turdus",
@@ -3361,7 +3361,7 @@
   },
   {
     "id": "MZURORN2025-220",
-    "name": "Turdus iliacus Linnaeus, 1758",
+    "name": "Turdus iliacus  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Turdidae",
     "genus": "Turdus",
@@ -3373,7 +3373,7 @@
   },
   {
     "id": "MZURORN2025-216",
-    "name": "Turdus merula Linnaeus, 1758",
+    "name": "Turdus merula  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Turdidae",
     "genus": "Turdus",
@@ -3385,7 +3385,7 @@
   },
   {
     "id": "MZURORN2025-219",
-    "name": "Turdus merula Linnaeus, 1758",
+    "name": "Turdus merula  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Turdidae",
     "genus": "Turdus",
@@ -3397,7 +3397,7 @@
   },
   {
     "id": "MZURORN2025-221",
-    "name": "Turdus philomelos Brehm, 1831",
+    "name": "Turdus philomelos  C.L. Brehm, 1831",
     "order": "Passeriformes",
     "family": "Turdidae",
     "genus": "Turdus",
@@ -3409,7 +3409,7 @@
   },
   {
     "id": "MZURORN2025-222",
-    "name": "Turdus philomelos Brehm, 1831",
+    "name": "Turdus philomelos  C.L. Brehm, 1831",
     "order": "Passeriformes",
     "family": "Turdidae",
     "genus": "Turdus",
@@ -3421,7 +3421,7 @@
   },
   {
     "id": "MZURORN2025-217",
-    "name": "Turdus torquatus Linnaeus, 1758",
+    "name": "Turdus torquatus  Linnaeus, 1758",
     "order": "Passeriformes",
     "family": "Turdidae",
     "genus": "Turdus",
@@ -3433,7 +3433,7 @@
   },
   {
     "id": "MZURORN2025-171",
-    "name": "Tyto alba (Scopoli, 1769)",
+    "name": "Tyto alba  (Scopoli, 1769)",
     "order": "Strigiformes",
     "family": "Tytonidae",
     "genus": "Tyto",
@@ -3445,7 +3445,7 @@
   },
   {
     "id": "MZURORN2025-180",
-    "name": "Upupa epops Linnaeus, 1758",
+    "name": "Upupa epops  Linnaeus, 1758",
     "order": "Bucerotiformes",
     "family": "Upupidae",
     "genus": "Upupa",
@@ -3457,7 +3457,7 @@
   },
   {
     "id": "MZURORN2025-181",
-    "name": "Upupa epops Linnaeus, 1758",
+    "name": "Upupa epops  Linnaeus, 1758",
     "order": "Bucerotiformes",
     "family": "Upupidae",
     "genus": "Upupa",
@@ -3469,7 +3469,7 @@
   },
   {
     "id": "MZURORN2025-182",
-    "name": "Upupa epops Linnaeus, 1758",
+    "name": "Upupa epops  Linnaeus, 1758",
     "order": "Bucerotiformes",
     "family": "Upupidae",
     "genus": "Upupa",
@@ -3481,7 +3481,7 @@
   },
   {
     "id": "MZURORN2025-184",
-    "name": "Upupa epops Linnaeus, 1758",
+    "name": "Upupa epops  Linnaeus, 1758",
     "order": "Bucerotiformes",
     "family": "Upupidae",
     "genus": "Upupa",
@@ -3493,7 +3493,7 @@
   },
   {
     "id": "MZURORN2025-100",
-    "name": "Vanellus vanellus (Linnaeus, 1758)",
+    "name": "Vanellus vanellus  (Linnaeus, 1758)",
     "order": "Charadriiformes",
     "family": "Charadriidae",
     "genus": "Vanellus",
